@@ -16,12 +16,6 @@ DrawString_hook:
 .pool
 
 .org 0x087F8000 ; should be free space to put code
-;.definelabel Font,0x08657D60
-;.definelabel EngFont,0x08657D60
-;.definelabel UpscaleLUT,0x084C7608
-
-.sym on
-
 .definelabel v20183E8, 0x020183E8
 .definelabel current_music_track, 0x020183E8
 
@@ -43,8 +37,6 @@ DrawString_hook:
 .definelabel sub_8001EC4, 0x08001EC5
 .definelabel sub_8086598, 0x08086599
 .definelabel sub_806B504, 0x0806B505
-
-.arm
 
 .align 4
 .importlib "asm/c_replacements/lib/libc_replacements.a"

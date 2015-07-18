@@ -11,16 +11,15 @@ extern void sub_8001EC4(int a1);
 extern int sub_8086598(int a1, int a2, u32 a3);
 extern void sub_806B504(int a1);
 
-extern u16 v20183E8;
-extern u16 current_music_track;
-
-extern u16 v201B366;
-extern u16 v30014C4;
-extern u16 v300159C; //input?
-extern u32 v30018F0;
-extern u16 v300190C;
-extern u16 v300192C; //input?
-extern u8 byte_862A01C[8];
-extern u8 byte_862CC3C[20];
+#define v20183E8 (*(u16*)0x020183E8)
+#define current_music_track (*(u16*)0x020183E8)
+#define v201B366 (*(u16*)0x0201B366)
+#define v30014C4 (*(u16*)0x030014C4)
+#define v300159C (*(u16*)0x0300159C)
+#define v30018F0 (*(u32*)0x030018F0)
+#define v300190C (*(u16*)0x0300190C)
+#define v300192C (*(u16*)0x0300192C)
+#define byte_862A01C ((u8*)0x0862A01C)
+#define byte_862CC3C ((u8*)0x0862CC3C)
 
 #endif
