@@ -1,0 +1,20 @@
+STATUS: Validatating gr.
+WARNING:   No explicit src path.
+STATUS: Validation succeeded.
+STATUS: Started run at: 2015-07-12, 17:39:03
+STATUS: Validatating gr.
+STATUS: Validation succeeded.
+STATUS: Preparing data.
+STATUS: Work-DIB creation.
+WARNING:   converting from 4 bpp to 4 bpp.
+STATUS: Work-DIB creation complete: 128x320@8.
+STATUS:   Performing tile reduction: unique tiles; flip; palswap; 
+STATUS: Map preparation complete.
+STATUS: Graphics preparation.
+STATUS:   Bitpacking: 8 -> 4.
+STATUS: Graphics preparation complete.
+STATUS: Palette preparation.
+STATUS: Palette preparation complete.
+STATUS: Data preparation complete.
+STATUS: Export to binary files.
+STATUS: Run completed :).
