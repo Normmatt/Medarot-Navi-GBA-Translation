@@ -10,6 +10,8 @@ extern void ClearTiles(void *dst, int len_divide16, u32 src);
 extern void sub_8001EC4(int a1);
 extern int sub_8086598(int a1, int a2, u32 a3);
 extern void sub_806B504(int a1);
+extern u8 eng_font_bin[];
+extern u8 eng_font_widths_bin[];
 
 #define v20183E8 (*(u16*)0x020183E8)
 #define current_music_track (*(u16*)0x020183E8)
@@ -21,5 +23,7 @@ extern void sub_806B504(int a1);
 #define v300192C (*(u16*)0x0300192C)
 #define byte_862A01C ((u8*)0x0862A01C)
 #define byte_862CC3C ((u8*)0x0862CC3C)
+#define Font ((u8*)0x08657D60)
+#define ConversionLUT ((u16*)0x084C7608)
 
 #endif

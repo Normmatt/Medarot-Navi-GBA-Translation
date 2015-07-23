@@ -2,9 +2,22 @@
 #include "code.h"
 #include "rt.h"
 #include "code.h"
+//#include "eng_font_bin.h"
+//#include "eng_font_widths_bin.h"
 
 #include <string.h>
 #include <stdlib.h>
+
+typedef union
+{
+    struct {
+        unsigned char tile; //Max of 0x3F
+        unsigned char overflow; //Max of 8
+        unsigned char drawn; //Number of characters drawn
+        unsigned char english; //Toggle new font?
+    } bytes;
+    unsigned int current_character;
+} CharInfo;
 
 typedef struct struct_string
 {
@@ -13,9 +26,15 @@ typedef struct struct_string
     u16 word6;
     s16 delay;
     u8 option;
-    s8 byteB;
-    s32 current_character;
+    s8 byteB; //abuse for new font stuff
+    CharInfo info;
 } struct_string;
+
+#define VWF
+
+#ifdef VWF
+void DrawCharacterVWF(u32 *destination, u16 character, u16 fg_color, u16 bg_color, struct_string *current_string);
+#endif
 
 s32 DrawString(struct_string *current_string)
 {
@@ -54,7 +73,7 @@ s32 DrawString(struct_string *current_string)
 				
 				current_string->word6 = 0;
 				// Use upper bits of v1->current_character to store tile number for use here instead of current_character this well let us make a VWF.
-				DrawCharacter((u8 *)(((current_string->current_character++ & 0x3F) * 0x40) + 0x6000B40), kanji, 0x1111u, v30018F0);
+				DrawCharacter((u8 *)(((current_string->info.bytes.tile++ & 0x3F) * 0x40) + 0x6000B40), kanji, 0x1111u, v30018F0);
 				
 				//extra handling here? what is this for exactly?
 				u8 curCharacter = *current_string->string_pointer;
@@ -119,6 +138,17 @@ s32 DrawString(struct_string *current_string)
 				}
 				return 0;
 			}
+			case 0xE3: //Long Jump
+			{
+				current_string->string_pointer = (u8*)(current_string->string_pointer[2]<<16 | current_string->string_pointer[1]<<8 | current_string->string_pointer[0]<<0 | 0x08000000);
+				//DrawString(current_string);
+				return 0;
+			}
+			case 0xE4: //Toggle New Font
+			{
+				current_string->info.bytes.english ^= 1;
+				return 0;
+			}
 			case 0xE5: //Set Delay
 			{
 				u8 temp = *current_string->string_pointer++;
@@ -135,13 +165,14 @@ s32 DrawString(struct_string *current_string)
 			}
 			case 0xF1: //New Line
 			{
-				current_string->current_character = 32; //Set this to second row of tiles.
+				current_string->info.bytes.tile = 32; //Set this to second row of tiles.
+				current_string->info.bytes.overflow = 0;
 				return 0;
 			}
 			case 0xF2: //Wait for key press and end current string
 			{
 				int temp;
-				current_string->current_character = 0;
+				current_string->info.bytes.tile = 0;
 				sub_8086598((int)&temp, (int)0x080E08F8, 2u); //reads two bytes from 0x080E08F8 (why the fuck isn't this just a direct read? why the temporary variable?)
 				DrawCharacter(
 					(u8 *)(((byte_862A01C[v300190C] & 0x3F) << 6) + 0x6000B40),
@@ -196,9 +227,9 @@ s32 DrawString(struct_string *current_string)
 					current_string->word6 = 0;
 					return 0;
 				}
-				u8 *dest = (u8 *)(((current_string->current_character & 0x3F) * 0x40) + 0x6000B40);
+				u8 *dest = (u8 *)(((current_string->info.bytes.tile & 0x3F) * 0x40) + 0x6000B40);
 				DrawCharacter(dest, curCharacter, 0x1111u, v30018F0);  // Used for F9 (Medarot name)
-				++current_string->current_character;
+				++current_string->info.bytes.tile;
 				--current_string->string_pointer;
 				return 0;
 			}
@@ -206,7 +237,14 @@ s32 DrawString(struct_string *current_string)
 			{
 				current_string->word6 = 0;
 				// Use upper bits of v1->current_character to store tile number for use here instead of current_character this well let us make a VWF.
-				DrawCharacter((u8 *)(((current_string->current_character++ & 0x3F) * 0x40) + 0x6000B40), character, 0x1111u, v30018F0);
+			#ifdef VWF
+				if(current_string->info.bytes.english)
+					DrawCharacterVWF((u32 *)(((current_string->info.bytes.tile & 0x3F) * 0x40) + 0x6000B40), character, 0x1111u, v30018F0, current_string);
+				else
+					DrawCharacter((u8 *)(((current_string->info.bytes.tile++ & 0x3F) * 0x40) + 0x6000B40), character, 0x1111u, v30018F0);
+			#else
+				DrawCharacter((u8 *)(((current_string->info.bytes.tile++ & 0x3F) * 0x40) + 0x6000B40), character, 0x1111u, v30018F0);
+			#endif
 				
 				//extra handling here? what is this for exactly?
 				u8 curCharacter = *current_string->string_pointer;
@@ -242,3 +280,68 @@ s32 DrawString(struct_string *current_string)
 	--current_string->delay;
 	return 0;
 }
+
+#ifdef VWF
+void DrawCharacterVWF(u32 *destination, u16 character, u16 fg_color, u16 bg_color, struct_string *current_string)
+{
+	//TODO: Support the other special cases like heart symbol and maybe kanji?
+	u32 empty_bg = (bg_color << 16) | bg_color;
+	u32 empty_fg = (fg_color << 16) | fg_color;
+	const int font_padding_top = 4;
+	const int font_height = 10;
+	const int font_padding_bottom = 16-font_height-font_padding_top;
+	u8 *src = (u8*)&eng_font_bin[font_height * character];
+	u32 *dest2 = (u32*)(destination+0x10);
+	
+	//TODO: Make a Lookup Table for this
+	//const int curWidth = 8;
+	const int curWidth = eng_font_widths_bin[character];
+	
+	for(int j=0; j<font_padding_top; j++)
+		*destination++ = empty_bg;
+	
+	if((current_string->info.bytes.overflow+curWidth) >= 8)
+	{
+		for(int i=0; i<16; i++)
+		{
+			*dest2++ = empty_bg;
+		}
+	}
+	
+	//special case vwf stuff
+	for(int i=0; i<font_height; i++)
+	{
+		u32 temp1 = ConversionLUT[*src >> 4] | (ConversionLUT[*src & 0xF]<<16);
+		u32 temp2 = (empty_fg & temp1) | (empty_bg & ~temp1); //final row of 4bpp
+		
+		//VWF START
+		//NOTE: this doesn't trim any unused space in the source so it copies the entire 8 pixels so make sure any unused pixels are set as bg palette
+		u32 shift_amount1 = (4*current_string->info.bytes.overflow);
+		u32 shift_amount2 = 0x20 - shift_amount1;
+		
+		*destination <<= shift_amount2;
+		*destination >>= shift_amount2;
+		*destination |= temp2 << shift_amount1;
+		
+		u32 *spill_dest = (u32*)(destination+0x10);
+		*spill_dest >>= shift_amount1;
+		*spill_dest <<= shift_amount1;
+		*spill_dest |= temp2 >> shift_amount2;
+		//VWF END
+		
+		destination++;
+		++src;
+	}
+	
+	for(int j=0; j<font_padding_bottom; j++)
+		*destination++ = empty_bg;
+	
+	current_string->info.bytes.overflow += curWidth;
+	
+	if(current_string->info.bytes.overflow >= 8)
+	{
+		current_string->info.bytes.tile++;
+		current_string->info.bytes.overflow -= 8;
+	}
+}
+#endif

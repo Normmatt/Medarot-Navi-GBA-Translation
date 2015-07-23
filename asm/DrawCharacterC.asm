@@ -1,4 +1,4 @@
- ; Medarot Navi 8x16 font hack by Normmatt and Spikeman
+ ; Medarot Navi hack by Normmatt
 
 .gba				; Set the architecture to GBA
 .open "rom/output.gba",0x08000000		; Open input.gba for output.
@@ -16,6 +16,8 @@ DrawString_hook:
 .pool
 
 .org 0x087F8000 ; should be free space to put code
+.arm
+
 .definelabel v20183E8, 0x020183E8
 .definelabel current_music_track, 0x020183E8
 
@@ -27,6 +29,8 @@ DrawString_hook:
 .definelabel v300192C, 0x0300192C
 .definelabel byte_862A01C, 0x0862A01C
 .definelabel byte_862CC3C, 0x0862CC3C
+.definelabel Font, 0x08657D60
+.definelabel ConversionLUT, 0x084C7608
 
 .definelabel SetCharacterPortrait, 0x080023D5
 .definelabel sub_8006F1C, 0x08006F1D
@@ -41,6 +45,10 @@ DrawString_hook:
 .align 4
 .importlib "asm/c_replacements/lib/libc_replacements.a"
 
+eng_font_bin: 
+	.incbin "asm/bin/eng_font.bin"
+eng_font_widths_bin: 
+	.incbin "asm/bin/eng_font_widths.bin"
 .close
 
  ; make sure to leave an empty line at the end

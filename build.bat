@@ -8,6 +8,7 @@ cd ./asm/c_replacements/
 call domake.bat
 cd ./../../
 armips.exe asm/Cheats.asm
-armips.exe asm/DrawCharacterC.asm
+armips.exe asm/DrawCharacterC.asm -sym symfile.sym
 armips.exe asm/gfx.asm
+armips.exe asm/script/script.asm
 pause
