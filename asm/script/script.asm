@@ -151,6 +151,7 @@
 .include "script_345/pointers.asm"
 .include "script_355/pointers.asm"
 .include "script_360/pointers.asm"
+.include "menu/pointers.asm"
 
 
 ; Include all the files with strings
@@ -295,6 +296,7 @@
 .include "script_345/strings.asm"
 .include "script_355/strings.asm"
 .include "script_360/strings.asm"
+.include "menu/strings.asm"
 
 .close
 
