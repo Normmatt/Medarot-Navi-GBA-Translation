@@ -39,3 +39,27 @@
 .org 0x08603FB4
 	.word 0xE3|((id_151_subid_16_string16-0x08000000)<<8)
 
+.org 0x08603FD7
+	.word 0xE3|((id_151_subid_16_string17-0x08000000)<<8)
+
+.org 0x08603FE8
+	.word 0xE3|((id_151_subid_16_string18-0x08000000)<<8)
+
+.org 0x0860400A
+	.word 0xE3|((id_151_subid_16_string19-0x08000000)<<8)
+
+.org 0x08604037
+	.word 0xE3|((id_151_subid_16_string20-0x08000000)<<8)
+
+.org 0x0860406B
+	.word 0xE3|((id_151_subid_16_string21-0x08000000)<<8)
+
+.org 0x08604088
+	.word 0xE3|((id_151_subid_16_string22-0x08000000)<<8)
+
+.org 0x08604098
+	.word 0xE3|((id_151_subid_16_string23-0x08000000)<<8)
+
+.org 0x086040BB
+	.word 0xE3|((id_151_subid_16_string24-0x08000000)<<8)
+

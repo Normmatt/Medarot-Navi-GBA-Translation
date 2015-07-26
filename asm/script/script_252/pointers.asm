@@ -15,3 +15,12 @@
 .org 0x085DDC19
 	.word 0xE3|((id_252_subid_0_string5-0x08000000)<<8)
 
+.org 0x085DDC20
+	.word 0xE3|((id_252_subid_0_string6-0x08000000)<<8)
+
+.org 0x085DDC7B
+	.word 0xE3|((id_252_subid_0_string7-0x08000000)<<8)
+
+.org 0x085DDC9B
+	.word 0xE3|((id_252_subid_0_string8-0x08000000)<<8)
+

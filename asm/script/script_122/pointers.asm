@@ -27,3 +27,12 @@
 .org 0x085F5797
 	.word 0xE3|((id_122_subid_0_string10-0x08000000)<<8)
 
+.org 0x085F57B2
+	.word 0xE3|((id_122_subid_0_string11-0x08000000)<<8)
+
+.org 0x085F57D3
+	.word 0xE3|((id_122_subid_0_string12-0x08000000)<<8)
+
+.org 0x085F57E5
+	.word 0xE3|((id_122_subid_0_string13-0x08000000)<<8)
+

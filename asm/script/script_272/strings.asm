@@ -30,18 +30,51 @@ id_272_subid_0_string10:
 id_272_subid_0_string12:
 	.string "<F:03>ぐふっ!"
 
-id_272_subid_7_string14:
+id_272_subid_0_string13:
+	.string "<F:06>(なに 考えてんのよ!)<NL><WAIT>(安全第一の 管理コンピュータに<NL> 敵の アジトだって 言ったら)<WAIT>(外に 出して もらえなく なるでしょ!)"
+
+id_272_subid_0_string14:
+	.string "<F:14>あれ? 今 ヒヨリちゃん<NL><PLAYER>に<WAIT>なんか せえヘん かったか?<WAIT><F:1D>よく 見えなかったで やんすけど<NL>なんか なぐった ような…?"
+
+id_272_subid_0_string15:
+	.string "<F:0D>そーかぁ? ひんけつの かいほうじゃない?<NL>かれ よく うずくまるし…"
+
+id_272_subid_0_string16:
+	.string "<F:12>ああ あ あの 小わく星は…<NL>う うちの 秘密さいくつ所 なんだよ<WAIT>社長の ボクしか 知らない<NL>機密じこう なのさ…"
+
+id_272_subid_0_string17:
+	.string "<F:53>そうですか わかリました<NL>接眩じゅんびに 入リます"
+
+id_272_subid_0_string18:
+	.string "<F:06>ったく!<NL>バカしょうじき なのも 考えもの よね"
+
+id_272_subid_0_string19:
+	.string "<F:04>でも…<NL>"
+
+id_272_subid_0_string20:
+	.string "<F:04>(ナビだって<NL> 大切な 仲間だと 思うんだけど…)"
+
+id_272_subid_0_string21:
+	.string "<F:8E>おお <PLAYER>くん…<NL><WAIT>ナビとの 会話ログを チェックしたが<NL>どうやら 『本拠地』に むかうようじゃな!"
+
+id_272_subid_0_string22:
+	.string "<F:03>あっ 博士!<WAIT><F:04>そのことは ナビの前では…"
+
+id_272_subid_0_string23:
+	.string "<F:8E>わかっておる<NL>いろいろ 言いたいことは あるが…<WAIT>他に 手は ないのじゃろう<NL>…ところで<WAIT>通信が とぎれぬように キミの<NL>メダロッチの プログラムを アップデートし<WAIT>クラスターと<NL>交信できる ように してやろう<WAIT><F:00>あリがとうございます 博士!"
+
+id_272_subid_7_string25:
 	.string "<F:53><F5>ゃニワカさん…<NL><E5>"
 
-id_272_subid_7_string15:
+id_272_subid_7_string26:
 	.string "<F:22>…だれ?<NL><WAIT>…ナビ?<NL><WAIT>わたしが… 変わらない…?"
 
-id_272_subid_7_string16:
+id_272_subid_7_string27:
 	.string "<F:53>わたしは…<NL><WAIT>人間とは<NL>わたしたち きかいと ちがい<WAIT>日々 ヘんかし<NL>しんぽする ものだと 思っていました…<WAIT>しかし あなたは<NL>全く ヘんかして いません<WAIT>人間よリ むしろ…<NL><WAIT>わたしたち きかいに<NL>ちかいように 見えます…"
 
-id_272_subid_7_string17:
+id_272_subid_7_string28:
 	.string "<F:22>ナビ… あなたは…!"
 
-id_272_subid_13_string30:
+id_272_subid_13_string41:
 	.string "<F:04>(ニワカくん・・・<NL> かなリ 落ちこんでるけど・・・)"
 

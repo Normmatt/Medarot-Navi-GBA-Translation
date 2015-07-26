@@ -165,15 +165,12 @@
 .org 0x0860E842
 	.word 0xE3|((id_280_subid_24_string62-0x08000000)<<8)
 
-.org 0x08610A6C
+.org 0x0860E8B6
 	.word 0xE3|((id_280_subid_24_string63-0x08000000)<<8)
 
-.org 0x0860E8B6
-	.word 0xE3|((id_280_subid_24_string65-0x08000000)<<8)
-
 .org 0x0860E8FB
-	.word 0xE3|((id_280_subid_24_string66-0x08000000)<<8)
+	.word 0xE3|((id_280_subid_24_string64-0x08000000)<<8)
 
 .org 0x0860E950
-	.word 0xE3|((id_280_subid_24_string67-0x08000000)<<8)
+	.word 0xE3|((id_280_subid_24_string65-0x08000000)<<8)
 

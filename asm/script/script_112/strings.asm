@@ -51,6 +51,9 @@ id_112_subid_22_string23:
 id_112_subid_22_string24:
 	.string "<F:0A>ふん やっぱリ たいしたことないな<WAIT><F:6D>ぐぐぐぐ…<NL>"
 
+id_112_subid_22_string25:
+	.string "<F:6F>たいきゃくでごわす"
+
 id_112_subid_41_string31:
 	.string "<F:02>あった あった!"
 

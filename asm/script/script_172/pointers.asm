@@ -15,3 +15,6 @@
 .org 0x086059C3
 	.word 0xE3|((id_172_subid_0_string5-0x08000000)<<8)
 
+.org 0x086059D4
+	.word 0xE3|((id_172_subid_0_string6-0x08000000)<<8)
+

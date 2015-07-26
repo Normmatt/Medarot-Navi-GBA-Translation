@@ -15,3 +15,6 @@ id_172_subid_0_string4:
 id_172_subid_0_string5:
 	.string "<F:04>やっぱリ イタイタしいな…"
 
+id_172_subid_0_string6:
+	.string "<F:07>さーーーーぁ!<NL>食ベても 食ベても 食ベきれないわぁ!"
+

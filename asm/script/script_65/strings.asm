@@ -49,5 +49,5 @@ id_65_subid_22_string27:
 	.string "<F:04>・・・・"
 
 id_65_subid_22_string28:
-	.string "ムノエウオカムスエ"
+	.string "<F:02>えぇい!<NL>入っちゃえ!"
 

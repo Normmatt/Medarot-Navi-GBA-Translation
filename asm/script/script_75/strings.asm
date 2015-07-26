@@ -105,3 +105,27 @@ id_75_subid_2_string35:
 id_75_subid_2_string36:
 	.string "<F:06>ちょっと あんたねえっ!"
 
+id_75_subid_2_string37:
+	.string "<F:06>こたえなさいよ!"
+
+id_75_subid_2_string38:
+	.string "<F:01>(こんなの ぜんぶ<NL> 相手になんか してられないよ!)<WAIT>(いくら こいつが 強くったって・・・!)"
+
+id_75_subid_2_string39:
+	.string "<F:59>(こっちだよ)<NL>"
+
+id_75_subid_2_string40:
+	.string "<F:59>(ここ ここだよ)"
+
+id_75_subid_2_string41:
+	.string "<F:04>…やってみるしか ないか"
+
+id_75_subid_2_string42:
+	.string "<F:01><MEDAROT1>!<NL>あそこを ねらうんだ!<WAIT>オレたちが たすかる道は それしかないっ!"
+
+id_75_subid_2_string43:
+	.string "<F:08>あ… あんた なにしたのよ!!<WAIT><F:12>バカな・・・っ!<NL><WAIT>こんなことが 起こるはずが ないっ!!"
+
+id_75_subid_2_string44:
+	.string "<F:03>(これは・・・メダフォース!?)"
+

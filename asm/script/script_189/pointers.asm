@@ -27,3 +27,6 @@
 .org 0x08625660
 	.word 0xE3|((id_189_subid_9_string9-0x08000000)<<8)
 
+.org 0x08625671
+	.word 0xE3|((id_189_subid_9_string10-0x08000000)<<8)
+

@@ -51,6 +51,9 @@
 .org 0x0860BDA3
 	.word 0xE3|((id_112_subid_22_string24-0x08000000)<<8)
 
+.org 0x0860BDC1
+	.word 0xE3|((id_112_subid_22_string25-0x08000000)<<8)
+
 .org 0x0860BE2F
 	.word 0xE3|((id_112_subid_41_string31-0x08000000)<<8)
 

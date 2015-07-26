@@ -15,7 +15,7 @@
 .org 0x0860452A
 	.word 0xE3|((id_152_subid_11_string6-0x08000000)<<8)
 
-.org 0x0861384F
+.org 0x08604545
 	.word 0xE3|((id_152_subid_11_string7-0x08000000)<<8)
 
 .org 0x08604569
@@ -24,7 +24,7 @@
 .org 0x086045A2
 	.word 0xE3|((id_152_subid_11_string9-0x08000000)<<8)
 
-.org 0x0860B64F
+.org 0x086045C3
 	.word 0xE3|((id_152_subid_11_string10-0x08000000)<<8)
 
 .org 0x086045F9

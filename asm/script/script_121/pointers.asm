@@ -39,24 +39,27 @@
 .org 0x085F51C6
 	.word 0xE3|((id_121_subid_13_string15-0x08000000)<<8)
 
-.org 0x085F63D0
+.org 0x085F51F2
 	.word 0xE3|((id_121_subid_13_string16-0x08000000)<<8)
 
-.org 0x085F523C
+.org 0x085F520B
 	.word 0xE3|((id_121_subid_13_string17-0x08000000)<<8)
 
-.org 0x085F525B
+.org 0x085F523C
 	.word 0xE3|((id_121_subid_13_string18-0x08000000)<<8)
 
-.org 0x085F5299
+.org 0x085F525B
 	.word 0xE3|((id_121_subid_13_string19-0x08000000)<<8)
 
-.org 0x085F5361
-	.word 0xE3|((id_121_subid_13_string21-0x08000000)<<8)
+.org 0x085F5299
+	.word 0xE3|((id_121_subid_13_string20-0x08000000)<<8)
 
-.org 0x085F5368
+.org 0x085F5361
 	.word 0xE3|((id_121_subid_13_string22-0x08000000)<<8)
 
-.org 0x085F52C7
+.org 0x085F5368
 	.word 0xE3|((id_121_subid_13_string23-0x08000000)<<8)
+
+.org 0x085F52C7
+	.word 0xE3|((id_121_subid_13_string24-0x08000000)<<8)
 

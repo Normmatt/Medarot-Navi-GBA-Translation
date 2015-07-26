@@ -70,5 +70,53 @@ id_72_subid_0_string23:
 	.string "<F:60>現在 クラスター内にいる 人員は…<NL>"
 
 id_72_subid_0_string24:
+	.string "<F:60>げ ゲストの 子供たちだけです!"
+
+id_72_subid_0_string25:
 	.string "<F:06>なに ボーっと してるのよ!<NL><WAIT><PLAYER>の いばしょ<NL>知ってるんでしょ?<WAIT>おしえなさいよ!"
+
+id_72_subid_0_string26:
+	.string "<F:03>あれ? ヒヨリ"
+
+id_72_subid_0_string27:
+	.string "<F:06>あれ? じゃないわよっ!<NL>どこに いたのよっ!"
+
+id_72_subid_0_string28:
+	.string "<F:09>わたっ わたしが どんな思いで・・・っ<WAIT><F:00>もしかして ヒヨリ・・・<WAIT><F:02>心配してくれてたの?"
+
+id_72_subid_0_string29:
+	.string "<F:06>ばかっ!"
+
+id_72_subid_0_string30:
+	.string "<F:03>あいだっ!"
+
+id_72_subid_0_string31:
+	.string "<F:04>(ふつう 女の子が グーでなぐるか?)<NL><WAIT>(グーでっ・・・)"
+
+id_72_subid_0_string32:
+	.string "<F:05>あんた あの男に<NL>なにか されたんじゃないの?<WAIT>なんともない?<NL>だいじょうぶなの?"
+
+id_72_subid_0_string34:
+	.string "<F:03>わっ!<WAIT><F:08>きゃあっ!"
+
+id_72_subid_0_string35:
+	.string "<F:03>ふぎゃっ<WAIT><F:08>きゃっ!"
+
+id_72_subid_0_string36:
+	.string "<F:06>どこ さわってんのよ!"
+
+id_72_subid_0_string37:
+	.string "<F:04>(もう ふんだリけったリ・・・)"
+
+id_72_subid_0_string38:
+	.string "<F:05>でも・・・ やばいわね<NL><WAIT>どうなるのかしら?<NL>わたしたち・・・"
+
+id_72_subid_0_string39:
+	.string "<F:04>どういうこと?<NL><WAIT>さっきも すごいゆれが あったけど<NL>なにが 起こってるんだ?"
+
+id_72_subid_0_string40:
+	.string "<F:05>クラスターが ひょうリゅうを 始めたみたいよ<NL><WAIT><F:03>・・・は?"
+
+id_72_subid_0_string41:
+	.string "<F:05>わたしたち…<NL><WAIT>こリつしちゃったかもって ことよ!"
 

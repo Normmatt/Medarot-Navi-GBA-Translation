@@ -12,15 +12,18 @@
 .org 0x08621B5C
 	.word 0xE3|((id_124_subid_7_string5-0x08000000)<<8)
 
-.org 0x08621BA6
+.org 0x08621B6A
 	.word 0xE3|((id_124_subid_7_string6-0x08000000)<<8)
 
-.org 0x08621BBA
+.org 0x08621BA6
 	.word 0xE3|((id_124_subid_7_string7-0x08000000)<<8)
 
-.org 0x08621DCC
+.org 0x08621BBA
 	.word 0xE3|((id_124_subid_7_string8-0x08000000)<<8)
 
-.org 0x086268B5
+.org 0x08621BC5
 	.word 0xE3|((id_124_subid_7_string9-0x08000000)<<8)
+
+.org 0x08621C05
+	.word 0xE3|((id_124_subid_7_string10-0x08000000)<<8)
 

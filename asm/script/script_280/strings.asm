@@ -166,14 +166,11 @@ id_280_subid_24_string62:
 	.string "<F:06>なによ… そうに 決まってる でしょ!<NL><WAIT>実力が あるなら ロボトルで<NL>勝負を いどんで くるわよ!<WAIT>クラスターで わたしたちに<NL>負けどおし だったから<WAIT>勝ち目が 無いと 思って<NL>こんなこと してるのよ!"
 
 id_280_subid_24_string63:
-	.string "カアウカウ"
-
-id_280_subid_24_string65:
 	.string "<F:6D>がまん できんでごわすーーーー!!!<NL><WAIT>そこまで 言われて 勝負から にげては<NL>スペロボ団の 名おれでごわすぅーーー!!!"
 
-id_280_subid_24_string66:
+id_280_subid_24_string64:
 	.string "<F:04>さすが・・・<NL><WAIT>人の しんけいを さかなで するのは<NL>超一流 だな…"
 
-id_280_subid_24_string67:
+id_280_subid_24_string65:
 	.string "<F:6D>ぐうぅぅぅ…<NL><WAIT><F:6C>ま まぁ いいでごわす…<NL><WAIT>どうせ おまえたちは<NL>ここで おしまいでごわす!"
 

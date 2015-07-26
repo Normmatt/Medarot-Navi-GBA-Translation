@@ -21,33 +21,42 @@
 .org 0x0861CEF0
 	.word 0xE3|((id_315_subid_3_string7-0x08000000)<<8)
 
+.org 0x0861CF2F
+	.word 0xE3|((id_315_subid_3_string8-0x08000000)<<8)
+
+.org 0x0861CF3D
+	.word 0xE3|((id_315_subid_3_string9-0x08000000)<<8)
+
 .org 0x0861CFF2
-	.word 0xE3|((id_315_subid_31_string40-0x08000000)<<8)
-
-.org 0x0861D00D
-	.word 0xE3|((id_315_subid_31_string41-0x08000000)<<8)
-
-.org 0x0861D021
-	.word 0xE3|((id_315_subid_31_string42-0x08000000)<<8)
-
-.org 0x0861D032
 	.word 0xE3|((id_315_subid_31_string43-0x08000000)<<8)
 
-.org 0x0861D093
+.org 0x0861D00D
+	.word 0xE3|((id_315_subid_31_string44-0x08000000)<<8)
+
+.org 0x0861D021
 	.word 0xE3|((id_315_subid_31_string45-0x08000000)<<8)
 
-.org 0x0861D0A5
+.org 0x0861D032
 	.word 0xE3|((id_315_subid_31_string46-0x08000000)<<8)
 
-.org 0x0861D0C5
-	.word 0xE3|((id_315_subid_31_string47-0x08000000)<<8)
-
-.org 0x0861D0DC
+.org 0x0861D088
 	.word 0xE3|((id_315_subid_31_string48-0x08000000)<<8)
 
-.org 0x0861D169
+.org 0x0861D093
 	.word 0xE3|((id_315_subid_31_string49-0x08000000)<<8)
 
-.org 0x0861D190
+.org 0x0861D0A5
 	.word 0xE3|((id_315_subid_31_string50-0x08000000)<<8)
+
+.org 0x0861D0C5
+	.word 0xE3|((id_315_subid_31_string51-0x08000000)<<8)
+
+.org 0x0861D0DC
+	.word 0xE3|((id_315_subid_31_string52-0x08000000)<<8)
+
+.org 0x0861D169
+	.word 0xE3|((id_315_subid_31_string53-0x08000000)<<8)
+
+.org 0x0861D190
+	.word 0xE3|((id_315_subid_31_string54-0x08000000)<<8)
 

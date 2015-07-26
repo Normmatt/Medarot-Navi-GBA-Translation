@@ -36,3 +36,24 @@
 .org 0x085DE113
 	.word 0xE3|((id_256_subid_0_string14-0x08000000)<<8)
 
+.org 0x085DE123
+	.word 0xE3|((id_256_subid_0_string15-0x08000000)<<8)
+
+.org 0x085DE13D
+	.word 0xE3|((id_256_subid_0_string16-0x08000000)<<8)
+
+.org 0x085DE163
+	.word 0xE3|((id_256_subid_0_string17-0x08000000)<<8)
+
+.org 0x085DE174
+	.word 0xE3|((id_256_subid_0_string18-0x08000000)<<8)
+
+.org 0x085DE1B1
+	.word 0xE3|((id_256_subid_0_string19-0x08000000)<<8)
+
+.org 0x085DE1B9
+	.word 0xE3|((id_256_subid_0_string20-0x08000000)<<8)
+
+.org 0x085DE1C2
+	.word 0xE3|((id_256_subid_0_string21-0x08000000)<<8)
+

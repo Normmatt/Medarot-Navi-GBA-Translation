@@ -1,5 +1,5 @@
 ; Medarot Navi Translation
-; Number of Scripts 140
+; Number of Scripts 142
 
 .gba				; Set the architecture to GBA
 .open "rom/output.gba",0x08000000	; Open input.gba for output.
@@ -63,6 +63,7 @@
 .include "script_136/pointers.asm"
 .include "script_137/pointers.asm"
 .include "script_139/pointers.asm"
+.include "script_141/pointers.asm"
 .include "script_142/pointers.asm"
 .include "script_144/pointers.asm"
 .include "script_146/pointers.asm"
@@ -142,6 +143,7 @@
 .include "script_295/pointers.asm"
 .include "script_300/pointers.asm"
 .include "script_305/pointers.asm"
+.include "script_310/pointers.asm"
 .include "script_315/pointers.asm"
 .include "script_320/pointers.asm"
 .include "script_325/pointers.asm"
@@ -208,6 +210,7 @@
 .include "script_136/strings.asm"
 .include "script_137/strings.asm"
 .include "script_139/strings.asm"
+.include "script_141/strings.asm"
 .include "script_142/strings.asm"
 .include "script_144/strings.asm"
 .include "script_146/strings.asm"
@@ -287,6 +290,7 @@
 .include "script_295/strings.asm"
 .include "script_300/strings.asm"
 .include "script_305/strings.asm"
+.include "script_310/strings.asm"
 .include "script_315/strings.asm"
 .include "script_320/strings.asm"
 .include "script_325/strings.asm"

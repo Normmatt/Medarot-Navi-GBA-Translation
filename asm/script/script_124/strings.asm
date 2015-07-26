@@ -13,14 +13,17 @@ id_124_subid_7_string5:
 	.string "<F:7D>考えたくないロボ…"
 
 id_124_subid_7_string6:
-	.string "<F:7D>…そうロボ…<WAIT><F:80>そうロボ!!"
+	.string "<F:7E>ちがうロボ!<WAIT><F:7E>ここが オレ達の スタートラインロボ!<NL><PLAYER>を たおして<WAIT>それを てみやげに がいせんするロボ!"
 
 id_124_subid_7_string7:
-	.string "<F:7D>負けたロボ…"
+	.string "<F:7D>…そうロボ…<WAIT><F:80>そうロボ!!"
 
 id_124_subid_7_string8:
-	.string "タオウモニペアオエモハペ"
+	.string "<F:7D>負けたロボ…"
 
 id_124_subid_7_string9:
-	.string "うレトルト!<NL>ただいま さんじょう!!"
+	.string "<F:7E>まだロボ!<NL><WAIT>今までは 敵に うしろを 見せていたから<NL>こんな目に あってるロボ!<WAIT>うしろを 見せちゃダメロボ!"
+
+id_124_subid_7_string10:
+	.string "<F:80>そうロボ! わかったロボ!<NL>うしろを 見せずに にげるロボ!"
 

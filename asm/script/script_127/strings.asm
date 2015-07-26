@@ -39,3 +39,24 @@ id_127_subid_0_string12:
 id_127_subid_0_string13:
 	.string "<F:03>(やっぱリ 怖い…)"
 
+id_127_subid_0_string14:
+	.string "<F:06>もう!<NL><WAIT>また そんなこと 言って!<NL>このブロック 返してもらうわよ!"
+
+id_127_subid_0_string15:
+	.string "<F:73>…きっと… また… 会える…"
+
+id_127_subid_0_string16:
+	.string "<F:80>さ さよならロボォー"
+
+id_127_subid_0_string17:
+	.string "<F:0D>あーぁ せっかく 腕だめしできると<NL>思ったのに"
+
+id_127_subid_0_string18:
+	.string "<F:19>そうでやんす<WAIT><F:14>リーダーに いいとこ 見せそこねたわ"
+
+id_127_subid_0_string19:
+	.string "<F:0A>ところで ヒヨリ…<NL><WAIT>あのキリカって 幹部には<NL>みょうにからむな?"
+
+id_127_subid_0_string20:
+	.string "<F:08>えっ! そ そうかしら…"
+

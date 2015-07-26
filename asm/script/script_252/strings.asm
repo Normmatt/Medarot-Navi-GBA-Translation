@@ -15,3 +15,12 @@ id_252_subid_0_string4:
 id_252_subid_0_string5:
 	.string "<F:7D>・・・<NL>"
 
+id_252_subid_0_string6:
+	.string "<F:80>な なにロボ! なに するロボ!<NL><WAIT><F:00>なにも しないよ<NL>出ていって くれれば<WAIT><F:7D>そうは いかないロボ<NL>とっくんの せいかを 見るロボ<WAIT><F:00>とっくんって ゲリラ戦の?<NL>"
+
+id_252_subid_0_string7:
+	.string "<F:7D>ちがうロボ!<NL>えーっと…<E5>"
+
+id_252_subid_0_string8:
+	.string "<F:81>お おかしいロボ…<NL>とっくんの せいかが あらわれないロボ…"
+

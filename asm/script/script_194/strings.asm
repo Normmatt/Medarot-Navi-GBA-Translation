@@ -27,3 +27,9 @@ id_194_subid_0_string8:
 id_194_subid_0_string9:
 	.string "<F:70>さぁ おとなしくなさい!"
 
+id_194_subid_0_string10:
+	.string "<F:71>もう!<NL><WAIT>そこまで ろこつに<NL>いやがらなくても いいじゃないのさ!<WAIT>レディに 対して しつれいじゃないの!"
+
+id_194_subid_0_string11:
+	.string "<F:04>どうするんだ? これ…"
+

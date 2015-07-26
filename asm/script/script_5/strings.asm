@@ -37,35 +37,80 @@ id_5_subid_0_string15:
 	.string "<F:03>わーーーー! ケムシだーーーー!"
 
 id_5_subid_0_string16:
-	.string "シカアイイホア9ツイおカアアイソシアソナ"
+	.string "<F:01>なんなんだよ いったいー"
 
-id_5_subid_7_string17:
+id_5_subid_0_string17:
+	.string "<F:05>(・・・これは 委員長の しわざね)"
+
+id_5_subid_0_string18:
+	.string "<F:05>(<PLAYER>も ほんとに<NL> ドン感なんだから・・・)"
+
+id_5_subid_0_string19:
+	.string "<F:06>(・・・だけど 委員長のヤツ<NL> 一度 しめた方が よさそうね)"
+
+id_5_subid_0_string20:
+	.string "<F:22>さあ みなさん よリ道は いけませんよ<NL><WAIT>これは 社会ベんきょう なんですからね!<NL><WAIT>あそびに 行くんじゃあリませんからね!"
+
+id_5_subid_0_string21:
+	.string "<F:06>気に 食わないわね あいつ…<NL><WAIT>わがもの顔で しきっちゃって えっらそーに"
+
+id_5_subid_0_string22:
+	.string "<F:23>そこ! さわがしいですよ!"
+
+id_5_subid_0_string23:
+	.string "<F:03>す すみません・・・"
+
+id_5_subid_0_string24:
+	.string "<F:06>ふーんだ"
+
+id_5_subid_0_string25:
+	.string "<F:03>(なんで オレが あやまるんだよー)"
+
+id_5_subid_0_string27:
+	.string "<F:06>なに やってんのよ もう!<NL><WAIT>先に 行ってるわよ!"
+
+id_5_subid_0_string28:
+	.string "<F:03>ちょ… ちょっと まってよー"
+
+id_5_subid_7_string29:
 	.string "<F:22>みなさん おリましたよ<NL><WAIT>あとは あなただけです!"
 
-id_5_subid_49_string18:
+id_5_subid_49_string30:
 	.string "<F:22><PLAYER>くん ちょっと いいかね?"
 
-id_5_subid_49_string20:
+id_5_subid_49_string32:
 	.string "<F:07><PLAYER>は どこに 行ったの?"
 
-id_5_subid_49_string21:
+id_5_subid_49_string33:
 	.string "<F:36>あら?<NL><WAIT>さっき 委員長と なにか<NL>話してたみたい だったけど?"
 
-id_5_subid_49_string22:
+id_5_subid_49_string34:
 	.string "<F:05>ふうん・・・"
 
-id_5_subid_49_string23:
+id_5_subid_49_string35:
 	.string "<F:04>ここって・・・?<NL><WAIT>勝手に 入っても いいのかな?"
 
-id_5_subid_49_string24:
+id_5_subid_49_string36:
 	.string "<F:04>うぅん…"
 
-id_5_subid_49_string25:
+id_5_subid_49_string37:
 	.string "<F:04>なんで 委員長は こんなとこに…"
 
-id_5_subid_49_string26:
+id_5_subid_49_string38:
 	.string "<F:03>シャッターが しまってる!"
 
-id_5_subid_49_string27:
+id_5_subid_49_string39:
 	.string "<F:03>おーい 委員長!<NL><WAIT>どこに いるんだよー!"
+
+id_5_subid_49_string40:
+	.string "<F:01>出発時間が せまってるってのに!"
+
+id_5_subid_49_string41:
+	.string "<F:04>こまったな…"
+
+id_5_subid_49_string42:
+	.string "<F:06>みえみえの ワナに かかるなんて<NL>ほんっとに ドジなのね あんたは"
+
+id_5_subid_49_string43:
+	.string "<F:04>(なんか たすけられても<NL> すなおに よろこベない・・・)"
 

@@ -48,6 +48,6 @@
 .org 0x0861BBCC
 	.word 0xE3|((id_65_subid_22_string27-0x08000000)<<8)
 
-.org 0x0861CD2F
+.org 0x0861BBD3
 	.word 0xE3|((id_65_subid_22_string28-0x08000000)<<8)
 

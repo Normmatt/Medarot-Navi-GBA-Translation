@@ -21,6 +21,24 @@ id_290_subid_15_string7:
 id_290_subid_15_string8:
 	.string "<F:0A>あんまリ 無理すんなよ…<NL><WAIT>オレたち 敵とは いえ<NL>あんたの事 心配 してんだぜ"
 
-id_290_subid_27_string16:
+id_290_subid_15_string9:
+	.string "<F:76>お…おのれ…<NL>子供ごときに 情けを かけられる とは!!<WAIT>わたしの いしんも 地に 落ちたものよ!<NL><WAIT>こうなったら ロボトルで 勝負だ!<NL><WAIT>わたしが 本当は 強いというところを<NL>見せてやる! …ぐほっ げほっ!!"
+
+id_290_subid_15_string10:
+	.string "<F:77>くっ…こうなったら こうたいして…げほっ<WAIT><F:75>戦力の…ごふっ…たてなおしだ!<NL>"
+
+id_290_subid_15_string11:
+	.string "<F:75>…しかし ここを<NL>ただで 明けわたすと 思うなよ…"
+
+id_290_subid_15_string12:
+	.string "<F:76>…フン!"
+
+id_290_subid_15_string13:
+	.string "<F:75>…ふう 少しは 生気が みなぎってきたぞ!<NL>さらばだ!"
+
+id_290_subid_15_string14:
+	.string "<F:05>ますます バケモノじみて きたわね…<NL>"
+
+id_290_subid_27_string22:
 	.string "<F:04>みんな 勝手に 行っちゃうんだもんなぁ…"
 

@@ -100,38 +100,41 @@ id_136_subid_10_string33:
 	.string "<F:04>あの… キミたち…"
 
 id_136_subid_10_string34:
-	.string "<F:04>宇宙メダロット… ミストラルか…<NL>なぜって… なぜ オレが?"
+	.string "<F:40>うるさい <PLAYER>!<NL><WAIT>ヒヨリちゃんと おさななじみなことと いい<NL>なんで おまえばかリ モテるんだよ!<WAIT>メダロットだって<NL>オレたちの方が よく知ってるのに<WAIT>おまえが 宇宙メダロットを 発見して<NL>ゆうめいになるし!<WAIT>なんで おまえなんだよ?<WAIT><F:42>なぜ おまえなのにゃー?<WAIT><F:44>なぜ うぬでござんすか?"
 
 id_136_subid_10_string35:
-	.string "<F:40>たまたま なんだよ!<NL><WAIT><PLAYER>は 運が<NL>いいだけなんだよ!<WAIT><F:42>運が いいだけなのにゃー!<WAIT><F:44>運が いいだけでござんす!"
+	.string "<F:04>宇宙メダロット… ミストラルか…<NL>なぜって… なぜ オレが?"
 
 id_136_subid_10_string36:
-	.string "<F:04>…運…"
+	.string "<F:40>たまたま なんだよ!<NL><WAIT><PLAYER>は 運が<NL>いいだけなんだよ!<WAIT><F:42>運が いいだけなのにゃー!<WAIT><F:44>運が いいだけでござんす!"
 
 id_136_subid_10_string37:
-	.string "<F:73>…ロボトル… いくわよ…"
+	.string "<F:04>…運…"
 
 id_136_subid_10_string38:
-	.string "<F:73>…<PLAYER>…<NL>また… 会える…"
+	.string "<F:73>…ロボトル… いくわよ…"
 
 id_136_subid_10_string39:
-	.string "<F:04>運か… 確かに オレは…"
+	.string "<F:73>…<PLAYER>…<NL>また… 会える…"
 
 id_136_subid_10_string40:
-	.string "<F:05>ちょっと あなたたち<NL>今の ロボトル 見たでしょ?<WAIT><PLAYER>は<NL>運だけじゃないって わかった?<WAIT>勝手に バラバラになってる みんなを<NL><WAIT>まとめようと せいいっぱい<NL>がんばってるでしょ?<WAIT>勝手に 行動して<NL>もんくばっかリ 言ってるだけなんて<WAIT>ちょっと カッコ悪いぞ!"
+	.string "<F:04>運か… 確かに オレは…"
 
 id_136_subid_10_string41:
-	.string "<F:3F>そリゃ… 思うけど…<WAIT><F:41>思うのにゃー<WAIT><F:43>思うでござ…"
+	.string "<F:05>ちょっと あなたたち<NL>今の ロボトル 見たでしょ?<WAIT><PLAYER>は<NL>運だけじゃないって わかった?<WAIT>勝手に バラバラになってる みんなを<NL><WAIT>まとめようと せいいっぱい<NL>がんばってるでしょ?<WAIT>勝手に 行動して<NL>もんくばっかリ 言ってるだけなんて<WAIT>ちょっと カッコ悪いぞ!"
 
 id_136_subid_10_string42:
-	.string "<F:06>ホラッ!<NL><WAIT>人に 合わせてないで<NL>自分の 考えを 言わなくっちゃ ダメよ!<WAIT>それ つまんないわよ!"
+	.string "<F:3F>そリゃ… 思うけど…<WAIT><F:41>思うのにゃー<WAIT><F:43>思うでござ…"
 
 id_136_subid_10_string43:
-	.string "<F:41>わかったのにゃ…<WAIT><F:41>確かに…<NL><PLAYER>は がんばってるのにゃー<WAIT><F:43>リーダーと 認めて<NL>すけだちするでござんす…"
+	.string "<F:06>ホラッ!<NL><WAIT>人に 合わせてないで<NL>自分の 考えを 言わなくっちゃ ダメよ!<WAIT>それ つまんないわよ!"
 
 id_136_subid_10_string44:
-	.string "<F:04>ミストラルは なぜ オレを…<NL>"
+	.string "<F:41>わかったのにゃ…<WAIT><F:41>確かに…<NL><PLAYER>は がんばってるのにゃー<WAIT><F:43>リーダーと 認めて<NL>すけだちするでござんす…"
 
 id_136_subid_10_string45:
+	.string "<F:04>ミストラルは なぜ オレを…<NL>"
+
+id_136_subid_10_string46:
 	.string "<F:3F>シンスイが なかまに なった!<NL><WAIT><F:41>アマアシが なかまに なった!<NL><WAIT><F:43>ニゲミズが なかまに なった!"
 

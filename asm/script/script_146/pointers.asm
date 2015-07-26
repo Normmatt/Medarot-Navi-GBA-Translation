@@ -51,3 +51,9 @@
 .org 0x0861C2F0
 	.word 0xE3|((id_146_subid_7_string20-0x08000000)<<8)
 
+.org 0x0861C373
+	.word 0xE3|((id_146_subid_7_string21-0x08000000)<<8)
+
+.org 0x0861C388
+	.word 0xE3|((id_146_subid_7_string22-0x08000000)<<8)
+

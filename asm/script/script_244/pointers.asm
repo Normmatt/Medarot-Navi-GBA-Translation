@@ -30,33 +30,33 @@
 .org 0x086277D2
 	.word 0xE3|((id_244_subid_0_string11-0x08000000)<<8)
 
-.org 0x08627E26
+.org 0x08627817
 	.word 0xE3|((id_244_subid_0_string12-0x08000000)<<8)
 
-.org 0x08627817
+.org 0x08627831
 	.word 0xE3|((id_244_subid_0_string13-0x08000000)<<8)
 
-.org 0x08627831
+.org 0x08627843
 	.word 0xE3|((id_244_subid_0_string14-0x08000000)<<8)
 
-.org 0x08627843
+.org 0x0862785A
 	.word 0xE3|((id_244_subid_0_string15-0x08000000)<<8)
 
-.org 0x0862785A
-	.word 0xE3|((id_244_subid_0_string16-0x08000000)<<8)
-
 .org 0x086278AC
-	.word 0xE3|((id_244_subid_0_string18-0x08000000)<<8)
+	.word 0xE3|((id_244_subid_0_string17-0x08000000)<<8)
 
 .org 0x086278D3
-	.word 0xE3|((id_244_subid_0_string19-0x08000000)<<8)
+	.word 0xE3|((id_244_subid_0_string18-0x08000000)<<8)
 
 .org 0x08627904
-	.word 0xE3|((id_244_subid_0_string20-0x08000000)<<8)
+	.word 0xE3|((id_244_subid_0_string19-0x08000000)<<8)
 
 .org 0x0862794E
-	.word 0xE3|((id_244_subid_0_string22-0x08000000)<<8)
+	.word 0xE3|((id_244_subid_0_string21-0x08000000)<<8)
 
 .org 0x086279A7
+	.word 0xE3|((id_244_subid_0_string22-0x08000000)<<8)
+
+.org 0x08627A01
 	.word 0xE3|((id_244_subid_0_string23-0x08000000)<<8)
 

@@ -27,3 +27,12 @@ id_122_subid_0_string9:
 id_122_subid_0_string10:
 	.string "<F:6C>…しかたがないでごわす<WAIT><F:6F>勝負でごわす!"
 
+id_122_subid_0_string11:
+	.string "<F:6D>おまえたち 力が 足リんでごわす<WAIT><F:81>もうしわけないロボ"
+
+id_122_subid_0_string12:
+	.string "<F:04>なにを しようとしてたのかな?"
+
+id_122_subid_0_string13:
+	.string "<F:05>そんなことは どうでもいいの<NL><WAIT>さっさと 進みましょ"
+

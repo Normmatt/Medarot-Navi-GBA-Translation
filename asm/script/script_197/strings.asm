@@ -21,3 +21,27 @@ id_197_subid_0_string6:
 id_197_subid_0_string7:
 	.string "<F:81>な なにも そこまで 言ってないロボ<NL><WAIT>ニュウドウ様 落ちついて ほしいロボ"
 
+id_197_subid_0_string8:
+	.string "<F:6D>だまるでごわす!<NL><WAIT>こうなったら おまえたちの 根性を<NL>たたきなおすでごわす!"
+
+id_197_subid_0_string9:
+	.string "<F:03>あれ? なにやってんの?<NL>仲間われ?"
+
+id_197_subid_0_string10:
+	.string "<F:6F>ぬぉあっ! きさまは <PLAYER>!<NL>"
+
+id_197_subid_0_string11:
+	.string "<F:6D>おのれぇーーーー<NL><WAIT><F:6D>すでに おびき出して<NL>おったでごわすかーーー?"
+
+id_197_subid_0_string12:
+	.string "<F:81>ち 違うロボ!<NL>勝手に のぼってきたロボよ!<WAIT><F:81>もう ニュウドウ様を<NL>うらぎったリ しないロボ!"
+
+id_197_subid_0_string13:
+	.string "<F:6C>では ロボトルで<NL>それを 証明するでごわす!!"
+
+id_197_subid_0_string14:
+	.string "<F:6D>ふがいないでごわす!!<NL>やはリ じごくの 大特訓でごわすーーー!!"
+
+id_197_subid_0_string15:
+	.string "<F:80>前よリ きびしいロボーーーー!!"
+

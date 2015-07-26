@@ -12,3 +12,18 @@ id_207_subid_0_string3:
 id_207_subid_12_string6:
 	.string "<F:77>ぐほっ… あのなぁ おまえら…"
 
+id_207_subid_12_string8:
+	.string "<F:77>ぐぉーほっぐぇほっごほっ…<NL>"
+
+id_207_subid_12_string9:
+	.string "<F:77>お… おまえらーーーーっ!! …こほっ<NL>"
+
+id_207_subid_12_string10:
+	.string "<F:77>ま… またしても…<NL><WAIT>おまえらのせいで このブロックを<NL>あっさリ てばなす ハメに…<WAIT><F:81>もしかして 今回もロボ?"
+
+id_207_subid_12_string11:
+	.string "<F:77>当然… ひるめし ヌキだ… ごほっ…"
+
+id_207_subid_12_string12:
+	.string "<F:81>もうしわけないロボ!<NL><WAIT>かんベんして ほしいロボー!<NL>"
+

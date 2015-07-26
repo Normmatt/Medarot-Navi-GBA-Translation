@@ -30,18 +30,21 @@
 .org 0x08629446
 	.word 0xE3|((id_4_subid_0_string10-0x08000000)<<8)
 
-.org 0x08629467
+.org 0x0862945C
 	.word 0xE3|((id_4_subid_0_string11-0x08000000)<<8)
 
-.org 0x08629489
+.org 0x08629467
 	.word 0xE3|((id_4_subid_0_string12-0x08000000)<<8)
 
-.org 0x086294C2
+.org 0x08629489
 	.word 0xE3|((id_4_subid_0_string13-0x08000000)<<8)
 
-.org 0x086294D9
+.org 0x086294C2
 	.word 0xE3|((id_4_subid_0_string14-0x08000000)<<8)
 
-.org 0x086294F0
+.org 0x086294D9
 	.word 0xE3|((id_4_subid_0_string15-0x08000000)<<8)
+
+.org 0x086294F0
+	.word 0xE3|((id_4_subid_0_string16-0x08000000)<<8)
 

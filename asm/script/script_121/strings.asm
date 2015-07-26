@@ -40,23 +40,26 @@ id_121_subid_13_string15:
 	.string "<F:7D>たくさんの バクダンに じゅうてんするのに<NL>まだ しばらく時間が かかるロボ!"
 
 id_121_subid_13_string16:
-	.string "かないのです!"
+	.string "<F:6D>なぜ それを はやく 言わないでごわす!!"
 
 id_121_subid_13_string17:
-	.string "<F:05>じゃあ それまでに さっさと<NL>ロボトルを すませましょ!"
+	.string "<F:7D>言うひまが 無かったロボ!<WAIT><F:7D>言う前に ニュウドウ様が<NL>あっさリ けいかくを…"
 
 id_121_subid_13_string18:
-	.string "<F:6E>ふはははは!<NL>前回は ふかくを とったでごわすが<WAIT><F:6C>まともに やれば<NL>もとよリ 負ける気が しないでごわす!"
+	.string "<F:05>じゃあ それまでに さっさと<NL>ロボトルを すませましょ!"
 
 id_121_subid_13_string19:
+	.string "<F:6E>ふはははは!<NL>前回は ふかくを とったでごわすが<WAIT><F:6C>まともに やれば<NL>もとよリ 負ける気が しないでごわす!"
+
+id_121_subid_13_string20:
 	.string "<F:06>こっちこそ のぞむところよ!<NL><WAIT>さぁ 行きなさい!<NL><PLAYER>!!"
 
-id_121_subid_13_string21:
+id_121_subid_13_string22:
 	.string "<F:6D>くぅ…"
 
-id_121_subid_13_string22:
+id_121_subid_13_string23:
 	.string "<F:6D>おぼえてるでごわす!"
 
-id_121_subid_13_string23:
+id_121_subid_13_string24:
 	.string "<F:05>ところで 本当に<NL>ふんかなんて するのかしら?<WAIT><F:09>そんな 危険な しかけ<NL>わざわざ 作らないと 思うんだけど…<WAIT><F:00>うん ふつう ジオラマ 作るだけだよな"
 

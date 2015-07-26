@@ -36,3 +36,24 @@ id_256_subid_0_string13:
 id_256_subid_0_string14:
 	.string "<F:7D>ちょっと つかれたロボ…"
 
+id_256_subid_0_string15:
+	.string "<F:7D>お おまえら<NL>こんな ところで なにしてるロボ"
+
+id_256_subid_0_string16:
+	.string "<F:7E>おそいロボ!<NL><WAIT>あやうく このブロックを<NL>うばわれる ところだったロボ"
+
+id_256_subid_0_string17:
+	.string "<F:0A>さぁ そろそろ はじめようか"
+
+id_256_subid_0_string18:
+	.string "<F:81>けっきょく やられたロボ…<NL><WAIT>まとめて やられるくらいなら…<NL><WAIT>もうすこし ゆっくリしてきたら<NL>よかったロボ…"
+
+id_256_subid_0_string19:
+	.string "<F:7E>なにロボ!"
+
+id_256_subid_0_string20:
+	.string "<F:7E>待つロボ!"
+
+id_256_subid_0_string21:
+	.string "<F:04>スペロボ団も大変だな"
+

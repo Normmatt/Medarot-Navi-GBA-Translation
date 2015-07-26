@@ -39,3 +39,27 @@ id_151_subid_16_string15:
 id_151_subid_16_string16:
 	.string "<F:66>そう そいつらだ!<NL><WAIT>よく知ってるな もしかして 仲間か?"
 
+id_151_subid_16_string17:
+	.string "<F:06>ちがうわ! そのぎゃくよ!<NL>"
+
+id_151_subid_16_string18:
+	.string "<F:05><PLAYER> ついでに この子の 右腕も<NL>とリ返しちゃいましょ!"
+
+id_151_subid_16_string19:
+	.string "<F:03>あっ! おまえら!<NL><WAIT><F:01>悪者の くせに<NL>ほあんかんの じむしょに いるなんて!"
+
+id_151_subid_16_string20:
+	.string "<F:79>ばかもの!<NL><WAIT>この せいぶブロックの 支配者は<NL>オレ様のような ものこそ ふさわしいのだ!"
+
+id_151_subid_16_string21:
+	.string "<F:7A>ちっ!<NL>せっかく ガンマンきどリで いたってのに…"
+
+id_151_subid_16_string22:
+	.string "<F:7A>必ず とリもどすからな!"
+
+id_151_subid_16_string23:
+	.string "<F:66>おんに きるぜ…<NL><WAIT>オレのパーツ 好きに 使ってくれや!<NL>"
+
+id_151_subid_16_string24:
+	.string "<F:03>え? でも それじゃ キミは…<NL><WAIT><F:66>なあに 気にしないでくれ<NL>実は じむしょに スペアが あるのさ"
+

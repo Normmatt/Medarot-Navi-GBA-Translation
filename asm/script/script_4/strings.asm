@@ -31,17 +31,20 @@ id_4_subid_0_string10:
 	.string "<F:60>あちらで おきゃくさまが お待ちです"
 
 id_4_subid_0_string11:
-	.string "<F:0F>すまない!<NL><WAIT>いそぎの ようじが<NL>はいったので しつれいする!"
+	.string "<F:12>あっ! そうか!"
 
 id_4_subid_0_string12:
-	.string "<F:0F>ミーティングに はいるので<NL>話は できないけど<WAIT>ロボトルくらいなら<NL>リモートコントロールで さんかするよ!"
+	.string "<F:0F>すまない!<NL><WAIT>いそぎの ようじが<NL>はいったので しつれいする!"
 
 id_4_subid_0_string13:
-	.string "<F:0C>ああいう ところは 変わってないな…"
+	.string "<F:0F>ミーティングに はいるので<NL>話は できないけど<WAIT>ロボトルくらいなら<NL>リモートコントロールで さんかするよ!"
 
 id_4_subid_0_string14:
-	.string "<F:04>これじゃ だれに わたせば いいのか…"
+	.string "<F:0C>ああいう ところは 変わってないな…"
 
 id_4_subid_0_string15:
+	.string "<F:04>これじゃ だれに わたせば いいのか…"
+
+id_4_subid_0_string16:
 	.string "<F:07>いいじゃない!<NL><WAIT><F:07>じっくリ ブロックを 見ながら<NL>聞いて まわリましょうよ!"
 

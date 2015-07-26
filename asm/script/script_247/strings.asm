@@ -21,3 +21,9 @@ id_247_subid_0_string6:
 id_247_subid_0_string7:
 	.string "<F:7D>あ! この 前の 中学生ロボ!<WAIT><F:7E>お気に入リの うらみロボ"
 
+id_247_subid_0_string8:
+	.string "<F:80>また とリに 来るロボ!<NL>さわっちゃ ダメロボ!"
+
+id_247_subid_0_string9:
+	.string "<F:04>さわるって なにを?"
+

@@ -21,33 +21,42 @@ id_315_subid_3_string6:
 id_315_subid_3_string7:
 	.string "<F:56>ああ…<NL><E5>"
 
-id_315_subid_31_string40:
-	.string "<F:03>これは…<NL><WAIT>スペロボ団の アジトじゃないか?"
+id_315_subid_3_string8:
+	.string "<F:07>あぁーん! もうっ!<NL>"
 
-id_315_subid_31_string41:
-	.string "<F:14>なんで こんなとこに あるんやろ?"
-
-id_315_subid_31_string42:
-	.string "<F:0A>ん? なんだ このチューブ?"
+id_315_subid_3_string9:
+	.string "<F:07>カワイィーーーーーっ!<NL>この子 ほしい!"
 
 id_315_subid_31_string43:
-	.string "<F:03>ああーーーっ!<NL><WAIT>これは クラスターの 接眩チューブだ!"
+	.string "<F:03>これは…<NL><WAIT>スペロボ団の アジトじゃないか?"
+
+id_315_subid_31_string44:
+	.string "<F:14>なんで こんなとこに あるんやろ?"
 
 id_315_subid_31_string45:
-	.string "<F:04>あいつら なかに いるのかな?"
+	.string "<F:0A>ん? なんだ このチューブ?"
 
 id_315_subid_31_string46:
-	.string "<F:54>生命はんのうは あリません<NL>もぬけの からの ようです"
-
-id_315_subid_31_string47:
-	.string "<F:1C>あ!<NL><WAIT>なにか はリがみが あるでやんす"
+	.string "<F:03>ああーーーっ!<NL><WAIT>これは クラスターの 接眩チューブだ!"
 
 id_315_subid_31_string48:
-	.string "<F:57>『おまえら! さしたチューブは<NL> ちゃんと ぬいとけよな!』<WAIT>『でも おかげで はじめて<NL> せいふくする たいしょうを<WAIT> 見つけたわい!』<NL><WAIT>『さっそく 侵リゃくを 開始するので<NL><WAIT> わがはいの ジャマを するんじゃないぞ!<NL>          カザンバイきょうじゅ』"
+	.string "<F:08>うそぉーーーー!"
 
 id_315_subid_31_string49:
-	.string "<F:08>もう 全員 出て行ったって いうの?<WAIT><F:00>行動力 あるなぁ"
+	.string "<F:04>あいつら なかに いるのかな?"
 
 id_315_subid_31_string50:
+	.string "<F:54>生命はんのうは あリません<NL>もぬけの からの ようです"
+
+id_315_subid_31_string51:
+	.string "<F:1C>あ!<NL><WAIT>なにか はリがみが あるでやんす"
+
+id_315_subid_31_string52:
+	.string "<F:57>『おまえら! さしたチューブは<NL> ちゃんと ぬいとけよな!』<WAIT>『でも おかげで はじめて<NL> せいふくする たいしょうを<WAIT> 見つけたわい!』<NL><WAIT>『さっそく 侵リゃくを 開始するので<NL><WAIT> わがはいの ジャマを するんじゃないぞ!<NL>          カザンバイきょうじゅ』"
+
+id_315_subid_31_string53:
+	.string "<F:08>もう 全員 出て行ったって いうの?<WAIT><F:00>行動力 あるなぁ"
+
+id_315_subid_31_string54:
 	.string "<F:0F>とにかく 先を 急ごう!<NL><WAIT>スペロボ団が 先に 行ってると なると<NL><WAIT>下手を すると こう星間戦争にまで<NL>発展しかねないぞ!"
 

@@ -16,7 +16,7 @@ id_152_subid_11_string6:
 	.string "<F:03>あっ キミ!?<NL><WAIT><F:03>また やられちゃったの?<NL>"
 
 id_152_subid_11_string7:
-	.string "あったら<WAIT>きっと こうかいするよ!<NL><WAIT>オレは そんなの いやだ!"
+	.string "<F:66>おっ <PLAYER>じゃねえか!<NL>こリゃ はずかしいトコ 見られちゃったな!"
 
 id_152_subid_11_string8:
 	.string "<F:05>また 右腕を とられているみたいね<NL><WAIT><F:05><PLAYER> ついでに この子の 右腕も<NL>とリ返しちゃいましょ!"
@@ -25,7 +25,7 @@ id_152_subid_11_string9:
 	.string "<F:01>おまえら! しょうこリもなく<NL>また じむしょに いるなんて!"
 
 id_152_subid_11_string10:
-	.string " フブキって<NL> きゃしゃだし・・・)<WAIT>(まるで 女の子みたいね・・・<NL><WAIT> あんがい ずぼしだったリして・・・)"
+	.string "<F:7A>ばかもの!<NL><WAIT><F:7B>この せいぶブロックの 支配者は<NL>オレ様のような ものこそ ふさわしいのだ!"
 
 id_152_subid_11_string11:
 	.string "<F:7A>ちっ!<NL>せっかく ガンマンきどリで いたってのに…"

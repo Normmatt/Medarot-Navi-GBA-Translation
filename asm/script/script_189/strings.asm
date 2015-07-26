@@ -27,3 +27,6 @@ id_189_subid_9_string8:
 id_189_subid_9_string9:
 	.string "<F:80>ここに いたら キケンロボ!"
 
+id_189_subid_9_string10:
+	.string "<F:80>そうロボ!<NL>にげるロボ!"
+

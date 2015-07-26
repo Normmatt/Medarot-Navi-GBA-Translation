@@ -22,56 +22,83 @@ id_196_subid_0_string7:
 	.string "<F:80>仲間ロボ!<NL>チームワークが できてるロボ!"
 
 id_196_subid_0_string8:
-	.string "ウアVトオウマノイ"
-
-id_196_subid_0_string9:
 	.string "<F:6D>ちがーーーーーう!!<NL>分からんのか!?"
 
-id_196_subid_0_string10:
+id_196_subid_0_string9:
 	.string "<F:6D>むこうが 強いのではない!<NL>おいどんらの 根性が 足リんのでごわす!<WAIT>おいどんらに 今 必要なのは<NL>きびしい 特訓でごわす!!"
 
-id_196_subid_0_string11:
+id_196_subid_0_string10:
 	.string "<F:81>と… 特訓ロボ?<NL><WAIT>それだけは かんベんしてほしいロ…"
 
-id_196_subid_0_string13:
-	.string "アエイホアをクカキウカコイイホカケウカクイイホカク"
+id_196_subid_0_string11:
+	.string "<F:6D>ばかもーーーーーーん!<NL><WAIT>そんなことだから 負けるでごわす!<NL><WAIT>さっそく この山を<NL>うさぎとびで のぼるでごわす!"
 
-id_196_subid_2_string14:
+id_196_subid_0_string12:
+	.string "<F:81>この山を ロボ!?<NL>そ それは 大変ロボ!!<WAIT><F:6C>それが 根性の 足リない 証拠でごわす!<NL>やはリ なんとしても 特訓するでごわす!"
+
+id_196_subid_0_string13:
+	.string "<F:7D>まずいロボ… このままでは…<NL>特訓で ボロボロに されてしまうロボ…<WAIT>なんとか 特訓から<NL>のがれる すベを 探すロボ…"
+
+id_196_subid_0_string14:
+	.string "<F:80>あっ! アレロボ!!"
+
+id_196_subid_0_string15:
+	.string "<F:7F>なるほどロボ!<NL><WAIT>ロボトルに なれば<NL>特訓なんて ふきとぶロボ!!<WAIT>ちょうはつするロボ! ちょうはつするロボ!!"
+
+id_196_subid_0_string17:
+	.string "<F:05>ん? なにあれ…"
+
+id_196_subid_0_string18:
+	.string "<F:80>おーーーい ここロボ!<NL>こっちに 来るロボ!"
+
+id_196_subid_0_string20:
+	.string "<F:06>なに いってんの?<NL>ワナに 決まってるじゃない!"
+
+id_196_subid_0_string21:
+	.string "<F:14>そやそや!<NL>むざむざ ワナに かかる 必要ないで!!<WAIT><F:19>信じちゃ ダメでやんす!<WAIT><F:04>そうかなぁ…"
+
+id_196_subid_2_string22:
 	.string "<F:05>ワナに 決まってるじゃない!"
 
-id_196_subid_3_string15:
+id_196_subid_3_string23:
 	.string "<F:0A>とリあえず 行ってみようぜ"
 
-id_196_subid_4_string16:
+id_196_subid_4_string24:
 	.string "<F:19>ヤツラの ワナに 決まってるでやんす"
 
-id_196_subid_5_string17:
+id_196_subid_5_string25:
 	.string "<F:14>わいら ここで まってるわ"
 
-id_196_subid_14_string18:
+id_196_subid_14_string26:
 	.string "<F:7D>ニュウドウ様!"
 
-id_196_subid_14_string19:
+id_196_subid_14_string27:
 	.string "<F:6C>なんだ!?<NL>はしってくる ヤツが あるか!<WAIT>おいどんの 言う通リ<NL>うさぎとびで のぼってくるでごわす!!"
 
-id_196_subid_14_string20:
+id_196_subid_14_string28:
 	.string "<F:7D>それどころじゃないロボ!<NL><WAIT><PLAYER>が 来たロボ!!"
 
-id_196_subid_14_string21:
+id_196_subid_14_string29:
 	.string "<F:03>あっ! ついた ついた!<NL>"
 
-id_196_subid_14_string23:
+id_196_subid_14_string31:
 	.string "<F:6C>おもしろいでごわす!<NL><WAIT>団員ども! さっそく 特訓の せいかを<NL>おいどんに 見せるでごわす!!"
 
-id_196_subid_14_string25:
+id_196_subid_14_string32:
 	.string "<F:6C>ふがいないでごわす!!"
 
-id_196_subid_14_string26:
+id_196_subid_14_string33:
 	.string "<F:6D>こうなったら<NL>さらに きびしい 大特訓でごわすーーー!!"
 
-id_196_subid_14_string27:
+id_196_subid_14_string34:
 	.string "<F:80>意味なしロボーーーー!!<NL>"
 
-id_196_subid_28_string40:
+id_196_subid_28_string47:
 	.string "<F:80>おーーーーい!<NL>こっちロボ こっちロボー!"
+
+id_196_subid_28_string48:
+	.string "<F:04>ほんとかなぁ…<NL>"
+
+id_196_subid_28_string49:
+	.string "<F:04>でも こっちの 道は<NL>行き止まリ みたいだし…"
 

@@ -27,12 +27,9 @@
 .org 0x085DB3B6
 	.word 0xE3|((id_231_subid_0_string9-0x08000000)<<8)
 
-.org 0x085DC3C6
+.org 0x085DB3E0
 	.word 0xE3|((id_231_subid_0_string11-0x08000000)<<8)
 
-.org 0x085DB3E0
-	.word 0xE3|((id_231_subid_0_string12-0x08000000)<<8)
-
 .org 0x085DB3F9
-	.word 0xE3|((id_231_subid_0_string13-0x08000000)<<8)
+	.word 0xE3|((id_231_subid_0_string12-0x08000000)<<8)
 

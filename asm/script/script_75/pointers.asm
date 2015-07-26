@@ -105,3 +105,27 @@
 .org 0x085F143F
 	.word 0xE3|((id_75_subid_2_string36-0x08000000)<<8)
 
+.org 0x085F144E
+	.word 0xE3|((id_75_subid_2_string37-0x08000000)<<8)
+
+.org 0x085F148D
+	.word 0xE3|((id_75_subid_2_string38-0x08000000)<<8)
+
+.org 0x085F14C4
+	.word 0xE3|((id_75_subid_2_string39-0x08000000)<<8)
+
+.org 0x085F14CF
+	.word 0xE3|((id_75_subid_2_string40-0x08000000)<<8)
+
+.org 0x085F14DB
+	.word 0xE3|((id_75_subid_2_string41-0x08000000)<<8)
+
+.org 0x085F14EB
+	.word 0xE3|((id_75_subid_2_string42-0x08000000)<<8)
+
+.org 0x085F1459
+	.word 0xE3|((id_75_subid_2_string43-0x08000000)<<8)
+
+.org 0x085F1513
+	.word 0xE3|((id_75_subid_2_string44-0x08000000)<<8)
+

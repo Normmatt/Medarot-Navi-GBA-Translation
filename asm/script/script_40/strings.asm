@@ -1,8 +1,7 @@
 ; Medarot Navi Script 40 Strings
 
 id_40_subid_0_string1:
-	;.string "<F:0F>ここで いい…"
-	.string "<F:0F><E4>abcdefghijklmnopqrstuvwxyz<NL>ABCDEFGHIJKLMNOPQRSTUVWXYZ"
+	.string "<F:0F>ここで いい…"
 
 id_40_subid_0_string2:
 	.string "<F:1E>おにい様 どちらヘ?"

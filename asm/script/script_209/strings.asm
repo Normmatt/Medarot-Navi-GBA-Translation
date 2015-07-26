@@ -6,6 +6,9 @@ id_209_subid_2_string1:
 id_209_subid_2_string2:
 	.string "<F:2E>あぁ… 見つかっちまったじゃないのよ"
 
+id_209_subid_2_string3:
+	.string "<F:2E><PLAYER>!<NL>あんたの せいだぞ!"
+
 id_209_subid_2_string4:
 	.string "<F:2E>やるな <PLAYER>"
 
