@@ -1,5 +1,11 @@
 ; Medarot Navi Script 161 Strings
 
+id_161_subid_0_string1:
+	.string "<F:00>方向かんかくが なくなリそうだよ<WAIT><F:05>まるで めいろね・・・"
+
+id_161_subid_0_string2:
+	.string "<F:00>とはいえ 行くしかないよな"
+
 id_161_subid_0_string3:
 	.string "<F:0A>こういうときは たいてい<NL>おくに 進むっきゃ ないのさ!"
 
@@ -72,6 +78,9 @@ id_161_subid_16_string25:
 id_161_subid_16_string26:
 	.string "<F:2B>それは…"
 
+id_161_subid_16_string27:
+	.string "<F:00>それは?"
+
 id_161_subid_16_string28:
 	.string "<F:2D>そ それは…"
 
@@ -89,6 +98,9 @@ id_161_subid_16_string32:
 
 id_161_subid_16_string33:
 	.string "<F:03>そ そうだね…"
+
+id_161_subid_16_string34:
+	.string "<F:00>ごめんよ とリあえず オレたちは<NL>おくに 向かうから どいてくれないか?"
 
 id_161_subid_16_string35:
 	.string "<F:2B>ムダですよ<NL>この先は カードキーが ないと 進めません<WAIT>ぼくたちが どいても どかなくても<NL>きみたちは これ以上 進めないんです"
@@ -114,6 +126,9 @@ id_161_subid_16_string41:
 id_161_subid_16_string42:
 	.string "<F:30>…おいていかれた"
 
+id_161_subid_16_string43:
+	.string "<F:00>テンサイが 言ったことが<NL>本当か どうか わからないけど<WAIT>オレたちは やれるだけ やってみるよ<NL>キミたちは どうする?"
+
 id_161_subid_16_string44:
 	.string "<F:30>…おいていかれた"
 
@@ -134,6 +149,15 @@ id_161_subid_16_string49:
 
 id_161_subid_16_string50:
 	.string "<F:2E>ま まぁ こいつのことは おいといて…<NL><WAIT>よろしく たのむぜ!"
+
+id_161_subid_16_string51:
+	.string "<F:00>ドアを 突きやぶるしか ないな<WAIT><F:09>そんなこと 言ったって・・・"
+
+id_161_subid_16_string52:
+	.string "<F:00><MEDAROT1> 転送!<NL>"
+
+id_161_subid_16_string53:
+	.string "<F:00>たのんだぞ<NL><MEDAROT1>!<WAIT>メダフォースだ!"
 
 id_161_subid_16_string54:
 	.string "<F:05>ちょっと ヘこんだわね"
@@ -159,6 +183,9 @@ id_161_subid_16_string60:
 id_161_subid_16_string61:
 	.string "<F:04>(ふえー オレ<NL> こういうの にが手なんだよな・・・)"
 
+id_161_subid_16_string62:
+	.string "<F:00>なんだよ?"
+
 id_161_subid_16_string63:
 	.string "<F:03>出たぁっ!"
 
@@ -168,11 +195,23 @@ id_161_subid_16_string64:
 id_161_subid_16_string65:
 	.string "<F:02>なんだ メダロットか<WAIT><F:05>安心するのは まだはやいわ<NL>こっちに やって来るわよ"
 
+id_161_subid_16_string66:
+	.string "<F:00>あのー 通してくれないかな?<NL><WAIT>オレたち これから<NL>制御室に 行かなきゃ ならないんだけど…"
+
 id_161_subid_16_string67:
 	.string "<F:05>どうやら かんげいされてないみたいね<WAIT><F:04>ここの メダロットたちは<NL>本当に 分からず屋が おおいな"
 
 id_161_subid_16_string68:
 	.string "<F:04>この通路じゃ こっちも 3体が げん度か…<NL><WAIT><F:01>仕方ない 行くぞ!<NL>"
+
+id_161_subid_16_string69:
+	.string "<F:00>かわいそうだけど キミたちには<NL>ここで ねむっていて もらうよ"
+
+id_161_subid_16_string70:
+	.string "<F:00>さあ 時間が ない<NL>急ごう"
+
+id_161_subid_16_string71:
+	.string "<F:00>また カードキーか?<WAIT><F:05>ざんねんながら そうじゃないみたい<NL>"
 
 id_161_subid_16_string72:
 	.string "<F:05>見て ここの セキュリティーは<NL>もうまくにんしきシステム らしいわよ<WAIT><F:03>えっ?<NL>"
@@ -206,6 +245,9 @@ id_161_subid_16_string81:
 
 id_161_subid_16_string82:
 	.string "<F:05>やっと 協力する気に なったのね"
+
+id_161_subid_16_string83:
+	.string "<F:00>行こう シデン!"
 
 id_161_subid_16_string84:
 	.string "<F:0F>キミが 宇宙メダロットとの 秘密を<NL>教えてくれたらね?"
@@ -246,11 +288,17 @@ id_161_subid_16_string95:
 id_161_subid_16_string96:
 	.string "<F:0F>いいたくないと いうならば<NL>その気に させるまでだ<WAIT><F:10>・・・メダロット転送!"
 
+id_161_subid_16_string97:
+	.string "<F:00>オオカミ・・・?<NL>だけど この前のと 違う<WAIT><F:0F>かいリょうしたんだ<NL>この前の ようには いかないよ"
+
 id_161_subid_16_string98:
 	.string "<F:19>リーダー 急ぐでやんす!<WAIT><F:14>こっちや!"
 
 id_161_subid_16_string99:
 	.string "<F:02>みんな・・・!<WAIT><F:00>フブキは?<WAIT><F:14>もう来るで!"
+
+id_161_subid_16_string100:
+	.string "<F:00>フブ・・・"
 
 id_161_subid_16_string101:
 	.string "<F:11>フブキくんか・・・<NL><WAIT>ごくろうなことだね"
@@ -393,6 +441,9 @@ id_161_subid_16_string146:
 id_161_subid_16_string147:
 	.string "<F:10>レバーを 下げろ"
 
+id_161_subid_16_string148:
+	.string "<F:00>シデン・・・?"
+
 id_161_subid_16_string149:
 	.string "<F:10>聞こえなかったのか?<NL><WAIT>そこに 見えている レバーを<NL>下げろと 言っているんだ<WAIT>それぐらいの ことは<NL>キミにも 理解できるだろう"
 
@@ -468,6 +519,9 @@ id_161_subid_16_string172:
 id_161_subid_16_string173:
 	.string "<F:03>え えーっと その・・・"
 
+id_161_subid_16_string174:
+	.string "<F:00>それなら…<NL><WAIT>こっちにだって じょうけんが あるよ<NL>シデン"
+
 id_161_subid_16_string175:
 	.string "<F:10>なんだ?<WAIT><F:01>いっしょに 行動する かぎリは<NL>オレたちは 仲間だ!<WAIT>オレたちは 仲間じゃない ヤツと<NL>いっしょに いる つもリは ないからな!"
 
@@ -485,6 +539,9 @@ id_161_subid_16_string179:
 
 id_161_subid_16_string180:
 	.string "<F:1D>あっしも!・・・ ねえ リーダー"
+
+id_161_subid_16_string181:
+	.string "<F:00>そうかな? オレは 信じるよ"
 
 id_161_subid_16_string182:
 	.string "<F:0F>あいかわらずの アマちゃんぶリだな…"
@@ -506,6 +563,12 @@ id_161_subid_16_string187:
 
 id_161_subid_16_string188:
 	.string "<F:02>まぁ いいじゃないか"
+
+id_161_subid_16_string189:
+	.string "<F:00>あリがとう シデン<NL>大事に 使わせてもらうよ…"
+
+id_161_subid_16_string190:
+	.string "<F:00>じゃあ 行こう みんな!"
 
 id_161_subid_16_string191:
 	.string "<F:0F>シデンが なかまに なった!<NL><WAIT><F:2E>ヒョウガが なかまに なった!<NL><WAIT><F:30>シンキロウが なかまに なった!"

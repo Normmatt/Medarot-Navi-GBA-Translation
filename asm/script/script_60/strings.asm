@@ -51,6 +51,9 @@ id_60_subid_2_string18:
 id_60_subid_2_string19:
 	.string "<F:08>あぁ!<NL><WAIT>ほら <PLAYER>!<NL>クラスターが 見えてきたわよ!<F3><F:00>『クラスター行き リんじシャトルは<NL> 第1ランチよリ』 か…<WAIT><F:02>たのしみだなぁ"
 
+id_60_subid_2_string20:
+	.string "<F:00>ふーーーん…<NL>思ったよリ こじんまリしてるんだな…"
+
 id_60_subid_2_string21:
 	.string "<F:08>ちがうわ!<NL><WAIT>空気が ないから とおくに あったのに<NL>くっきリ 見えただけよ!"
 
@@ -105,6 +108,9 @@ id_60_subid_17_string37:
 id_60_subid_18_string38:
 	.string "<F:5C>カッコイイよねぇ シデンさまって"
 
+id_60_subid_19_string39:
+	.string "<F:00>もどったリ していると<NL>みんな 行っちゃうなぁ…"
+
 id_60_subid_22_string40:
 	.string "<F:5F>ドアを お開け します"
 
@@ -117,9 +123,24 @@ id_60_subid_23_string42:
 id_60_subid_24_string43:
 	.string "<F:60>じつは ボクも クラスターに はいるの<NL>はじめて なんだよ…"
 
+id_60_subid_25_string44:
+	.string "<F:00>いそがしそうだな…"
+
 id_60_subid_26_string45:
 	.string "<F:60>今は 話しかけないでくれ<NL>てもとが くるってしまうじゃ ないか"
 
 id_60_subid_26_string46:
 	.string "<F:03>ご… ごめんなさい!"
+
+id_60_subid_38_string47:
+	.string "<F:00>勝手に 入っちゃ まずいよな…"
+
+id_60_subid_40_string49:
+	.string "<F:00>ヒヨリのやつ なにぐずぐずしてるんだろ?<NL>しかたないなぁ"
+
+id_60_subid_45_string50:
+	.string "<F:00>『クラスター行き リんじシャトルは<NL> 第1ランチよリ』 か…<WAIT><F:02>たのしみだなぁ"
+
+id_60_subid_46_string51:
+	.string "<F:00>『明後日よリ クラスター行きの ツアーが<NL> 始まリます』 だって…<WAIT><F:02>ヘヘ…<NL><WAIT>オレたちが いちばんのリだな!"
 

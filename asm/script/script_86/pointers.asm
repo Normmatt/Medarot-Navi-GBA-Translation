@@ -111,11 +111,26 @@
 .org 0x085EE5C8
 	.word 0xE3|((id_86_subid_0_string37-0x08000000)<<8)
 
+.org 0x085EE5D5
+	.word 0xE3|((id_86_subid_0_string38-0x08000000)<<8)
+
+.org 0x085EE5E4
+	.word 0xE3|((id_86_subid_0_string39-0x08000000)<<8)
+
+.org 0x085EE5EF
+	.word 0xE3|((id_86_subid_0_string40-0x08000000)<<8)
+
 .org 0x085EE5FE
 	.word 0xE3|((id_86_subid_0_string41-0x08000000)<<8)
 
+.org 0x085EE614
+	.word 0xE3|((id_86_subid_0_string42-0x08000000)<<8)
+
 .org 0x085EE637
 	.word 0xE3|((id_86_subid_0_string43-0x08000000)<<8)
+
+.org 0x085EE665
+	.word 0xE3|((id_86_subid_0_string44-0x08000000)<<8)
 
 .org 0x085EE681
 	.word 0xE3|((id_86_subid_0_string45-0x08000000)<<8)

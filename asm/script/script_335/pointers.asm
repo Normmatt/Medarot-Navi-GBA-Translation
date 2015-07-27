@@ -30,6 +30,12 @@
 .org 0x08610471
 	.word 0xE3|((id_335_subid_0_string10-0x08000000)<<8)
 
+.org 0x08610483
+	.word 0xE3|((id_335_subid_0_string11-0x08000000)<<8)
+
 .org 0x086104A0
 	.word 0xE3|((id_335_subid_0_string12-0x08000000)<<8)
+
+.org 0x08610462
+	.word 0xE3|((id_335_subid_13_string13-0x08000000)<<8)
 

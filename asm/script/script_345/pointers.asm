@@ -1,5 +1,8 @@
 ; Medarot Navi Script 345 Pointers
 
+.org 0x085EBD1A
+	.word 0xE3|((id_345_subid_0_string1-0x08000000)<<8)
+
 .org 0x085EBD31
 	.word 0xE3|((id_345_subid_0_string2-0x08000000)<<8)
 
@@ -11,6 +14,9 @@
 
 .org 0x085EBDAD
 	.word 0xE3|((id_345_subid_0_string5-0x08000000)<<8)
+
+.org 0x085EBDFF
+	.word 0xE3|((id_345_subid_0_string6-0x08000000)<<8)
 
 .org 0x085EBE80
 	.word 0xE3|((id_345_subid_0_string7-0x08000000)<<8)
@@ -177,6 +183,9 @@
 .org 0x085EC992
 	.word 0xE3|((id_345_subid_0_string61-0x08000000)<<8)
 
+.org 0x085EC99B
+	.word 0xE3|((id_345_subid_0_string62-0x08000000)<<8)
+
 .org 0x085ECA2A
 	.word 0xE3|((id_345_subid_0_string63-0x08000000)<<8)
 
@@ -224,6 +233,9 @@
 
 .org 0x085ECC6A
 	.word 0xE3|((id_345_subid_0_string78-0x08000000)<<8)
+
+.org 0x085ECC94
+	.word 0xE3|((id_345_subid_0_string79-0x08000000)<<8)
 
 .org 0x085ECCAA
 	.word 0xE3|((id_345_subid_0_string80-0x08000000)<<8)
@@ -336,6 +348,9 @@
 .org 0x085ED4E9
 	.word 0xE3|((id_345_subid_0_string116-0x08000000)<<8)
 
+.org 0x085ED506
+	.word 0xE3|((id_345_subid_0_string117-0x08000000)<<8)
+
 .org 0x085ED545
 	.word 0xE3|((id_345_subid_0_string118-0x08000000)<<8)
 
@@ -344,6 +359,18 @@
 
 .org 0x085ED57C
 	.word 0xE3|((id_345_subid_0_string120-0x08000000)<<8)
+
+.org 0x085ED593
+	.word 0xE3|((id_345_subid_0_string121-0x08000000)<<8)
+
+.org 0x085ED5F9
+	.word 0xE3|((id_345_subid_0_string122-0x08000000)<<8)
+
+.org 0x085ED66C
+	.word 0xE3|((id_345_subid_0_string123-0x08000000)<<8)
+
+.org 0x085ED67E
+	.word 0xE3|((id_345_subid_0_string124-0x08000000)<<8)
 
 .org 0x085ED6C8
 	.word 0xE3|((id_345_subid_0_string125-0x08000000)<<8)
@@ -375,6 +402,9 @@
 .org 0x085ED8CC
 	.word 0xE3|((id_345_subid_0_string134-0x08000000)<<8)
 
+.org 0x085ED8F5
+	.word 0xE3|((id_345_subid_0_string135-0x08000000)<<8)
+
 .org 0x085ED90D
 	.word 0xE3|((id_345_subid_0_string136-0x08000000)<<8)
 
@@ -402,11 +432,29 @@
 .org 0x085EDA9A
 	.word 0xE3|((id_345_subid_0_string144-0x08000000)<<8)
 
+.org 0x085EDAD1
+	.word 0xE3|((id_345_subid_0_string145-0x08000000)<<8)
+
 .org 0x085EDB12
 	.word 0xE3|((id_345_subid_0_string146-0x08000000)<<8)
 
+.org 0x085EDB92
+	.word 0xE3|((id_345_subid_0_string147-0x08000000)<<8)
+
+.org 0x085EDBD8
+	.word 0xE3|((id_345_subid_0_string148-0x08000000)<<8)
+
 .org 0x085EDBFD
 	.word 0xE3|((id_345_subid_0_string149-0x08000000)<<8)
+
+.org 0x085EDC39
+	.word 0xE3|((id_345_subid_0_string150-0x08000000)<<8)
+
+.org 0x085EDC4C
+	.word 0xE3|((id_345_subid_0_string151-0x08000000)<<8)
+
+.org 0x085EDC84
+	.word 0xE3|((id_345_subid_0_string152-0x08000000)<<8)
 
 .org 0x085EDC93
 	.word 0xE3|((id_345_subid_0_string153-0x08000000)<<8)
@@ -414,11 +462,20 @@
 .org 0x085EDCBE
 	.word 0xE3|((id_345_subid_0_string154-0x08000000)<<8)
 
+.org 0x085EDCDB
+	.word 0xE3|((id_345_subid_0_string155-0x08000000)<<8)
+
 .org 0x085EDD13
 	.word 0xE3|((id_345_subid_0_string156-0x08000000)<<8)
 
 .org 0x085EDD3E
 	.word 0xE3|((id_345_subid_0_string157-0x08000000)<<8)
+
+.org 0x085EDD5E
+	.word 0xE3|((id_345_subid_0_string158-0x08000000)<<8)
+
+.org 0x085EDDB9
+	.word 0xE3|((id_345_subid_0_string159-0x08000000)<<8)
 
 .org 0x085EDDC8
 	.word 0xE3|((id_345_subid_0_string160-0x08000000)<<8)

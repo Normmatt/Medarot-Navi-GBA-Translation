@@ -1,5 +1,8 @@
 ; Medarot Navi Script 111 Strings
 
+id_111_subid_0_string1:
+	.string "<F:00>これだけ 見えない 場所が おおいと<NL>だれかが かくれてても 分からないな"
+
 id_111_subid_0_string2:
 	.string "<F:0C>ヘぇー おもしろいじゃん"
 
@@ -38,6 +41,9 @@ id_111_subid_4_string13:
 
 id_111_subid_5_string14:
 	.string "<F:14>さっきの やつら なんやったんやろうな"
+
+id_111_subid_17_string15:
+	.string "<F:00>どうしたの? ヒヨリ"
 
 id_111_subid_17_string16:
 	.string "<F:05>しずかに!<NL><WAIT>なにか 聞こえない?"
@@ -150,6 +156,9 @@ id_111_subid_17_string51:
 id_111_subid_17_string52:
 	.string "<F:6D>くーーーーーーーーーーーーーっ!<NL><WAIT>たいきゃくでごわすっ!<WAIT><F:7D>ロボロボ ロボロボ"
 
+id_111_subid_17_string53:
+	.string "<F:00>やれやれ<WAIT><F:05>ちょっと なんなの!?<NL><WAIT>なんで あんなのが<NL>クラスターの中に いるのよ!"
+
 id_111_subid_17_string54:
 	.string "<F:0A>関係ないさ<NL><WAIT>ジャマする やつらは<NL>ぶちのめして やればいい"
 
@@ -195,6 +204,9 @@ id_111_subid_18_string67:
 id_111_subid_18_string68:
 	.string "<F:05>さ これで ここは だいじょうぶね<WAIT><F:04>うん・・・"
 
+id_111_subid_18_string69:
+	.string "<F:00>それにしても さっきみたいな・・・<NL>スペロボ団っていったっけ?<WAIT>あんなやつらが うろついてるし<NL>やっぱリブロックには<WAIT>当番を 置いておかないと 奪い返されちゃうな"
+
 id_111_subid_18_string70:
 	.string "<F:05>そうね クラスのみんなに<NL>おねがいしましょうよ<WAIT>まだ 行ってない ブロックに<NL>となリあった ブロックなんかは<WAIT>特に危険だから なんにんか<NL>チームを 組まないと あぶないわね<WAIT>もちろん わたしは <PLAYER>の<NL>めんどう 見なくちゃ いけないから<WAIT>当番には ならないけど・・・<WAIT><F:04>・・・"
 
@@ -212,4 +224,7 @@ id_111_subid_18_string74:
 
 id_111_subid_18_string75:
 	.string "<F:4F>ヘクトが なかまに なった!<NL><WAIT><F:51>パスカルが なかまに なった!"
+
+id_111_subid_22_string76:
+	.string "<F:00>この ブロック<NL>なにか 気になる…"
 

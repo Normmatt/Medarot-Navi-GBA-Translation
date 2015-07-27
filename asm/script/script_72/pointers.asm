@@ -96,6 +96,9 @@
 .org 0x085F1EBF
 	.word 0xE3|((id_72_subid_0_string32-0x08000000)<<8)
 
+.org 0x085F1EEC
+	.word 0xE3|((id_72_subid_0_string33-0x08000000)<<8)
+
 .org 0x085F1F1D
 	.word 0xE3|((id_72_subid_0_string34-0x08000000)<<8)
 

@@ -165,6 +165,9 @@
 .org 0x08611669
 	.word 0xE3|((id_270_subid_0_string55-0x08000000)<<8)
 
+.org 0x086116A0
+	.word 0xE3|((id_270_subid_0_string56-0x08000000)<<8)
+
 .org 0x086116E6
 	.word 0xE3|((id_270_subid_0_string57-0x08000000)<<8)
 

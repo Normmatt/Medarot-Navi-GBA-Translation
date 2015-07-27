@@ -45,11 +45,17 @@ id_196_subid_0_string14:
 id_196_subid_0_string15:
 	.string "<F:7F>なるほどロボ!<NL><WAIT>ロボトルに なれば<NL>特訓なんて ふきとぶロボ!!<WAIT>ちょうはつするロボ! ちょうはつするロボ!!"
 
+id_196_subid_0_string16:
+	.string "<F:00>どうやら このブロックは<NL><WAIT>山の てっペんに<NL>制御装置が あるみたいだね<WAIT><F:0A>でも… ガケばかリで<NL>のぼリにくそうだな…"
+
 id_196_subid_0_string17:
 	.string "<F:05>ん? なにあれ…"
 
 id_196_subid_0_string18:
 	.string "<F:80>おーーーい ここロボ!<NL>こっちに 来るロボ!"
+
+id_196_subid_0_string19:
+	.string "<F:00>なんだろう… 行ってみようか?"
 
 id_196_subid_0_string20:
 	.string "<F:06>なに いってんの?<NL>ワナに 決まってるじゃない!"
@@ -81,6 +87,9 @@ id_196_subid_14_string28:
 id_196_subid_14_string29:
 	.string "<F:03>あっ! ついた ついた!<NL>"
 
+id_196_subid_14_string30:
+	.string "<F:00>おーーーい みんな! ちゃんと ついたよ!"
+
 id_196_subid_14_string31:
 	.string "<F:6C>おもしろいでごわす!<NL><WAIT>団員ども! さっそく 特訓の せいかを<NL>おいどんに 見せるでごわす!!"
 
@@ -92,6 +101,9 @@ id_196_subid_14_string33:
 
 id_196_subid_14_string34:
 	.string "<F:80>意味なしロボーーーー!!<NL>"
+
+id_196_subid_17_string36:
+	.string "<F:00>あの スペロボ団が 気になる…"
 
 id_196_subid_28_string47:
 	.string "<F:80>おーーーーい!<NL>こっちロボ こっちロボー!"

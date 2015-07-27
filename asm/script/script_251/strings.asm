@@ -6,6 +6,9 @@ id_251_subid_0_string1:
 id_251_subid_0_string2:
 	.string "<F:7D>もう いーかいロボ?<NL><WAIT><F:7D>まーだロボ<NL>"
 
+id_251_subid_0_string3:
+	.string "<F:00>なに してるの?<NL>"
+
 id_251_subid_0_string4:
 	.string "<F:7D>大変ロボ!<NL><PLAYER>ロボ"
 
@@ -41,4 +44,7 @@ id_251_subid_0_string14:
 
 id_251_subid_0_string15:
 	.string "<F:7D>しょうめんきって やったら<NL>ゲリラ戦に ならないロボー!"
+
+id_251_subid_0_string16:
+	.string "<F:00>あれは かくれんぼだな<NL>やっぱリ…"
 

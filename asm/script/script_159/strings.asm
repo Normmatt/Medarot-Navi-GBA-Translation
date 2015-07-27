@@ -12,9 +12,15 @@ id_159_subid_2_string3:
 id_159_subid_2_string4:
 	.string "<F:31>って うぅん こっちの はなし…"
 
+id_159_subid_10_string5:
+	.string "<F:00>なんだ これ?"
+
 id_159_subid_10_string6:
 	.string "<F:57>みっつめのパスワード 『ろ』"
 
 id_159_subid_10_string7:
 	.string "<F:04>・・・<NL>パスワード?"
+
+id_159_subid_13_string8:
+	.string "<F:00>あれ?<NL><WAIT>あそこで なにか<NL>しろく ひかったような・・・"
 

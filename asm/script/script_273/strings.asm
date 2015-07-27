@@ -1,5 +1,8 @@
 ; Medarot Navi Script 273 Strings
 
+id_273_subid_0_string1:
+	.string "<F:00>ミストラルが 消えたって…<NL><WAIT>いったい なにが 起ころうと してるんだ?"
+
 id_273_subid_0_string2:
 	.string "<F:08>外を みて!"
 
@@ -11,6 +14,9 @@ id_273_subid_0_string4:
 
 id_273_subid_0_string5:
 	.string "<F:10>ネットを しゃだんしたから かくブロックに<NL>ダイレクトに つながろうと しているんだ!"
+
+id_273_subid_0_string6:
+	.string "<F:00>じゃあ クラスターは どうなるの?<WAIT><F:0F>クラスターの コントロールが<NL>完全に のっとられる…"
 
 id_273_subid_0_string7:
 	.string "<F:10>そうしたら…<NL>だっしゅつは 不可能だ…"
@@ -62,6 +68,9 @@ id_273_subid_0_string22:
 
 id_273_subid_0_string23:
 	.string "<F:0F>人間の 安全を まもることは<NL><WAIT>ナビの プログラムの<NL>根幹を なしているんだ<WAIT>ヘんこうには せんもんかの チームで<NL>なんかげつもかかる 作業に なる!"
+
+id_273_subid_0_string24:
+	.string "<F:00>人間を 守るための プログラムが<NL>オレたちを 危険に おいやってるってこと?"
 
 id_273_subid_0_string25:
 	.string "<F:13>うかつだった…<NL><WAIT>管理を 完全なものに するために<NL><WAIT>最終決定を 全て<NL>ナビに ゆだねてしまったことが<WAIT>こんなところで うらめに でるとは…"
@@ -122,6 +131,9 @@ id_273_subid_10_string43:
 
 id_273_subid_10_string44:
 	.string "<F:06>でも それで 別な 危険が 出てくるんじゃ<NL>意味が ないじゃない!<WAIT><F:53>しかし 外に 出て<NL><WAIT>状況が 好転する 見こみは<NL>ほぼ ゼロに ちかい かくリつです"
+
+id_273_subid_10_string45:
+	.string "<F:00>でも ゼロじゃ ないんだね!<NL><WAIT>ゼロじゃないなら<NL>ためすかちは ある!<WAIT>オレは 外が 見たいんだ!<NL><WAIT>もし 危ない目に あうとしても<NL>なにも 知らないままなんて いやだ!<WAIT><F:01>やれる事を やらないで<NL>もしもの事が あったら<WAIT>きっと こうかいするよ!<NL><WAIT>オレは そんなの いやだ!"
 
 id_273_subid_10_string46:
 	.string "<F:53>わたしだって せいぞんの 可能性を<NL>ためして みたいのです!<WAIT>しかし 絶対の きんしじこうに<NL>さからう事は できないのです!<WAIT>未知の 状況に 人間を<NL>送リこむ ことは…"

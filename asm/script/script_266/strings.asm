@@ -6,6 +6,9 @@ id_266_subid_0_string1:
 id_266_subid_0_string2:
 	.string "<F:12>(まさか…<E5>"
 
+id_266_subid_0_string3:
+	.string "<F:00>どうしたの? シデン<NL>顔いろ 悪いけど…"
+
 id_266_subid_0_string4:
 	.string "<F:08>見てよ これ!<NL><WAIT>こないだ しんやの 通販番組で やってた<NL>『パワーストーンGX』じゃない!?"
 
@@ -26,6 +29,9 @@ id_266_subid_0_string9:
 
 id_266_subid_0_string10:
 	.string "<F:04>こうみょう…?"
+
+id_266_subid_0_string11:
+	.string "<F:00>でも ヒヨリが 通販オタクだって ことを<NL>よく 知ってたな…"
 
 id_266_subid_0_string12:
 	.string "<F:06>なによ オタクって!<WAIT><F:05>でも 確かに おかしいわね…<NL><WAIT>…なんて 言ってる 場合じゃないわ!<NL>はやく おいかけなくっちゃ!"
@@ -50,6 +56,9 @@ id_266_subid_0_string18:
 
 id_266_subid_0_string19:
 	.string "<F:20>な…!<NL><WAIT>なにを 言うの… フブキ!"
+
+id_266_subid_0_string20:
+	.string "<F:00>ここに 来たのだって<NL>シデンを たすけるためじゃ ないの!?"
 
 id_266_subid_0_string21:
 	.string "<F:20>…ちが…<NL><WAIT>…ちがいますわ!<NL><WAIT>おにい様を たすけようとする<NL>あなた方を けちらすためでしてよ!"

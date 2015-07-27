@@ -12,6 +12,9 @@ id_224_subid_0_string3:
 id_224_subid_0_string4:
 	.string "<F:92>ま どうせ こんなことだろうと<NL>おもってたけど…<WAIT><F:91>人を リようするのも いいかげんに…"
 
+id_224_subid_0_string5:
+	.string "<F:00>キミ ひょっとして<NL>ゆうめいな メダロッターの イッキくん?<WAIT><F:91>え! ゆうめい!?<NL>"
+
 id_224_subid_0_string6:
 	.string "<F:91>いやぁ… そんな…<NL>ゆうめいだ なんて…<WAIT><F:00>聞きたいことが あるんだけど<NL>キミって…"
 
@@ -38,6 +41,9 @@ id_224_subid_0_string13:
 
 id_224_subid_0_string14:
 	.string "<F:03>あ!"
+
+id_224_subid_0_string15:
+	.string "<F:00>それよリ イッキくん!<NL>キミは シデンっていう人と…<WAIT><F:91>…そんな …あんなに<NL>あっさリ 負けちゃうなんて…"
 
 id_224_subid_0_string16:
 	.string "<F:03>そんな あっさリなんて!<NL>けっこう いい勝負だったじゃ…"

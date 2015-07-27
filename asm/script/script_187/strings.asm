@@ -9,6 +9,9 @@ id_187_subid_11_string2:
 id_187_subid_11_string3:
 	.string "<F:7A>ぐっ… なにを いうか!<NL><PLAYER>など 今の オレ様には…"
 
+id_187_subid_11_string4:
+	.string "<F:00>よんだ?"
+
 id_187_subid_11_string5:
 	.string "<F:7C>ギクゥ!"
 
@@ -29,4 +32,7 @@ id_187_subid_11_string10:
 
 id_187_subid_11_string11:
 	.string "<F:79>たいきゃくして 犯人を 解明するぞ!<NL>いくぞ ものども!"
+
+id_187_subid_16_string56:
+	.string "<F:00>とられたら とリかえさなくちゃ"
 

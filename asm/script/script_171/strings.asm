@@ -72,6 +72,9 @@ id_171_subid_17_string23:
 id_171_subid_17_string24:
 	.string "<F:2F>…わたしは ついてきてる だけだから…"
 
+id_171_subid_17_string25:
+	.string "<F:00>わかった…<NL>キミたちの ジャマは しないよ<WAIT><F:04>でも オレたちも<NL>先に 行かないと いけないんだ<WAIT>通らせて くれないかな?<WAIT><F:2A>ここは 通さん!"
+
 id_171_subid_17_string26:
 	.string "<F:2D>おかしいですね…<NL>けいさんでは 負けるはずが ないのですが…<WAIT><F:2A>ふん!"
 
@@ -126,6 +129,9 @@ id_171_subid_17_string42:
 id_171_subid_17_string43:
 	.string "<F:01>おまえも スペロボ団の 幹部か!?<WAIT><F:75>いかにも… わたしは<NL>スペロボ団幹部<WAIT>もリの スモッグ! …げほっ<NL><WAIT>…美しい 空気なしには<NL>生きられない 男だ…"
 
+id_171_subid_17_string44:
+	.string "<F:00>それって きょじゃく体質って<NL>言うんじゃぁ…<WAIT><F:75>とにかく… キミたちには<NL>スペロボ団に はいってもらう…<WAIT>そして 一生<NL>わたしが しんリんよく できるよう<WAIT>もリの木を そだて つづけてもらう…<NL>ぐほっ…"
+
 id_171_subid_17_string45:
 	.string "<F:18>そない 殺生な…<NL><PLAYER> たすけてーな!"
 
@@ -152,4 +158,7 @@ id_171_subid_17_string52:
 
 id_171_subid_17_string53:
 	.string "には いいけど<NL>作るのは 大変ロボ!"
+
+id_171_subid_23_string54:
+	.string "<F:00>まだ もどるには はやいよ"
 

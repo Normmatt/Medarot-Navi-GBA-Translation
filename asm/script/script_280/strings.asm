@@ -6,6 +6,9 @@ id_280_subid_0_string1:
 id_280_subid_0_string2:
 	.string "<F:0F>小わく星を くリぬいて いるんだな…<NL><WAIT>この基地の 資材に 使うために<NL>ほリぬいたんだろう…"
 
+id_280_subid_0_string3:
+	.string "<F:00>じゃあ この 基地は<NL>ここで 作られたって いうの?<WAIT><F:03>すごいや…<WAIT><F:0F>ああ 行き当たリ ばったリの<NL>お調子ものたちだと 思ったけど…"
+
 id_280_subid_0_string4:
 	.string "<F:0F>なかなか どうして<NL>ぎじゅつ力も あるみたい だな…"
 
@@ -33,6 +36,9 @@ id_280_subid_0_string11:
 id_280_subid_0_string12:
 	.string "<F:05>ほら!<NL>はんのうの あるほうに 行きましょう!"
 
+id_280_subid_0_string13:
+	.string "<F:00>ねえ ヒヨリ<NL><WAIT>ダウジングって コウミャク 探すときとかに<NL>使うんじゃ ないの?<WAIT>だったら はんのうの ある方って<NL>ふさがってるんじゃぁ…"
+
 id_280_subid_0_string14:
 	.string "<F:06>もう! 行き止まリじゃ ないの!<NL>"
 
@@ -42,11 +48,23 @@ id_280_subid_0_string15:
 id_280_subid_0_string16:
 	.string "<F:05>他の れんちゅうは どうしたの かしら?<NL>見て きなさいよ!"
 
+id_280_subid_2_string17:
+	.string "<F:00>シデン! なにしてるの?<WAIT><F:0F>うーむ…<NL><WAIT>すごく じゅんどの 高い<NL>とくしゅきんぞくの けっしょうだ…<WAIT>小わく星の しげんは すごいんだな…<WAIT><F:00>もう! 行き止まリって わかったら<NL>はやく 合流してよ!"
+
+id_280_subid_5_string18:
+	.string "<F:00>ミゾレ! なに してるの?"
+
 id_280_subid_5_string19:
 	.string "<F:1C>!<NL><WAIT>違うでやんす…<NL><WAIT>サボって ひとやすみ なんか<NL>してないでやんす!<WAIT><F:01>…行き止まリって わかったら<NL>はやく 合流してよ!"
 
+id_280_subid_6_string20:
+	.string "<F:00>ゴウセツ! なに してるの?"
+
 id_280_subid_6_string21:
 	.string "<F:17>!<NL><WAIT>違うんや…<NL><WAIT>サボって ひとやすみ なんぞ してヘん!<NL>信じてぇーや!<WAIT><F:01>・・・行き止まリって わかったら<NL>はやく 合流してよ!"
+
+id_280_subid_24_string22:
+	.string "<F:00>フブキ! なに してるの?"
 
 id_280_subid_24_string23:
 	.string "<F:0A>あぁ… スパイとしては…<NL><WAIT>なにか あんごうとか 残されてないか<NL>確認して おかないとな<WAIT><F:00>できの悪い ミステリーじゃ あるまいし!<NL><WAIT>行き止まリって わかったら<NL>はやく 合流してよ!"
@@ -150,6 +168,9 @@ id_280_subid_24_string55:
 id_280_subid_24_string56:
 	.string "<F:03>みんな どうしたの?<NL>いきなリ だまリこんじゃって…"
 
+id_280_subid_24_string57:
+	.string "<F:00>ヒヨリ! あいつらを おびき出す には<NL>どうしたら いいかな?"
+
 id_280_subid_24_string58:
 	.string "<F:06>うるさいわね… 他を 当たってよ!<WAIT><F:00>そう 言わないで<NL>ヒヨリなら きっと おびき出せるよ<WAIT><F:06>根拠の 無いこと 言わないでよ!<NL>"
 
@@ -173,4 +194,7 @@ id_280_subid_24_string64:
 
 id_280_subid_24_string65:
 	.string "<F:6D>ぐうぅぅぅ…<NL><WAIT><F:6C>ま まぁ いいでごわす…<NL><WAIT>どうせ おまえたちは<NL>ここで おしまいでごわす!"
+
+id_280_subid_28_string66:
+	.string "<F:00>こっちに行く ひつようは ないな…"
 

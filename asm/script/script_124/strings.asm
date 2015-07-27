@@ -6,6 +6,9 @@ id_124_subid_7_string1:
 id_124_subid_7_string2:
 	.string "<F:7D><PLAYER>ロボ…<NL><WAIT>そうロボ…"
 
+id_124_subid_7_string3:
+	.string "<F:00>こんなところで なにしてるの?"
+
 id_124_subid_7_string4:
 	.string "<F:7D>幹部様達も ひどいロボ…<NL><WAIT>そうロボ…<NL>なんで おれ達だけ 置いていかれたロボ…"
 
@@ -26,4 +29,7 @@ id_124_subid_7_string9:
 
 id_124_subid_7_string10:
 	.string "<F:80>そうロボ! わかったロボ!<NL>うしろを 見せずに にげるロボ!"
+
+id_124_subid_13_string61:
+	.string "<F:00>つくリものだとは 思うけど…<NL><WAIT>あつそうだな…"
 

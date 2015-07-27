@@ -3,6 +3,9 @@
 id_249_subid_0_string1:
 	.string "<F:8C>やあ! <PLAYER>くん!<NL>ぼくを 探してるんだって?"
 
+id_249_subid_0_string2:
+	.string "<F:00>えっ!? …って あなたは<NL>あのヒカルさんですか?<WAIT>でも 会ったこともないのに<NL>どうして オレの名前を?"
+
 id_249_subid_0_string3:
 	.string "<F:8C>そリゃ さっきの ロボト… じゃなかった!"
 
@@ -18,11 +21,17 @@ id_249_subid_0_string6:
 id_249_subid_0_string7:
 	.string "<F:8C>ギクッ!"
 
+id_249_subid_0_string8:
+	.string "<F:00>ホントに ヒカルさんですか?<NL><WAIT>さいきん ゆうめいメダロッターの名を<NL>かたるやつらも いるみたいだし…"
+
 id_249_subid_0_string9:
 	.string "<F:8C>しょうがない!<NL>だったら 実力を 見せるまでだっ!"
 
 id_249_subid_0_string10:
 	.string "<F:8C>ガーーーーーン<NL><WAIT>さいきんの メダロットは 強いなー…"
+
+id_249_subid_0_string11:
+	.string "<F:00>…うーーーーん<NL><WAIT>勝てはしたけど<NL>なかなか 手ごわかったな…<WAIT>どうも 本物の ヒカルさんみたいですね<NL><WAIT>シデンから にもつを<NL>あずかってるんですけど<WAIT>これ ヒカルさんのじゃ ないですか?<WAIT><F:8C>えっ?<NL>あのシデンくんが?<WAIT>どれどれ…"
 
 id_249_subid_0_string12:
 	.string "<F:8C>…これは ぼくあてじゃないな"

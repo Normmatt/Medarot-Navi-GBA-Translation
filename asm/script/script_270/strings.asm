@@ -165,6 +165,9 @@ id_270_subid_0_string54:
 id_270_subid_0_string55:
 	.string "<F:04>いや スペロボ団 幹部にまで<NL>なったんだから やつらの 目的とか<WAIT>知ってるんじゃないかな?<NL>"
 
+id_270_subid_0_string56:
+	.string "<F:00>そうだよね ニワカくん?<NL><WAIT>知ってるなら 協力して くれないか?<WAIT><F:05>そんな みえみえの 気づかい なんて<NL>しなくて いいわよ"
+
 id_270_subid_0_string57:
 	.string "<F:05>ここの 装置を 動かせば<NL>そんな事 知らなくても 地球には…"
 

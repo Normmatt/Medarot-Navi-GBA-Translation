@@ -6,6 +6,9 @@ id_237_subid_0_string1:
 id_237_subid_0_string2:
 	.string "<F:05>なんで また こんなところに!<NL>"
 
+id_237_subid_0_string3:
+	.string "<F:00>まぁまぁ<NL>"
+
 id_237_subid_0_string4:
 	.string "<F:0A>さぁ ひとあばれだ<NL>"
 

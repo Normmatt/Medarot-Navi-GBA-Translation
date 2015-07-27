@@ -15,6 +15,9 @@ id_122_subid_0_string4:
 id_122_subid_0_string5:
 	.string "<F:6C>なんとしても そのいわで<NL>いリぐちを ふさぐでごわす"
 
+id_122_subid_0_string6:
+	.string "<F:00>なんか たいヘんそうだね"
+
 id_122_subid_0_string7:
 	.string "<F:81>あっ <PLAYER>ロボ!"
 

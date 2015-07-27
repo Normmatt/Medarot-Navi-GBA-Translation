@@ -15,6 +15,9 @@
 .org 0x085D9FD3
 	.word 0xE3|((id_217_subid_0_string5-0x08000000)<<8)
 
+.org 0x085D9FF9
+	.word 0xE3|((id_217_subid_0_string6-0x08000000)<<8)
+
 .org 0x085DA009
 	.word 0xE3|((id_217_subid_0_string7-0x08000000)<<8)
 
@@ -26,6 +29,9 @@
 
 .org 0x085DA08B
 	.word 0xE3|((id_217_subid_0_string10-0x08000000)<<8)
+
+.org 0x085DA0AD
+	.word 0xE3|((id_217_subid_0_string11-0x08000000)<<8)
 
 .org 0x085DA0BC
 	.word 0xE3|((id_217_subid_0_string12-0x08000000)<<8)

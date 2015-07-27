@@ -1,5 +1,8 @@
 ; Medarot Navi Script 273 Pointers
 
+.org 0x08612FF9
+	.word 0xE3|((id_273_subid_0_string1-0x08000000)<<8)
+
 .org 0x08613023
 	.word 0xE3|((id_273_subid_0_string2-0x08000000)<<8)
 
@@ -11,6 +14,9 @@
 
 .org 0x08613058
 	.word 0xE3|((id_273_subid_0_string5-0x08000000)<<8)
+
+.org 0x08613086
+	.word 0xE3|((id_273_subid_0_string6-0x08000000)<<8)
 
 .org 0x086130BA
 	.word 0xE3|((id_273_subid_0_string7-0x08000000)<<8)
@@ -62,6 +68,9 @@
 
 .org 0x086133A8
 	.word 0xE3|((id_273_subid_0_string23-0x08000000)<<8)
+
+.org 0x086133FE
+	.word 0xE3|((id_273_subid_0_string24-0x08000000)<<8)
 
 .org 0x0861342C
 	.word 0xE3|((id_273_subid_0_string25-0x08000000)<<8)
@@ -122,6 +131,9 @@
 
 .org 0x0861377D
 	.word 0xE3|((id_273_subid_10_string44-0x08000000)<<8)
+
+.org 0x086137DB
+	.word 0xE3|((id_273_subid_10_string45-0x08000000)<<8)
 
 .org 0x08613870
 	.word 0xE3|((id_273_subid_10_string46-0x08000000)<<8)

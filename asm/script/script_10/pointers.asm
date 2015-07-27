@@ -1,5 +1,8 @@
 ; Medarot Navi Script 10 Pointers
 
+.org 0x085FCF64
+	.word 0xE3|((id_10_subid_0_string1-0x08000000)<<8)
+
 .org 0x085FCF72
 	.word 0xE3|((id_10_subid_0_string2-0x08000000)<<8)
 
@@ -90,6 +93,9 @@
 .org 0x085FD453
 	.word 0xE3|((id_10_subid_0_string31-0x08000000)<<8)
 
+.org 0x085FD45B
+	.word 0xE3|((id_10_subid_0_string32-0x08000000)<<8)
+
 .org 0x085FD48A
 	.word 0xE3|((id_10_subid_0_string33-0x08000000)<<8)
 
@@ -165,8 +171,14 @@
 .org 0x085FD9A7
 	.word 0xE3|((id_10_subid_0_string57-0x08000000)<<8)
 
+.org 0x085FD585
+	.word 0xE3|((id_10_subid_0_string58-0x08000000)<<8)
+
 .org 0x085FD5C0
 	.word 0xE3|((id_10_subid_0_string59-0x08000000)<<8)
+
+.org 0x085FD5DC
+	.word 0xE3|((id_10_subid_0_string60-0x08000000)<<8)
 
 .org 0x085FD5FA
 	.word 0xE3|((id_10_subid_0_string61-0x08000000)<<8)
@@ -183,11 +195,26 @@
 .org 0x085FD674
 	.word 0xE3|((id_10_subid_0_string65-0x08000000)<<8)
 
+.org 0x085FD6AD
+	.word 0xE3|((id_10_subid_0_string66-0x08000000)<<8)
+
 .org 0x085FDADD
 	.word 0xE3|((id_10_subid_0_string67-0x08000000)<<8)
 
 .org 0x085FDAFE
 	.word 0xE3|((id_10_subid_0_string68-0x08000000)<<8)
+
+.org 0x085FD6BB
+	.word 0xE3|((id_10_subid_0_string69-0x08000000)<<8)
+
+.org 0x085FD6EE
+	.word 0xE3|((id_10_subid_0_string70-0x08000000)<<8)
+
+.org 0x085FD723
+	.word 0xE3|((id_10_subid_0_string71-0x08000000)<<8)
+
+.org 0x085FD74D
+	.word 0xE3|((id_10_subid_0_string72-0x08000000)<<8)
 
 .org 0x085FD75D
 	.word 0xE3|((id_10_subid_13_string73-0x08000000)<<8)
@@ -200,4 +227,25 @@
 
 .org 0x085FD7E1
 	.word 0xE3|((id_10_subid_13_string76-0x08000000)<<8)
+
+.org 0x085FD812
+	.word 0xE3|((id_10_subid_21_string77-0x08000000)<<8)
+
+.org 0x085FD9AF
+	.word 0xE3|((id_10_subid_22_string78-0x08000000)<<8)
+
+.org 0x085FD9DE
+	.word 0xE3|((id_10_subid_23_string79-0x08000000)<<8)
+
+.org 0x085FDA03
+	.word 0xE3|((id_10_subid_24_string80-0x08000000)<<8)
+
+.org 0x085FDA25
+	.word 0xE3|((id_10_subid_28_string84-0x08000000)<<8)
+
+.org 0x085FDA5F
+	.word 0xE3|((id_10_subid_30_string86-0x08000000)<<8)
+
+.org 0x085FDA9F
+	.word 0xE3|((id_10_subid_31_string87-0x08000000)<<8)
 

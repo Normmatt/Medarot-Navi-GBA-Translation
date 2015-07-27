@@ -78,6 +78,9 @@ id_156_subid_0_string25:
 id_156_subid_0_string26:
 	.string "<F:03>みんな 待ってよ… はぁはぁ<NL>"
 
+id_156_subid_0_string27:
+	.string "<F:00>ふぅ ひといき…"
+
 id_156_subid_0_string28:
 	.string "<F:03>グェホ! ゲホゲホ…<NL>"
 
@@ -95,6 +98,9 @@ id_156_subid_0_string32:
 
 id_156_subid_0_string33:
 	.string "<F:31>あ! <PLAYER>くんにぃ…"
+
+id_156_subid_0_string34:
+	.string "<F:00>どうしたの ヒヨリ?<WAIT><F:09>わたし ニガテなのよ あの子…<NL>やたらと つっかかってくるし…"
 
 id_156_subid_0_string35:
 	.string "<F:31>コハルビさんじゃないですかぁー"
@@ -180,6 +186,9 @@ id_156_subid_0_string61:
 id_156_subid_0_string62:
 	.string "<F:03>ちょ ちょっと…"
 
+id_156_subid_0_string63:
+	.string "<F:00>ふぅ …まぁ<NL>あやまってるし いいじゃないか…"
+
 id_156_subid_0_string64:
 	.string "<F:31>わぁーい"
 
@@ -188,6 +197,9 @@ id_156_subid_0_string65:
 
 id_156_subid_0_string66:
 	.string "<F:08>ちょっと!! …ウリンさん…<WAIT><F:06><PLAYER>くん とぉーっても<NL>くるしいみたい ですけど?!"
+
+id_156_subid_0_string67:
+	.string "<F:00>ふぅぅ…"
 
 id_156_subid_0_string68:
 	.string "<F:06>あーら! まんざらでも<NL>なかったみたいね!!"

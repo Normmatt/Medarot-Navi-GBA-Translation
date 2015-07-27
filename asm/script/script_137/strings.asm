@@ -3,6 +3,9 @@
 id_137_subid_0_string1:
 	.string "<F:59>わぁーーーーーー"
 
+id_137_subid_0_string2:
+	.string "<F:00>オタクグループは かい心したのに…<WAIT><F:00>いったい だれが?"
+
 id_137_subid_2_string3:
 	.string "<F:05>いつ きても 気味悪いわ"
 
@@ -44,4 +47,7 @@ id_137_subid_11_string15:
 
 id_137_subid_11_string16:
 	.string "<F:73>…ざんねん…<NL>また… とリ返す… このブロック…"
+
+id_137_subid_16_string57:
+	.string "<F:00>オタクグループじゃ ないと すると<NL>いったい だれなんだ?"
 

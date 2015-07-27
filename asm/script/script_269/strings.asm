@@ -138,6 +138,12 @@ id_269_subid_26_string124:
 id_269_subid_26_string125:
 	.string "<F:69>だが このまま やられっぱなしの<NL>わがはいでは ない!<WAIT>くびを あらって まっておれ!"
 
+id_269_subid_27_string126:
+	.string "<F:00>もう なにも ないな…"
+
 id_269_subid_28_string127:
 	.string "<F:04>なにを どうしたら いいんだ?"
+
+id_269_subid_28_string128:
+	.string "<F:00>…やめとこう"
 

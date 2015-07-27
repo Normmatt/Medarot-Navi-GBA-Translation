@@ -12,6 +12,12 @@ id_109_subid_2_string3:
 id_109_subid_2_string4:
 	.string "<F:2B>あリがとう さんこうに なリましたよ…<NL>次は 負けませんよ…"
 
+id_109_subid_7_string5:
+	.string "<F:00>メダロッターランキングの データか…"
+
 id_109_subid_9_string7:
 	.string "<F:04>ヘたに さわったら<NL>こわれちゃうかも…"
+
+id_109_subid_10_string8:
+	.string "<F:00>最新の 機材が そろってるみたいだ"
 

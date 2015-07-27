@@ -21,6 +21,9 @@ id_181_subid_8_string6:
 id_181_subid_8_string7:
 	.string "<F:03>あっ 女子水球部 きたいの ホープ<NL>ツムジさん!"
 
+id_181_subid_8_string8:
+	.string "<F:00>クラスター中の メダロットが ぼうそうして<NL>人間を おそっているみたいなんだ!<WAIT>特訓は 中止して<NL>このブロックを 調ベさせて くれないかな?"
+
 id_181_subid_8_string9:
 	.string "<F:38>ざんねんながら… それは できないわ<NL><PLAYER>くん…<WAIT><F:04>どうして? いっこくを 争うってのに"
 
@@ -75,6 +78,9 @@ id_181_subid_8_string25:
 id_181_subid_8_string26:
 	.string "<F:37>あら?<NL><WAIT>メダロットなんて<NL>ものの 数では あリませんよ"
 
+id_181_subid_8_string27:
+	.string "<F:00>ほーら 聞こえてきた!"
+
 id_181_subid_8_string28:
 	.string "<F:38>きぇーーーーーーーっ"
 
@@ -110,6 +116,9 @@ id_181_subid_8_string42:
 
 id_181_subid_8_string43:
 	.string "<F:37>ツムジが なかまに なった!<NL><WAIT><F:39>ソヨカが なかまに なった!<NL><WAIT><F:3A>コサメが なかまに なった!"
+
+id_181_subid_21_string44:
+	.string "<F:00>先に進まなきゃ"
 
 id_181_subid_36_string57:
 	.string "<F:02>うぅん… 気持ちいいなぁ…<WAIT><F:00>…って 言ってるばあいじゃ ないよね"

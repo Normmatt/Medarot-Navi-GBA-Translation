@@ -45,6 +45,9 @@ id_101_subid_9_string14:
 id_101_subid_9_string15:
 	.string "<F:14>なんや? みなれん顔やな?<WAIT><F:19>どこの どいつでやんす?"
 
+id_101_subid_9_string16:
+	.string "<F:00>ああ… かれはフブ…"
+
 id_101_subid_9_string17:
 	.string "<F:0D>オレは おまえたちと いっしょで ここに<NL>見学に きて じけんに まきこまれたんだ<WAIT><F:0A>今は この <PLAYER>と<NL>いっしょに 行動してるんだけど…<WAIT>おまえらも こいつに 協力してやれよ"
 
@@ -101,4 +104,7 @@ id_101_subid_9_string34:
 
 id_101_subid_9_string35:
 	.string "ヌニエイカウウカオイオエフニエアオエハニエイチア<ED>クタオウヌチエ"
+
+id_101_subid_10_string36:
+	.string "<F:00>なにが あるか 調ベなきゃ"
 

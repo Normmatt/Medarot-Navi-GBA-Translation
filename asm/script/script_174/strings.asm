@@ -1,7 +1,13 @@
 ; Medarot Navi Script 174 Strings
 
+id_174_subid_7_string1:
+	.string "<F:00>火を つけたら<NL>チョコが とけちゃいそうだな…"
+
 id_174_subid_8_string2:
 	.string "<F:03>うわぁ!<NL>これも おかしだ!"
+
+id_174_subid_10_string3:
+	.string "<F:00>いずみのそこに なにかあるぞ!"
 
 id_174_subid_17_string4:
 	.string "<F:29>お おまえは…<WAIT><F:04>あ アマミヤ… くん…?"

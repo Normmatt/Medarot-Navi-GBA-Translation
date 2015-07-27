@@ -15,6 +15,9 @@ id_242_subid_0_string4:
 id_242_subid_0_string5:
 	.string "<F:7D>たすかったロボ"
 
+id_242_subid_0_string6:
+	.string "<F:00>また やってるのかな?"
+
 id_242_subid_0_string7:
 	.string "<F:7D>また きたロボ!"
 

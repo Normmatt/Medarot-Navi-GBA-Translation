@@ -24,6 +24,9 @@
 .org 0x085DB87C
 	.word 0xE3|((id_232_subid_0_string8-0x08000000)<<8)
 
+.org 0x085DB88C
+	.word 0xE3|((id_232_subid_0_string9-0x08000000)<<8)
+
 .org 0x085DB8B4
 	.word 0xE3|((id_232_subid_0_string10-0x08000000)<<8)
 
@@ -32,4 +35,7 @@
 
 .org 0x085DB8F3
 	.word 0xE3|((id_232_subid_0_string12-0x08000000)<<8)
+
+.org 0x085DB901
+	.word 0xE3|((id_232_subid_0_string13-0x08000000)<<8)
 

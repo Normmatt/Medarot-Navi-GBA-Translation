@@ -9,6 +9,9 @@ id_262_subid_0_string2:
 id_262_subid_0_string3:
 	.string "<F:0B>てっ!<NL><WAIT>なに するんだよ!<WAIT><F:7F>うぉー!"
 
+id_262_subid_0_string4:
+	.string "<F:00>だいじょうぶ?<WAIT><F:05>なんか テンション 高いわね…"
+
 id_262_subid_0_string5:
 	.string "<F:15>そんなこと 関係あるかい!<NL>リーダーの かたきや!<WAIT><F:1A>やるで やんす!"
 

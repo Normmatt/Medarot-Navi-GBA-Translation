@@ -3,6 +3,9 @@
 id_360_subid_0_string1:
 	.string "<F:54>待ってください!<WAIT><F:54>まず わたしが はじめに 出て<NL>外の 安全を 確かめます!"
 
+id_360_subid_0_string2:
+	.string "<F:00>えぇーーーーっ!<NL>まず いちばんのリは オレが…"
+
 id_360_subid_0_string3:
 	.string "<F:03>げふぅ!"
 
@@ -26,6 +29,9 @@ id_360_subid_0_string9:
 
 id_360_subid_0_string10:
 	.string "<F:56>自分で あるくって・・・<E5>"
+
+id_360_subid_0_string11:
+	.string "<F:00>ガックシ"
 
 id_360_subid_0_string12:
 	.string "<F:07>あーん[<3]<NL><WAIT>もう!<NL>ナビコちゃん カワイィーーー[<3]"

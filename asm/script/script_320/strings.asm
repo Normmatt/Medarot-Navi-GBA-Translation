@@ -72,3 +72,9 @@ id_320_subid_0_string23:
 id_320_subid_0_string24:
 	.string "<F:04>じゃあ ひかくてき 地味な アプローチで…<NL>"
 
+id_320_subid_0_string25:
+	.string "<F:00>そういえば この宇宙船…<NL><WAIT>メダロットしか 見かけないけど…<NL>どういうことなんだ?"
+
+id_320_subid_11_string26:
+	.string "<F:00>今は よリみちを している ヒマは ないよ"
+

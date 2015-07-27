@@ -33,6 +33,9 @@ id_112_subid_0_string10:
 id_112_subid_0_string11:
 	.string "<F:07>ふふふ…"
 
+id_112_subid_11_string12:
+	.string "<F:00>ミエミエくんを さがさなくちゃ<NL>"
+
 id_112_subid_15_string15:
 	.string "<F:07>ふふ あリがと"
 
@@ -54,6 +57,12 @@ id_112_subid_22_string24:
 id_112_subid_22_string25:
 	.string "<F:6F>たいきゃくでごわす"
 
+id_112_subid_25_string26:
+	.string "<F:00>いまは もどってるばあいじゃ ないな"
+
 id_112_subid_41_string31:
 	.string "<F:02>あった あった!"
+
+id_112_subid_41_string32:
+	.string "<F:00>ふう やれやれ"
 

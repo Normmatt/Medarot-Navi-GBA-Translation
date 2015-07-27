@@ -15,6 +15,9 @@
 .org 0x085DF8AF
 	.word 0xE3|((id_142_subid_0_string5-0x08000000)<<8)
 
+.org 0x085DF8CF
+	.word 0xE3|((id_142_subid_0_string6-0x08000000)<<8)
+
 .org 0x085DF8F0
 	.word 0xE3|((id_142_subid_0_string7-0x08000000)<<8)
 

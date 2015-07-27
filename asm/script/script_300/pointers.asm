@@ -81,6 +81,18 @@
 .org 0x0860F4CA
 	.word 0xE3|((id_300_subid_0_string27-0x08000000)<<8)
 
+.org 0x0860F4ED
+	.word 0xE3|((id_300_subid_0_string28-0x08000000)<<8)
+
+.org 0x0860F51E
+	.word 0xE3|((id_300_subid_13_string29-0x08000000)<<8)
+
+.org 0x0860F531
+	.word 0xE3|((id_300_subid_21_string37-0x08000000)<<8)
+
+.org 0x0860F55F
+	.word 0xE3|((id_300_subid_23_string39-0x08000000)<<8)
+
 .org 0x0860F542
 	.word 0xE3|((id_300_subid_24_string40-0x08000000)<<8)
 

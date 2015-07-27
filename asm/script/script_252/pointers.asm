@@ -24,3 +24,6 @@
 .org 0x085DDC9B
 	.word 0xE3|((id_252_subid_0_string8-0x08000000)<<8)
 
+.org 0x085DDCBE
+	.word 0xE3|((id_252_subid_0_string9-0x08000000)<<8)
+

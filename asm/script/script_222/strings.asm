@@ -21,6 +21,9 @@ id_222_subid_0_string6:
 id_222_subid_0_string7:
 	.string "<F:7F>できるロボ!"
 
+id_222_subid_0_string8:
+	.string "<F:00>あれ? また?"
+
 id_222_subid_0_string9:
 	.string "<F:7D>なにロボ!<NL>こいつ 今は ひとリロボ!<WAIT><F:7E>しゅっせの てみやげロボ!"
 

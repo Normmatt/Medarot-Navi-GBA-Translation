@@ -1,5 +1,8 @@
 ; Medarot Navi Script 97 Strings
 
+id_97_subid_0_string1:
+	.string "<F:00>おまえら しょうこリも なく…"
+
 id_97_subid_0_string2:
 	.string "<F:71>うっさいわねぇ!<NL>かいぞくごっこが やみつきに なったのよ!"
 

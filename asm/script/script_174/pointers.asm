@@ -1,7 +1,13 @@
 ; Medarot Navi Script 174 Pointers
 
+.org 0x08622D73
+	.word 0xE3|((id_174_subid_7_string1-0x08000000)<<8)
+
 .org 0x08622D62
 	.word 0xE3|((id_174_subid_8_string2-0x08000000)<<8)
+
+.org 0x08622DAA
+	.word 0xE3|((id_174_subid_10_string3-0x08000000)<<8)
 
 .org 0x08622CC5
 	.word 0xE3|((id_174_subid_17_string4-0x08000000)<<8)

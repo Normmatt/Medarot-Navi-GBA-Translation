@@ -1,5 +1,8 @@
 ; Medarot Navi Script 131 Pointers
 
+.org 0x08614ABF
+	.word 0xE3|((id_131_subid_0_string1-0x08000000)<<8)
+
 .org 0x08614B20
 	.word 0xE3|((id_131_subid_0_string2-0x08000000)<<8)
 
@@ -8,6 +11,9 @@
 
 .org 0x08614B3C
 	.word 0xE3|((id_131_subid_0_string4-0x08000000)<<8)
+
+.org 0x08614B68
+	.word 0xE3|((id_131_subid_0_string5-0x08000000)<<8)
 
 .org 0x08614B76
 	.word 0xE3|((id_131_subid_0_string6-0x08000000)<<8)

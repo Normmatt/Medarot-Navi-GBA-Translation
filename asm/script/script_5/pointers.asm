@@ -3,8 +3,14 @@
 .org 0x085F2DAD
 	.word 0xE3|((id_5_subid_0_string1-0x08000000)<<8)
 
+.org 0x085F2DED
+	.word 0xE3|((id_5_subid_0_string2-0x08000000)<<8)
+
 .org 0x085F2E60
 	.word 0xE3|((id_5_subid_0_string3-0x08000000)<<8)
+
+.org 0x085F2E9F
+	.word 0xE3|((id_5_subid_0_string4-0x08000000)<<8)
 
 .org 0x085F2F36
 	.word 0xE3|((id_5_subid_0_string5-0x08000000)<<8)
@@ -32,6 +38,9 @@
 
 .org 0x085F332D
 	.word 0xE3|((id_5_subid_0_string13-0x08000000)<<8)
+
+.org 0x085F3357
+	.word 0xE3|((id_5_subid_0_string14-0x08000000)<<8)
 
 .org 0x085F335C
 	.word 0xE3|((id_5_subid_0_string15-0x08000000)<<8)
@@ -66,6 +75,9 @@
 .org 0x085F30F3
 	.word 0xE3|((id_5_subid_0_string25-0x08000000)<<8)
 
+.org 0x085F336F
+	.word 0xE3|((id_5_subid_0_string26-0x08000000)<<8)
+
 .org 0x085F326C
 	.word 0xE3|((id_5_subid_0_string27-0x08000000)<<8)
 
@@ -77,6 +89,9 @@
 
 .org 0x085F3108
 	.word 0xE3|((id_5_subid_49_string30-0x08000000)<<8)
+
+.org 0x085F3119
+	.word 0xE3|((id_5_subid_49_string31-0x08000000)<<8)
 
 .org 0x085F3124
 	.word 0xE3|((id_5_subid_49_string32-0x08000000)<<8)

@@ -6,11 +6,20 @@ id_91_subid_0_string1:
 id_91_subid_0_string2:
 	.string "<F:05>あら!?<NL><WAIT>すごい おやしきじゃない!<NL>だれか すんでるのかしら"
 
+id_91_subid_0_string3:
+	.string "<F:00>いないと 思…"
+
 id_91_subid_0_string4:
 	.string "<F:07>いなくても ひとやすみくらい できそうね!"
 
+id_91_subid_0_string5:
+	.string "<F:00>先を いそ…"
+
 id_91_subid_0_string6:
 	.string "<F:07>そうね!<NL><WAIT>ここで ひとやすみ しましょうか!"
+
+id_91_subid_0_string7:
+	.string "<F:00>まだ…"
 
 id_91_subid_0_string8:
 	.string "<F:07><PLAYER><NL>わたし ここで まってるわ!<WAIT>はやく おやしきの 様子 見てきてね!"
@@ -30,11 +39,23 @@ id_91_subid_21_string23:
 id_91_subid_21_string24:
 	.string "<F:33>コハルビさん…<NL>あとは 見かけない 顔ねぇ<WAIT>わたくしたちの おやしきに<NL>なにか ご用かしら"
 
+id_91_subid_21_string25:
+	.string "<F:00>ヘぇー ここ キミたちの おやしきなんだ?"
+
+id_91_subid_21_string26:
+	.string "<F:00>あ かれは フブキ<NL><WAIT>他の 学校の せいとで…<NL><WAIT>オレたちと 同じく<NL>ここに とリのこされたんだ"
+
 id_91_subid_21_string27:
 	.string "<F:0A>おいおい じこしょうかいくらい でき…<WAIT><F:33>それで・・・?<NL>あなた方 なんの用が おあリなのかしら?"
 
+id_91_subid_21_string28:
+	.string "<F:00>ここが 安全か どうか オレたちに…"
+
 id_91_subid_21_string29:
 	.string "<F:06>(ちょっとぉ! あの おやしきが<NL> あの子たちの 物なわけ ないじゃない!)<WAIT>(わたしも あそこで やすみたいんだから<NL> どかせなさいよ!)<WAIT><F:04>(でも 言っても 聞く れんちゅうじゃ…)<WAIT><F:06>(クラス委員長に なったんだから<NL> 命令しなさいよ!)"
+
+id_91_subid_21_string30:
+	.string "<F:00>オレ… なリゆきで<NL>リんじの クラス委員長に なったんだけど<WAIT>このブロックも 危険かもしれないんだ…<NL><WAIT>とリあえず ここは オレたちに 任せて<NL>中に 入らせて くれないか?"
 
 id_91_subid_21_string31:
 	.string "<F:33>おーーーーーほほほほほほ!<WAIT><F:35>おほほほほほ!<WAIT><F:36>ふふふっ"

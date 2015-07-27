@@ -27,9 +27,15 @@ id_231_subid_0_string8:
 id_231_subid_0_string9:
 	.string "<F:7D>ひ… ひどすぎるロボ…"
 
+id_231_subid_0_string10:
+	.string "<F:00>あれ?<NL>いつにも まして しんきくさいけど…"
+
 id_231_subid_0_string11:
 	.string "<F:7E>このかなしみを<NL>おまえたちに ぶつけるロボ!"
 
 id_231_subid_0_string12:
 	.string "<F:7D>ふふふ… コテンパンに 負けて<NL>いっそ せいせい したロボ! さらばロボー"
+
+id_231_subid_0_string13:
+	.string "<F:00>いろいろ あるんだなぁ…"
 

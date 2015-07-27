@@ -18,8 +18,14 @@ id_151_subid_16_string5:
 id_151_subid_16_string6:
 	.string "<F:66>オレと ロボトルしろ!"
 
+id_151_subid_16_string7:
+	.string "<F:00>でも キミ パーツが 足リてないから<NL>ロボトル できないよ?"
+
 id_151_subid_16_string8:
 	.string "<F:66>むぅーーーーっ!<NL><WAIT>いいから オレと ロボトルしろーーーーッ!"
+
+id_151_subid_16_string9:
+	.string "<F:00>相手の パーツが 足リてないと<NL>メダロッチが 動作しないから<WAIT>ロボトルは 無理だよ"
 
 id_151_subid_16_string10:
 	.string "<F:05>そうよ!<NL>"
@@ -32,6 +38,9 @@ id_151_subid_16_string12:
 
 id_151_subid_16_string13:
 	.string "<F:66>でも あいつらに 右腕を とられちまって…<NL>無理やリにでも だれかから 奪わないと…"
+
+id_151_subid_16_string14:
+	.string "<F:00>あいつらって?"
 
 id_151_subid_16_string15:
 	.string "<F:05>ひょっとして・・・<NL>ロボロボ言う れんちゅうかしら?"
@@ -62,4 +71,7 @@ id_151_subid_16_string23:
 
 id_151_subid_16_string24:
 	.string "<F:03>え? でも それじゃ キミは…<NL><WAIT><F:66>なあに 気にしないでくれ<NL>実は じむしょに スペアが あるのさ"
+
+id_151_subid_21_string25:
+	.string "<F:00>まだ なにも してないよ"
 

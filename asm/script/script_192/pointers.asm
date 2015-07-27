@@ -12,6 +12,9 @@
 .org 0x0861B3D7
 	.word 0xE3|((id_192_subid_0_string4-0x08000000)<<8)
 
+.org 0x0861B3F0
+	.word 0xE3|((id_192_subid_0_string5-0x08000000)<<8)
+
 .org 0x0861B400
 	.word 0xE3|((id_192_subid_0_string6-0x08000000)<<8)
 
@@ -29,4 +32,7 @@
 
 .org 0x0861B4F8
 	.word 0xE3|((id_192_subid_5_string11-0x08000000)<<8)
+
+.org 0x0861B4A9
+	.word 0xE3|((id_192_subid_12_string12-0x08000000)<<8)
 

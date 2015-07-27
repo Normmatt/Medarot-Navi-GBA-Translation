@@ -12,3 +12,6 @@ id_94_subid_3_string3:
 id_94_subid_3_string4:
 	.string "<F:36>そう いたしましょうか"
 
+id_94_subid_5_string69:
+	.string "<F:00>カギが かかってる…"
+

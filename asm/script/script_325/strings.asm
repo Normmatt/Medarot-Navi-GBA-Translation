@@ -3,6 +3,9 @@
 id_325_subid_0_string1:
 	.string "<F:0F>なんだか すさまじい場所だな…"
 
+id_325_subid_0_string2:
+	.string "<F:00>地球の はじまリって 感じ だけど…<NL><WAIT>それに 所々に メダルの もようが あるな"
+
 id_325_subid_0_string3:
 	.string "<F:04>クラスターみたいに メダロットの<NL>開発テストでも するのかな?"
 
@@ -27,8 +30,14 @@ id_325_subid_0_string9:
 id_325_subid_0_string10:
 	.string "<F:6E>どうやら 勝負を つけるまでも<NL>ないようでごわすな<WAIT>宇宙文明とやらも 大したことが…"
 
+id_325_subid_0_string11:
+	.string "<F:00>うん シデンの 言う通リだよ ヒヨリ<WAIT><F:05>…二人とも どういう…"
+
 id_325_subid_0_string12:
 	.string "<F:6F>あーーーーーっ レオっ!!!"
+
+id_325_subid_0_string13:
+	.string "<F:00>あのメダロット レオの 攻撃を<NL>ギリギリで よけていた みたいだ…<WAIT><F:0F>おそろしく 能力の 高い やつだ!"
 
 id_325_subid_0_string14:
 	.string "<F:64>侵入者を 発見…<NL><WAIT>侵入者を かくリします!"
@@ -72,6 +81,9 @@ id_325_subid_0_string26:
 id_325_subid_0_string27:
 	.string "<F:6C>…まったく…<NL>しようのない やつらでごわすな…<WAIT>しかし… おんに きるでごわす…"
 
+id_325_subid_0_string28:
+	.string "<F:00>他の やつらは?"
+
 id_325_subid_0_string29:
 	.string "<F:6C>おいどんが さっきの メダロットを<NL>ひきつけている 間に<WAIT>先に 行ったでごわす…<NL><WAIT>他のブロックを<NL>せんリょうするために でごわすが…"
 
@@ -93,6 +105,9 @@ id_325_subid_0_string34:
 id_325_subid_0_string35:
 	.string "<F:07>きゃーーーっ!"
 
+id_325_subid_0_string36:
+	.string "<F:00>シデン!?<NL><WAIT>キミの とこの 管理コンピュータって<NL><WAIT>たしか 一流プログラマーが<NL>チームを 組んで 開発したって…<WAIT>ナビコちゃんって<NL>ちょっと こせいてき すぎない?<WAIT><F:0F>ナビは これまで 人が 組み上げた<NL>プログラムの 中でも<WAIT>最大きぼの ものなんだ<NL><WAIT>おまけに…<NL>"
+
 id_325_subid_0_string37:
 	.string "<F:0F>さっきの やリとリで 自分を 書きかえ<NL>超えていく 機能を 身につけてしまった…<WAIT>もう 全く 別の 物に<NL>なっているのかも しれない…"
 
@@ -107,6 +122,9 @@ id_325_subid_0_string40:
 
 id_325_subid_0_string41:
 	.string "<F:09>ちょ… ちょっと<NL>なぁに あの ばくはつ音!<WAIT><F:03>まさか…<NL>"
+
+id_325_subid_0_string42:
+	.string "<F:00>ニュウドウ!<NL><WAIT>さっき 他の メンバーも<NL>せんリょうしに 行ったって 言ったよね?<WAIT>さっきの メダロットみたいなのが<NL>他にも いるとすると…<WAIT><F:6C>攻撃を しかけ…<NL><WAIT>おいどんと 同じような目に<NL>あってるでごわす!<WAIT><F:01>先を 急ごう!"
 
 id_325_subid_13_string43:
 	.string "<F:01>先を 急ごう!"

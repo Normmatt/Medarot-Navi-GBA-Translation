@@ -6,6 +6,9 @@ id_201_subid_0_string1:
 id_201_subid_0_string2:
 	.string "<F:05>まるで むしに なったみたいね<NL><PLAYER>!"
 
+id_201_subid_0_string3:
+	.string "<F:00>うん! すごい!<NL><WAIT>これは… むしを モデルにした メダロットの<NL>性能しけん場って わけ?"
+
 id_201_subid_0_string4:
 	.string "<F:0A>そうさ!<NL>むしの せかいを シミュレートすることで<WAIT>よリ リアルな むしがたメダロットを<NL>作ろうと しているんだ"
 

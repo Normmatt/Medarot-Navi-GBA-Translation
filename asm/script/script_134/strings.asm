@@ -9,6 +9,9 @@ id_134_subid_2_string2:
 id_134_subid_2_string3:
 	.string "<F:7E>しゅ… しゅっせロボー!"
 
+id_134_subid_2_string4:
+	.string "<F:00>ここにも まだスペロボ団が<NL>のこってたのか…<WAIT>もう 全員 引き上げたのかと…"
+
 id_134_subid_2_string5:
 	.string "<F:80>う… うそロボ<NL>だまされないロボ"
 

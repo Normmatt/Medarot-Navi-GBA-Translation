@@ -6,8 +6,14 @@
 .org 0x085E3E55
 	.word 0xE3|((id_106_subid_0_string2-0x08000000)<<8)
 
+.org 0x085E3E5F
+	.word 0xE3|((id_106_subid_0_string3-0x08000000)<<8)
+
 .org 0x085E3E6D
 	.word 0xE3|((id_106_subid_0_string4-0x08000000)<<8)
+
+.org 0x085E3E84
+	.word 0xE3|((id_106_subid_0_string5-0x08000000)<<8)
 
 .org 0x085E3E92
 	.word 0xE3|((id_106_subid_0_string6-0x08000000)<<8)
@@ -159,6 +165,9 @@
 .org 0x085E4825
 	.word 0xE3|((id_106_subid_0_string55-0x08000000)<<8)
 
+.org 0x085E4831
+	.word 0xE3|((id_106_subid_0_string56-0x08000000)<<8)
+
 .org 0x085E4839
 	.word 0xE3|((id_106_subid_0_string57-0x08000000)<<8)
 
@@ -192,6 +201,9 @@
 .org 0x085E4964
 	.word 0xE3|((id_106_subid_0_string67-0x08000000)<<8)
 
+.org 0x085E4999
+	.word 0xE3|((id_106_subid_0_string68-0x08000000)<<8)
+
 .org 0x085E49B6
 	.word 0xE3|((id_106_subid_0_string69-0x08000000)<<8)
 
@@ -206,6 +218,9 @@
 
 .org 0x085E4A21
 	.word 0xE3|((id_106_subid_0_string73-0x08000000)<<8)
+
+.org 0x085E4A57
+	.word 0xE3|((id_106_subid_0_string74-0x08000000)<<8)
 
 .org 0x085E4A5E
 	.word 0xE3|((id_106_subid_0_string75-0x08000000)<<8)
@@ -312,6 +327,9 @@
 .org 0x085E51DE
 	.word 0xE3|((id_106_subid_0_string109-0x08000000)<<8)
 
+.org 0x085E5223
+	.word 0xE3|((id_106_subid_0_string110-0x08000000)<<8)
+
 .org 0x085E5251
 	.word 0xE3|((id_106_subid_0_string111-0x08000000)<<8)
 
@@ -345,14 +363,23 @@
 .org 0x085E546E
 	.word 0xE3|((id_106_subid_0_string121-0x08000000)<<8)
 
+.org 0x085E54A3
+	.word 0xE3|((id_106_subid_0_string122-0x08000000)<<8)
+
 .org 0x085E559A
 	.word 0xE3|((id_106_subid_0_string123-0x08000000)<<8)
+
+.org 0x085E574C
+	.word 0xE3|((id_106_subid_0_string124-0x08000000)<<8)
 
 .org 0x085E57A4
 	.word 0xE3|((id_106_subid_0_string125-0x08000000)<<8)
 
 .org 0x085E5834
 	.word 0xE3|((id_106_subid_0_string126-0x08000000)<<8)
+
+.org 0x085E5847
+	.word 0xE3|((id_106_subid_0_string127-0x08000000)<<8)
 
 .org 0x085E585A
 	.word 0xE3|((id_106_subid_0_string128-0x08000000)<<8)
@@ -371,6 +398,9 @@
 
 .org 0x085E592D
 	.word 0xE3|((id_106_subid_0_string133-0x08000000)<<8)
+
+.org 0x085E594B
+	.word 0xE3|((id_106_subid_0_string134-0x08000000)<<8)
 
 .org 0x085E5965
 	.word 0xE3|((id_106_subid_0_string135-0x08000000)<<8)

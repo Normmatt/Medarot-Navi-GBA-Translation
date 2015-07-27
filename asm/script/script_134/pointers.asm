@@ -9,6 +9,9 @@
 .org 0x08628865
 	.word 0xE3|((id_134_subid_2_string3-0x08000000)<<8)
 
+.org 0x086288DF
+	.word 0xE3|((id_134_subid_2_string4-0x08000000)<<8)
+
 .org 0x08628875
 	.word 0xE3|((id_134_subid_2_string5-0x08000000)<<8)
 

@@ -1,5 +1,11 @@
 ; Medarot Navi Script 161 Pointers
 
+.org 0x085E7B07
+	.word 0xE3|((id_161_subid_0_string1-0x08000000)<<8)
+
+.org 0x085E7B2A
+	.word 0xE3|((id_161_subid_0_string2-0x08000000)<<8)
+
 .org 0x085E7B3B
 	.word 0xE3|((id_161_subid_0_string3-0x08000000)<<8)
 
@@ -72,6 +78,9 @@
 .org 0x085E7E34
 	.word 0xE3|((id_161_subid_16_string26-0x08000000)<<8)
 
+.org 0x085E7E3C
+	.word 0xE3|((id_161_subid_16_string27-0x08000000)<<8)
+
 .org 0x085E7E43
 	.word 0xE3|((id_161_subid_16_string28-0x08000000)<<8)
 
@@ -89,6 +98,9 @@
 
 .org 0x085E7EAC
 	.word 0xE3|((id_161_subid_16_string33-0x08000000)<<8)
+
+.org 0x085E7EB7
+	.word 0xE3|((id_161_subid_16_string34-0x08000000)<<8)
 
 .org 0x085E7EDF
 	.word 0xE3|((id_161_subid_16_string35-0x08000000)<<8)
@@ -114,6 +126,9 @@
 .org 0x085E7FBB
 	.word 0xE3|((id_161_subid_16_string42-0x08000000)<<8)
 
+.org 0x085E7FC7
+	.word 0xE3|((id_161_subid_16_string43-0x08000000)<<8)
+
 .org 0x085E8008
 	.word 0xE3|((id_161_subid_16_string44-0x08000000)<<8)
 
@@ -134,6 +149,15 @@
 
 .org 0x085E80C4
 	.word 0xE3|((id_161_subid_16_string50-0x08000000)<<8)
+
+.org 0x085E80E7
+	.word 0xE3|((id_161_subid_16_string51-0x08000000)<<8)
+
+.org 0x085E810C
+	.word 0xE3|((id_161_subid_16_string52-0x08000000)<<8)
+
+.org 0x085E8117
+	.word 0xE3|((id_161_subid_16_string53-0x08000000)<<8)
 
 .org 0x085E812B
 	.word 0xE3|((id_161_subid_16_string54-0x08000000)<<8)
@@ -159,6 +183,9 @@
 .org 0x085E81FF
 	.word 0xE3|((id_161_subid_16_string61-0x08000000)<<8)
 
+.org 0x085E821E
+	.word 0xE3|((id_161_subid_16_string62-0x08000000)<<8)
+
 .org 0x085E8226
 	.word 0xE3|((id_161_subid_16_string63-0x08000000)<<8)
 
@@ -168,11 +195,23 @@
 .org 0x085E8262
 	.word 0xE3|((id_161_subid_16_string65-0x08000000)<<8)
 
+.org 0x085E828F
+	.word 0xE3|((id_161_subid_16_string66-0x08000000)<<8)
+
 .org 0x085E82C6
 	.word 0xE3|((id_161_subid_16_string67-0x08000000)<<8)
 
 .org 0x085E82FE
 	.word 0xE3|((id_161_subid_16_string68-0x08000000)<<8)
+
+.org 0x085E832C
+	.word 0xE3|((id_161_subid_16_string69-0x08000000)<<8)
+
+.org 0x085E834E
+	.word 0xE3|((id_161_subid_16_string70-0x08000000)<<8)
+
+.org 0x085E8361
+	.word 0xE3|((id_161_subid_16_string71-0x08000000)<<8)
 
 .org 0x085E8383
 	.word 0xE3|((id_161_subid_16_string72-0x08000000)<<8)
@@ -206,6 +245,9 @@
 
 .org 0x085E84A2
 	.word 0xE3|((id_161_subid_16_string82-0x08000000)<<8)
+
+.org 0x085E84B8
+	.word 0xE3|((id_161_subid_16_string83-0x08000000)<<8)
 
 .org 0x085E84C4
 	.word 0xE3|((id_161_subid_16_string84-0x08000000)<<8)
@@ -246,11 +288,17 @@
 .org 0x085E883C
 	.word 0xE3|((id_161_subid_16_string96-0x08000000)<<8)
 
+.org 0x085E8869
+	.word 0xE3|((id_161_subid_16_string97-0x08000000)<<8)
+
 .org 0x085E8917
 	.word 0xE3|((id_161_subid_16_string98-0x08000000)<<8)
 
 .org 0x085E892F
 	.word 0xE3|((id_161_subid_16_string99-0x08000000)<<8)
+
+.org 0x085E894B
+	.word 0xE3|((id_161_subid_16_string100-0x08000000)<<8)
 
 .org 0x085E8953
 	.word 0xE3|((id_161_subid_16_string101-0x08000000)<<8)
@@ -393,6 +441,9 @@
 .org 0x085E7707
 	.word 0xE3|((id_161_subid_16_string147-0x08000000)<<8)
 
+.org 0x085E7713
+	.word 0xE3|((id_161_subid_16_string148-0x08000000)<<8)
+
 .org 0x085E771D
 	.word 0xE3|((id_161_subid_16_string149-0x08000000)<<8)
 
@@ -468,6 +519,9 @@
 .org 0x085E79D6
 	.word 0xE3|((id_161_subid_16_string173-0x08000000)<<8)
 
+.org 0x085E79E5
+	.word 0xE3|((id_161_subid_16_string174-0x08000000)<<8)
+
 .org 0x085E7A06
 	.word 0xE3|((id_161_subid_16_string175-0x08000000)<<8)
 
@@ -485,6 +539,9 @@
 
 .org 0x085E7AE2
 	.word 0xE3|((id_161_subid_16_string180-0x08000000)<<8)
+
+.org 0x085E7AF5
+	.word 0xE3|((id_161_subid_16_string181-0x08000000)<<8)
 
 .org 0x085E8EF8
 	.word 0xE3|((id_161_subid_16_string182-0x08000000)<<8)
@@ -506,6 +563,12 @@
 
 .org 0x085E8FC6
 	.word 0xE3|((id_161_subid_16_string188-0x08000000)<<8)
+
+.org 0x085E8FD3
+	.word 0xE3|((id_161_subid_16_string189-0x08000000)<<8)
+
+.org 0x085E8FF1
+	.word 0xE3|((id_161_subid_16_string190-0x08000000)<<8)
 
 .org 0x085E8EC0
 	.word 0xE3|((id_161_subid_16_string191-0x08000000)<<8)

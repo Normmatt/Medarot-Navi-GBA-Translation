@@ -21,8 +21,14 @@ id_71_subid_0_string6:
 id_71_subid_0_string7:
 	.string "<F:03>ヘぇーーー 本当に<NL>全て コンピュータ管理なんだ…"
 
+id_71_subid_0_string8:
+	.string "<F:00>キミが ナビか…<WAIT><F:02>オレ <PLAYER>!<NL>よろしく!"
+
 id_71_subid_0_string9:
 	.string "<F:53>でも 変ですね…<NL><WAIT>確か オープン時には おおぜいの 入場が<NL>予定されて いましたが…"
+
+id_71_subid_0_string10:
+	.string "<F:00>うん オレ いちばんのリに なリたくて<NL>みんなよリ さきに はいったんだ<WAIT><F:53>『いちばんのリ』?<WAIT><F:02>だれも はいってない ところに<NL>まっさきに はいるって 気持ち いいだろ?<WAIT><F:00>…って キミに 分かるかな?"
 
 id_71_subid_0_string11:
 	.string "<F:03>ぐあっ!"
@@ -59,6 +65,9 @@ id_71_subid_0_string21:
 
 id_71_subid_0_string22:
 	.string "<F:06>そういえば・・・<NL>委員長のヤツ どこに 行ったのかしら?<WAIT>せっかく とっちめてやろうと 思ってたのに"
+
+id_71_subid_0_string23:
+	.string "<F:00>なんで 委員長に こだわるんだ?<NL><WAIT>・・・もしかして 今までのって<NL>全部 委員長が やってたのか?"
 
 id_71_subid_0_string24:
 	.string "<F:06>あんた 今ごろ きづいたの?!<WAIT><F:04>・・・"

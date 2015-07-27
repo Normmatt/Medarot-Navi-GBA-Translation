@@ -12,6 +12,9 @@
 .org 0x086076AE
 	.word 0xE3|((id_290_subid_15_string4-0x08000000)<<8)
 
+.org 0x0860771F
+	.word 0xE3|((id_290_subid_15_string5-0x08000000)<<8)
+
 .org 0x08607727
 	.word 0xE3|((id_290_subid_15_string6-0x08000000)<<8)
 
@@ -39,6 +42,12 @@
 .org 0x0860790C
 	.word 0xE3|((id_290_subid_15_string14-0x08000000)<<8)
 
+.org 0x08607923
+	.word 0xE3|((id_290_subid_20_string15-0x08000000)<<8)
+
 .org 0x08607933
 	.word 0xE3|((id_290_subid_27_string22-0x08000000)<<8)
+
+.org 0x0860794E
+	.word 0xE3|((id_290_subid_27_string23-0x08000000)<<8)
 

@@ -66,6 +66,9 @@
 .org 0x08606FA0
 	.word 0xE3|((id_340_subid_14_string22-0x08000000)<<8)
 
+.org 0x08606F92
+	.word 0xE3|((id_340_subid_32_string231-0x08000000)<<8)
+
 .org 0x08606EFA
 	.word 0xE3|((id_340_subid_41_string238-0x08000000)<<8)
 

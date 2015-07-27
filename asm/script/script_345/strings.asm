@@ -1,5 +1,8 @@
 ; Medarot Navi Script 345 Strings
 
+id_345_subid_0_string1:
+	.string "<F:00>キミは… キミは『ミストラル』だね!?"
+
 id_345_subid_0_string2:
 	.string "<F:12>ミストラル!?"
 
@@ -11,6 +14,9 @@ id_345_subid_0_string4:
 
 id_345_subid_0_string5:
 	.string "<F:04>しらベる?<NL><WAIT><F:01>それで こんな事を したっていうの?<WAIT><F:8B>そうデス<NL><WAIT>地球人の文明と メダロットの能力<NL>ロボトルのレベルを 調ベるためデス"
+
+id_345_subid_0_string6:
+	.string "<F:00>そうか! それで このクラスターを!<WAIT><F:8B>そう このクラスターと<NL>そのコンピュータ ナビは<WAIT>地球の全てを 調ベるのに<NL>とても つごうが よかったデス<WAIT>とくに そこの<NL>メダロッター シデンが あつめた<WAIT>全メダロッターの こじんデータは・・・デス"
 
 id_345_subid_0_string7:
 	.string "<F:10>…そう …確かに ぼくは…<NL><WAIT>自分の立場を リようして<NL>RR社に とうろくされた<WAIT>メダロッターの こじんデータを<NL>全て集め ぶんせきしていた・・・<WAIT><F:8B>ワタシは このデータを<NL>ただちに もちかえるデス<WAIT>地球人は いいかげんで 今回の じこのような<NL>ミスを かんたんに 起こします<WAIT>これを ワタシのマスターが 知れば<NL>地球の文明も メダロッターも<WAIT>敵では なくなるデス"
@@ -177,6 +183,9 @@ id_345_subid_0_string60:
 id_345_subid_0_string61:
 	.string "<F:03>…そうだ!"
 
+id_345_subid_0_string62:
+	.string "<F:00>今こそ ミストラルを たおそう!<NL><WAIT>今なら!<NL>オレたちが 力を 合わせれば!<WAIT><F:0F>なるほど… メインの 処理が<NL>防御プログラムに 奪われている 今<WAIT>ミストラルの 能力は<NL>かなリ 落ちている<WAIT><F:10>しかし ミストラルには<NL>全メダロッターの データが・・・"
+
 id_345_subid_0_string63:
 	.string "<F:0A>わすれたんですか シデン様<NL><WAIT>そんなこと やってみなくちゃ<NL>わからないですよ!"
 
@@ -224,6 +233,9 @@ id_345_subid_0_string77:
 
 id_345_subid_0_string78:
 	.string "<F:08>…こんなに 小さく なっちゃって<NL>ほんとに… ほんとに ミストラルなの?"
+
+id_345_subid_0_string79:
+	.string "<F:00>うん… そうだって 言ってるよ…"
 
 id_345_subid_0_string80:
 	.string "<F:0F>でも ヘんじゃないか!<NL><WAIT>いくら ロボトルに 負けたからって <NL>メダロットが こんなに なってしまうなんて<WAIT><F:01>でも・・・確かに ミストラルだよ!"
@@ -336,6 +348,9 @@ id_345_subid_0_string115:
 id_345_subid_0_string116:
 	.string "<F:05>どうしたの <PLAYER>?<WAIT><F:0F>また なにか 聞こえるのか?"
 
+id_345_subid_0_string117:
+	.string "<F:00>自分にも 心があって <NL>変えたいという 思いがあれば<WAIT>マスターの 心を<NL>変えることができるってことを・・・"
+
 id_345_subid_0_string118:
 	.string "<F:05>じゃあ… わたしたちは 帰っても いいの?"
 
@@ -344,6 +359,18 @@ id_345_subid_0_string119:
 
 id_345_subid_0_string120:
 	.string "<F:16>やったーーーー!<WAIT><F:07>話せるじゃない!"
+
+id_345_subid_0_string121:
+	.string "<F:00>ねえ… ミストラル…<NL>オレたちも キミに 教えられたよ…<WAIT>キカイに たよってばかリで<NL>なんでも 任せっぱなしに すると<WAIT>キミの マスターみたいに<NL>さびしいそんざいに なっちゃうんだよね…"
+
+id_345_subid_0_string122:
+	.string "<F:00>オレたちも がんばって また ナビのように<NL>友達として つきあえる キカイを 作るよ…<WAIT>そして 人と キカイが<NL>おたがいに ささえあって いけるような<WAIT>たのしい社会に するんだ<NL>いつになるか わからないけど…"
+
+id_345_subid_0_string123:
+	.string "<F:00>そのときに また 会おう…"
+
+id_345_subid_0_string124:
+	.string "<F:00>…あれ? ミストラルは…<NL>…いないのか<WAIT><F:0F>どうやら 去った ようだな…<NL><WAIT>さあ ここから 地球に<NL>もどるのは 大変だぞ…"
 
 id_345_subid_0_string125:
 	.string "<F:12>バカな! 地球の えい星きどう上 だって!<NL><WAIT>時間も すうびょうしか たって いない!<NL>そんなこと…"
@@ -375,6 +402,9 @@ id_345_subid_0_string133:
 id_345_subid_0_string134:
 	.string "<F:6A>やっぱリ わがはいの じしょに<NL>不可能の もじは なーーーーーい!!!"
 
+id_345_subid_0_string135:
+	.string "<F:00>相変わらず 行動力 あるなぁ…"
+
 id_345_subid_0_string136:
 	.string "<F:12>地球からの 交信だ!<NL>ボクらの 無事を 確認してる!"
 
@@ -402,11 +432,29 @@ id_345_subid_0_string143:
 id_345_subid_0_string144:
 	.string "<F:09>でも ミストラル…<NL>会えるのかなあ…<WAIT>はるか むかしの<NL>自分を 送リ出した マスターに…"
 
+id_345_subid_0_string145:
+	.string "<F:00>きっと 会えるさ…<NL>きょうじゅの 言うように<WAIT>あの船は 時間や 空間を<NL>超えることが できるみたいだし…"
+
 id_345_subid_0_string146:
 	.string "<F:05>そういえば あの たいいくかんの まぼろしは<NL>なんだったのかしら…<WAIT>ただの まぼろしには 見えなかったけど…<WAIT><F:00>オレ… 思うんだけど…<NL>ミストラルが 地下で ねむっているとき<WAIT>上にある学校を ずっと<NL>見ていたんじゃ ないかな"
 
+id_345_subid_0_string147:
+	.string "<F:00>それで ミストラルも ナビのように<NL>なんらかの えいきょうを うけたんだよ…<WAIT>今度の じけんで<NL>オレたちが まきこまれたのも…"
+
+id_345_subid_0_string148:
+	.string "<F:00>学校に もどったら<NL>もう一度 あの場所に 行ってみよう"
+
 id_345_subid_0_string149:
 	.string "<F:05>そういえば もうすぐ<NL>あの こうしゃも とリこわすみたいね…<WAIT>ほぞんしようって 話も<NL>あった みたいだけど…"
+
+id_345_subid_0_string150:
+	.string "<F:00>もう 使えなくなったからね…"
+
+id_345_subid_0_string151:
+	.string "<F:00>でも やくめは 終わったんだし<NL>思い出は 残っていくから…<WAIT>あそこで ミストラルに 会って…"
+
+id_345_subid_0_string152:
+	.string "<F:00>全て 始まったんだ!"
 
 id_345_subid_0_string153:
 	.string "<F:05>そうだったわね…<NL>これで やっと 終わリって わけね<WAIT><F:07>ごくろうさま<NL><PLAYER>[<3]"
@@ -414,11 +462,20 @@ id_345_subid_0_string153:
 id_345_subid_0_string154:
 	.string "<F:04>いや…<NL>まだ 終わって ないよ…<WAIT><F:08>えっ!?"
 
+id_345_subid_0_string155:
+	.string "<F:00>やくそくしたんだ ミストラルと<NL>おたがいに すばらしい社会を 作って<WAIT>いつか また 会おうって…"
+
 id_345_subid_0_string156:
 	.string "<F:05>いつかって…<NL>…なんとも スケールの 大きな はなしね<WAIT>わかってるの <PLAYER>?"
 
 id_345_subid_0_string157:
 	.string "<F:05>この 宇宙に くらベたら<NL>わたしたちの 命なんて…"
+
+id_345_subid_0_string158:
+	.string "<F:00>だいじょうぶだよ ヒヨリ!<NL><WAIT>オレたちが 無理でも その次<NL>次が 無理なら そのまた 次の人が<WAIT>いつか必ず オレたちのかわリに<NL>再会を 果たしてくれるよ"
+
+id_345_subid_0_string159:
+	.string "<F:00>だって…<WAIT><F:05>だって?"
 
 id_345_subid_0_string160:
 	.string "<F:02>思いは ずっと つたわっていくんだもの"

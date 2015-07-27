@@ -12,6 +12,9 @@ id_241_subid_0_string3:
 id_241_subid_0_string4:
 	.string "<F:7D>オレたちは 頭を つかって はたらくロボ<NL><WAIT>『えんの 下の 力持ち』ロボ!<NL>"
 
+id_241_subid_0_string5:
+	.string "<F:00>ここも 小さい ブロックだな<NL>"
+
 id_241_subid_0_string6:
 	.string "<F:0A>こんな ちっぽけな とこには<NL>なにも ないだろ<WAIT><F:00>そうだな いそいでる ことだし…"
 

@@ -102,6 +102,12 @@
 .org 0x085DF345
 	.word 0xE3|((id_141_subid_0_string35-0x08000000)<<8)
 
+.org 0x085DF381
+	.word 0xE3|((id_141_subid_0_string36-0x08000000)<<8)
+
+.org 0x085DF388
+	.word 0xE3|((id_141_subid_0_string37-0x08000000)<<8)
+
 .org 0x085DF39F
 	.word 0xE3|((id_141_subid_0_string38-0x08000000)<<8)
 

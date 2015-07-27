@@ -1,5 +1,8 @@
 ; Medarot Navi Script 229 Strings
 
+id_229_subid_0_string1:
+	.string "<F:00>あ! やーっと 見つけた!<NL>イッキくん 探したよ!<WAIT>キミに 話が…"
+
 id_229_subid_0_string2:
 	.string "<F:91>あ! <PLAYER>さん ですよね!<NL>さっきは どうも すみませんでした<WAIT>あんなに 見事に 負かされたのは<NL>ひさしぶリだったもんで<WAIT>なんだか とリみだしちゃって…<WAIT><F:00>そうか オレも 負けたときは<NL>ショックだもんな…<WAIT>…って なんで<NL>オレの 名前 知ってるんだい?"
 
@@ -8,6 +11,9 @@ id_229_subid_0_string3:
 
 id_229_subid_0_string4:
 	.string "<F:02>大かつやくだなんて そんな…<NL><WAIT>シデンとか ナビコちゃんとか<WAIT><F:00>みんなの力で …そうだ<NL>"
+
+id_229_subid_0_string5:
+	.string "<F:00>ここに いるのは<NL>ひょっとして キミの 仲間?<WAIT><F:91>あっ そうだ!<NL>"
 
 id_229_subid_0_string6:
 	.string "<F:91>しょうかいします<NL>ぼくの メダロット仲間の…<WAIT>コウジ"
@@ -42,6 +48,9 @@ id_229_subid_0_string15:
 id_229_subid_0_string16:
 	.string "<F:91><PLAYER>さんさえ よければ<NL><WAIT>もう一度 ぼくと<NL>ロボトル してもらえませんか?<WAIT>さっきよリは<NL>はごたえが あると 思いますよ!"
 
+id_229_subid_0_string17:
+	.string "<F:00>はごたえだなんて そんな!<NL><WAIT>みんな 超ゆうめいな<NL>メダロッターじゃないか!<WAIT>こちらこそ ぜひ おねがいするよ!"
+
 id_229_subid_0_string18:
 	.string "<F:04>…イッキくん?"
 
@@ -63,8 +72,14 @@ id_229_subid_0_string23:
 id_229_subid_0_string24:
 	.string "<F:03>あ!!<NL>ちょ… ちょっと イッキくん!"
 
+id_229_subid_0_string25:
+	.string "<F:00>ちょっと キミ …いや<NL>キミたちに 話が あるんだけど?"
+
 id_229_subid_0_string26:
 	.string "<F:91>あ! そうか<NL>ぼくに 話が あるんでしたっけ<WAIT>…なんですか?"
+
+id_229_subid_0_string27:
+	.string "<F:00>キミたちの 中で<NL>シデンって いう人と<WAIT>知リ合いの 人は いないかな?"
 
 id_229_subid_0_string28:
 	.string "<F:91>シデンって…<NL>あの ゆうめいメダロッターの?<WAIT>聞いたことは あるけど…<NL>"

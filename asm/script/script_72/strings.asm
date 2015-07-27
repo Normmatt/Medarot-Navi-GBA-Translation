@@ -96,6 +96,9 @@ id_72_subid_0_string31:
 id_72_subid_0_string32:
 	.string "<F:05>あんた あの男に<NL>なにか されたんじゃないの?<WAIT>なんともない?<NL>だいじょうぶなの?"
 
+id_72_subid_0_string33:
+	.string "<F:00>…うん オレは だいじょうぶ<WAIT><F:01>だけど あいつの やったことって<NL>シャレじゃ すまないよ"
+
 id_72_subid_0_string34:
 	.string "<F:03>わっ!<WAIT><F:08>きゃあっ!"
 

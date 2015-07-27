@@ -21,6 +21,9 @@ id_285_subid_6_string6:
 id_285_subid_11_string7:
 	.string "<F:05>さてと この ブロックも<NL>ひと通リ たんさくしましょうか?"
 
+id_285_subid_11_string8:
+	.string "<F:00>いや! 見るからに<NL>ここ おかしい じゃない!?"
+
 id_285_subid_11_string9:
 	.string "<F:04>急いでるんだし まず ここから…"
 
@@ -35,6 +38,9 @@ id_285_subid_11_string12:
 
 id_285_subid_11_string13:
 	.string "<F:04>みんな どうしたんだ?"
+
+id_285_subid_20_string14:
+	.string "<F:00>はやく おくに 進まなくちゃ"
 
 id_285_subid_28_string21:
 	.string "<F:73>今日の あなたの 運せいは… キョウ!"
@@ -57,11 +63,20 @@ id_285_subid_28_string26:
 id_285_subid_28_string27:
 	.string "<F:08>あー やだやだ!<WAIT><F:06>あの チリーンってのを<NL>聞いちゃったじゃないの!!"
 
+id_285_subid_36_string28:
+	.string "<F:00>ふー…"
+
 id_285_subid_36_string29:
 	.string "<F:02>さあ 行こっと"
 
 id_285_subid_39_string30:
 	.string "<F:02>ゴシゴシ ゴシゴシ…"
+
+id_285_subid_41_string37:
+	.string "<F:00>めいさくの ビデオが ならんでいるみたいだ"
+
+id_285_subid_42_string38:
+	.string "<F:00>キッチンかぁ…<NL><WAIT>ちょっと きたないかな?"
 
 id_285_subid_43_string39:
 	.string "<F:05>ヘぇー ちょっと ふるいけど<NL>けっこう いいビデオが<WAIT>そろってる じゃない"

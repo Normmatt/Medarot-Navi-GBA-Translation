@@ -15,6 +15,9 @@ id_217_subid_0_string4:
 id_217_subid_0_string5:
 	.string "<F:7D>きっと そうに ちがいないロボ<NL>じつは クマの ような やつだったロボ"
 
+id_217_subid_0_string6:
+	.string "<F:00>なにが 見まちがいなの?"
+
 id_217_subid_0_string7:
 	.string "<F:81>(きっと ふリむいたら<NL> オニの ような 顔を しているロボ)<WAIT>(いや アクマ みたいな 顔ロボ)"
 
@@ -26,6 +29,9 @@ id_217_subid_0_string9:
 
 id_217_subid_0_string10:
 	.string "<F:81>また 負けたロボ…<NL><WAIT>やっぱリ はくリょくが ないロボ…"
+
+id_217_subid_0_string11:
+	.string "<F:00>だから 見た目は…"
 
 id_217_subid_0_string12:
 	.string "<F:7D>おかしいロボ・・・"

@@ -42,6 +42,12 @@
 .org 0x0861BAD9
 	.word 0xE3|((id_65_subid_13_string17-0x08000000)<<8)
 
+.org 0x0861BB20
+	.word 0xE3|((id_65_subid_14_string18-0x08000000)<<8)
+
+.org 0x0861BBAC
+	.word 0xE3|((id_65_subid_22_string25-0x08000000)<<8)
+
 .org 0x0861BBBC
 	.word 0xE3|((id_65_subid_22_string26-0x08000000)<<8)
 

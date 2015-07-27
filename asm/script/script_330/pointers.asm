@@ -33,8 +33,14 @@
 .org 0x085FED5F
 	.word 0xE3|((id_330_subid_0_string11-0x08000000)<<8)
 
+.org 0x085FECAF
+	.word 0xE3|((id_330_subid_2_string12-0x08000000)<<8)
+
 .org 0x085FECB8
 	.word 0xE3|((id_330_subid_2_string13-0x08000000)<<8)
+
+.org 0x085FECE8
+	.word 0xE3|((id_330_subid_13_string30-0x08000000)<<8)
 
 .org 0x08600BD1
 	.word 0xE3|((id_330_subid_25_string37-0x08000000)<<8)

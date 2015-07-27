@@ -72,6 +72,9 @@ id_126_subid_0_string23:
 id_126_subid_0_string24:
 	.string "<F:0A>まぁ いいさ<NL><WAIT>だれが 相手だろうと<NL>ぶちのめしてやるだけさ!<WAIT><F:19>あっしも<NL>おてつだい させてもらうでやんす!<WAIT><F:14>わいも!"
 
+id_126_subid_0_string25:
+	.string "<F:00>ところで 『みならい』って?"
+
 id_126_subid_0_string26:
 	.string "<F:4D>みならいスペロボーズじゃ<NL>コラ!<WAIT><F:4C>かかってこんかい<NL>オラ!<WAIT><F:4E>なに びびっとるんじゃ<NL>オゥ!"
 
@@ -96,6 +99,9 @@ id_126_subid_0_string32:
 id_126_subid_0_string33:
 	.string "<F:02>…ほめられてるのかな…?<WAIT><F:06>なに のんきな事 言ってるの!<NL>しっかリしなさいよ 委員長でしょ!<WAIT><F:00>そうだね<NL>"
 
+id_126_subid_0_string34:
+	.string "<F:00>キミたちさ こんなところで…"
+
 id_126_subid_0_string35:
 	.string "<F:80>第一回戦は チャレンジャーズの勝ちロボーッ<NL>"
 
@@ -110,6 +116,9 @@ id_126_subid_0_string38:
 
 id_126_subid_0_string39:
 	.string "<F:7D>ポチッ とな ロボ"
+
+id_126_subid_0_string40:
+	.string "<F:00>今度は 本物みたいだね"
 
 id_126_subid_0_string41:
 	.string "<F:0A>関係ないさ<WAIT><F:7F>それでは ロボトル ファイトロボ!"

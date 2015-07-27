@@ -18,6 +18,9 @@ id_272_subid_0_string5:
 id_272_subid_0_string6:
 	.string "<F:05>そうやって 時間を かせがせると<NL>しっかリ こてい されて<WAIT>リだつ できなくなって<NL>ヤツラの 思うツボよ!<WAIT>先手必勝で 行かなくちゃ!"
 
+id_272_subid_0_string7:
+	.string "<F:00>うん オレも そう思う<NL><WAIT>スペロボ団が 入ってこないように<NL>みっペいすれば だいじょうぶだし<WAIT>おおぜいで のリこんで<NL>一気に カタを つけよう!"
+
 id_272_subid_0_string8:
 	.string "<F:0F>そうと 決まれば のリこみ開始だ<NL>"
 
@@ -26,6 +29,9 @@ id_272_subid_0_string9:
 
 id_272_subid_0_string10:
 	.string "<F:53>あリますが…<NL><WAIT>のリこみ先の 状況が 不明なため<NL>安全を 保証できません"
+
+id_272_subid_0_string11:
+	.string "<F:00>あの 小わく星なら<NL>スペロボ団の アジ…"
 
 id_272_subid_0_string12:
 	.string "<F:03>ぐふっ!"
@@ -62,6 +68,9 @@ id_272_subid_0_string22:
 
 id_272_subid_0_string23:
 	.string "<F:8E>わかっておる<NL>いろいろ 言いたいことは あるが…<WAIT>他に 手は ないのじゃろう<NL>…ところで<WAIT>通信が とぎれぬように キミの<NL>メダロッチの プログラムを アップデートし<WAIT>クラスターと<NL>交信できる ように してやろう<WAIT><F:00>あリがとうございます 博士!"
+
+id_272_subid_7_string24:
+	.string "<F:00>ニワカくん・・・<NL>確かにさっきのは 大失敗だけどさ<WAIT>そんなに 落ちこむなよ<NL>オレたちで なんとかするから<WAIT>スペロボ団なんて 変なやつらには<NL>負けないから<WAIT>キミも クラスターを 守っててよ<WAIT><F:22>・・・<WAIT><F:04>・・・いいよね?<WAIT><F:22>・・・<WAIT><F:00>じゃ たよリにしてるよ"
 
 id_272_subid_7_string25:
 	.string "<F:53><F5>ゃニワカさん…<NL><E5>"

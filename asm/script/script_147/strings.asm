@@ -6,6 +6,15 @@ id_147_subid_0_string1:
 id_147_subid_0_string2:
 	.string "<F:05><PLAYER><NL>この前みたいに 開けてよ"
 
+id_147_subid_0_string3:
+	.string "<F:00>って あれは ヒヨリが…<NL>"
+
+id_147_subid_0_string4:
+	.string "<F:00>ヒヨリが…<NL>"
+
+id_147_subid_0_string5:
+	.string "<F:00>ヒヨ…"
+
 id_147_subid_0_string6:
 	.string "<F:04>…わかったよ"
 

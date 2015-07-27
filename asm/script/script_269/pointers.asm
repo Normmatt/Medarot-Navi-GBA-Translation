@@ -138,6 +138,12 @@
 .org 0x086213CF
 	.word 0xE3|((id_269_subid_26_string125-0x08000000)<<8)
 
+.org 0x0862142E
+	.word 0xE3|((id_269_subid_27_string126-0x08000000)<<8)
+
 .org 0x0862143D
 	.word 0xE3|((id_269_subid_28_string127-0x08000000)<<8)
+
+.org 0x0862144F
+	.word 0xE3|((id_269_subid_28_string128-0x08000000)<<8)
 

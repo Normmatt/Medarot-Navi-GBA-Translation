@@ -102,6 +102,12 @@ id_141_subid_0_string34:
 id_141_subid_0_string35:
 	.string "<F:7C>おっと そうだ <PLAYER>少年!<NL><WAIT><F:79>その 制御装置の<NL>かいだんスイッチを おして くれたまえ!<WAIT><F:03>え?<NL>"
 
+id_141_subid_0_string36:
+	.string "<F:00>これ?<NL>"
+
+id_141_subid_0_string37:
+	.string "<F:00>なんだ…<NL>こんなふうに なっていたのか"
+
 id_141_subid_0_string38:
 	.string "<F:08>あっ <PLAYER>!<NL>だいじょうぶだった?"
 

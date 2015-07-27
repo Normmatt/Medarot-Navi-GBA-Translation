@@ -1,7 +1,16 @@
 ; Medarot Navi Script 81 Strings
 
+id_81_subid_0_string1:
+	.string "<F:00>ヒヨリ このブロックは?"
+
 id_81_subid_0_string2:
 	.string "<F:05>パンフレットには…<NL>『しんリんを イメージした 展示ブロック<WAIT>テーマは ジャングルに<NL>すまう もうじゅうたち』<WAIT>って 書いてあるわ"
+
+id_81_subid_0_string3:
+	.string "<F:00>ヘえ じゃあ ここには…<NL><WAIT><F:00>しんリんに 強い メダロットたちが<NL>展示されてるって わけか<WAIT>どっかに かくれてるヤツも いたリして"
+
+id_81_subid_0_string4:
+	.string "<F:00>どうしたんだよ? ヒヨリ"
 
 id_81_subid_0_string5:
 	.string "<F:05>いま なにか きこえなかった?"
@@ -39,8 +48,17 @@ id_81_subid_5_string15:
 id_81_subid_5_string16:
 	.string "<F:03>そうだ!"
 
+id_81_subid_5_string17:
+	.string "<F:00>こいつを いじったら もしかして…"
+
 id_81_subid_5_string18:
 	.string "<F:65>ブロックナイニ イジョウハ アリマセン…<NL><WAIT>ゴユックリト ゴカンランクダサイ…"
+
+id_81_subid_5_string19:
+	.string "<F:00>やれやれ…"
+
+id_81_subid_5_string20:
+	.string "<F:00>どうやら こいつを いじれば<NL>メダロットの ぼうそうは とまるみたいだ…"
 
 id_81_subid_5_string21:
 	.string "<F:04>それにしても・・・"

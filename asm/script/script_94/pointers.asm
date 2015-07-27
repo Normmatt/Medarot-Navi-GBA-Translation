@@ -12,3 +12,6 @@
 .org 0x086284FE
 	.word 0xE3|((id_94_subid_3_string4-0x08000000)<<8)
 
+.org 0x086285E5
+	.word 0xE3|((id_94_subid_5_string69-0x08000000)<<8)
+

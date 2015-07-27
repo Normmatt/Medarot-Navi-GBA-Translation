@@ -1,5 +1,8 @@
 ; Medarot Navi Script 111 Pointers
 
+.org 0x0860AC1C
+	.word 0xE3|((id_111_subid_0_string1-0x08000000)<<8)
+
 .org 0x0860AC48
 	.word 0xE3|((id_111_subid_0_string2-0x08000000)<<8)
 
@@ -38,6 +41,9 @@
 
 .org 0x0860B43A
 	.word 0xE3|((id_111_subid_5_string14-0x08000000)<<8)
+
+.org 0x0860ACF4
+	.word 0xE3|((id_111_subid_17_string15-0x08000000)<<8)
 
 .org 0x0860AD01
 	.word 0xE3|((id_111_subid_17_string16-0x08000000)<<8)
@@ -150,6 +156,9 @@
 .org 0x0860B171
 	.word 0xE3|((id_111_subid_17_string52-0x08000000)<<8)
 
+.org 0x0860B19D
+	.word 0xE3|((id_111_subid_17_string53-0x08000000)<<8)
+
 .org 0x0860B1CD
 	.word 0xE3|((id_111_subid_17_string54-0x08000000)<<8)
 
@@ -195,6 +204,9 @@
 .org 0x0860B251
 	.word 0xE3|((id_111_subid_18_string68-0x08000000)<<8)
 
+.org 0x0860B4A2
+	.word 0xE3|((id_111_subid_18_string69-0x08000000)<<8)
+
 .org 0x0860B4FC
 	.word 0xE3|((id_111_subid_18_string70-0x08000000)<<8)
 
@@ -212,4 +224,7 @@
 
 .org 0x0860B450
 	.word 0xE3|((id_111_subid_18_string75-0x08000000)<<8)
+
+.org 0x0860B3CD
+	.word 0xE3|((id_111_subid_22_string76-0x08000000)<<8)
 

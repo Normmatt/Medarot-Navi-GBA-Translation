@@ -12,9 +12,15 @@
 .org 0x08624E66
 	.word 0xE3|((id_159_subid_2_string4-0x08000000)<<8)
 
+.org 0x08624ED0
+	.word 0xE3|((id_159_subid_10_string5-0x08000000)<<8)
+
 .org 0x08624EDA
 	.word 0xE3|((id_159_subid_10_string6-0x08000000)<<8)
 
 .org 0x08624EEB
 	.word 0xE3|((id_159_subid_10_string7-0x08000000)<<8)
+
+.org 0x08624EB1
+	.word 0xE3|((id_159_subid_13_string8-0x08000000)<<8)
 

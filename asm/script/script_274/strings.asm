@@ -18,6 +18,21 @@ id_274_subid_2_string5:
 id_274_subid_2_string6:
 	.string "<F:04>やっぱリ あんまリ 変わってないような…"
 
+id_274_subid_14_string25:
+	.string "<F:00>えぇっと エネルギーは…"
+
+id_274_subid_14_string26:
+	.string "<F:00>だいじょうぶみたいだ"
+
+id_274_subid_14_string27:
+	.string "<F:00>ここを ちょこっと 動かしたら<NL>宇宙の はてまで…"
+
 id_274_subid_14_string28:
 	.string "<F:02>やめとこう"
+
+id_274_subid_14_string29:
+	.string "<F:00>みどリの ランプは…"
+
+id_274_subid_14_string30:
+	.string "<F:00>いじょうなし っと…"
 

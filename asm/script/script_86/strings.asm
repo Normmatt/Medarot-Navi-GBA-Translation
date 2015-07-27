@@ -111,11 +111,26 @@ id_86_subid_0_string36:
 id_86_subid_0_string37:
 	.string "<F:05>じゃ 行きましょ!"
 
+id_86_subid_0_string38:
+	.string "<F:00>えっと その前に・・・"
+
+id_86_subid_0_string39:
+	.string "<F:00>あっ! あった!"
+
+id_86_subid_0_string40:
+	.string "<F:00>これを こうすると・・・"
+
 id_86_subid_0_string41:
 	.string "<F:0A>これが なにか 意味が あるのか?"
 
+id_86_subid_0_string42:
+	.string "<F:00>この制御装置が ブロックを<NL>制御しているみたいなんだ"
+
 id_86_subid_0_string43:
 	.string "<F:05>じゃあ これで ぼうそうしたメダロットも<NL>おとなしく なるっていう わけね<WAIT><F:0D>ヘぇー"
+
+id_86_subid_0_string44:
+	.string "<F:00>ここは もう だいじょうぶだ<NL><WAIT>じゃ 行こうか!"
 
 id_86_subid_0_string45:
 	.string "<F:05>ヒヨリが なかまに なった!<NL><WAIT><F:0A>フブキが なかまに なった!"

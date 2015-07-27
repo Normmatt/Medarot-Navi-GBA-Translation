@@ -6,6 +6,15 @@
 .org 0x0861C732
 	.word 0xE3|((id_147_subid_0_string2-0x08000000)<<8)
 
+.org 0x0861C745
+	.word 0xE3|((id_147_subid_0_string3-0x08000000)<<8)
+
+.org 0x0861C756
+	.word 0xE3|((id_147_subid_0_string4-0x08000000)<<8)
+
+.org 0x0861C760
+	.word 0xE3|((id_147_subid_0_string5-0x08000000)<<8)
+
 .org 0x0861C767
 	.word 0xE3|((id_147_subid_0_string6-0x08000000)<<8)
 

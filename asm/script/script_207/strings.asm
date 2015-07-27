@@ -12,6 +12,9 @@ id_207_subid_0_string3:
 id_207_subid_12_string6:
 	.string "<F:77>ぐほっ… あのなぁ おまえら…"
 
+id_207_subid_12_string7:
+	.string "<F:00>前と 同じ道で これたけど<NL>道を ふさぐんじゃ なかったっけ?"
+
 id_207_subid_12_string8:
 	.string "<F:77>ぐぉーほっぐぇほっごほっ…<NL>"
 
@@ -26,4 +29,7 @@ id_207_subid_12_string11:
 
 id_207_subid_12_string12:
 	.string "<F:81>もうしわけないロボ!<NL><WAIT>かんベんして ほしいロボー!<NL>"
+
+id_207_subid_15_string31:
+	.string "<F:00>このブロックを とリもどさなくちゃ"
 

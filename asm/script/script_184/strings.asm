@@ -21,3 +21,6 @@ id_184_subid_3_string18:
 id_184_subid_4_string19:
 	.string "<F:3A>ここでの トレーニングも いいものね"
 
+id_184_subid_5_string20:
+	.string "<F:00>うぅん… 気持ちいいなぁ…"
+

@@ -63,6 +63,9 @@ id_310_subid_0_string20:
 id_310_subid_0_string21:
 	.string "<F:69>宇宙開発が そく進される<NL>という すんぽうじゃ!"
 
+id_310_subid_0_string22:
+	.string "<F:00>…つまリ かんこうきゃくを 引っぱる ために<NL>クラスターを ぬすんだと?"
+
 id_310_subid_0_string23:
 	.string "<F:69>そうじゃ!<NL><WAIT>ひいては 人るいの 宇宙進出の<NL>いしずえともなる"
 
@@ -101,6 +104,9 @@ id_310_subid_0_string34:
 
 id_310_subid_0_string35:
 	.string "<F:02>きょうじゅ あリがとう!"
+
+id_310_subid_0_string36:
+	.string "<F:00>じゃあ みんな<NL>もどろう!"
 
 id_310_subid_0_string37:
 	.string "<F:02>あっ ニワカくん!<NL><WAIT>クラスターも 無事みたい だし<NL>キミも がんばったんだね!"

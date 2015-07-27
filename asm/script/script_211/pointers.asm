@@ -48,8 +48,14 @@
 .org 0x0860133A
 	.word 0xE3|((id_211_subid_0_string16-0x08000000)<<8)
 
+.org 0x08601348
+	.word 0xE3|((id_211_subid_0_string17-0x08000000)<<8)
+
 .org 0x08601381
 	.word 0xE3|((id_211_subid_0_string18-0x08000000)<<8)
+
+.org 0x086013D0
+	.word 0xE3|((id_211_subid_0_string19-0x08000000)<<8)
 
 .org 0x086013FA
 	.word 0xE3|((id_211_subid_0_string20-0x08000000)<<8)
@@ -107,6 +113,9 @@
 
 .org 0x086016A8
 	.word 0xE3|((id_211_subid_0_string38-0x08000000)<<8)
+
+.org 0x086016C0
+	.word 0xE3|((id_211_subid_0_string39-0x08000000)<<8)
 
 .org 0x086016DC
 	.word 0xE3|((id_211_subid_0_string40-0x08000000)<<8)

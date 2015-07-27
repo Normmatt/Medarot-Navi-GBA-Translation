@@ -12,6 +12,9 @@ id_192_subid_0_string3:
 id_192_subid_0_string4:
 	.string "<F:7D>これで 落っこちてくれると いいロボが…"
 
+id_192_subid_0_string5:
+	.string "<F:00>また このブロックか…<NL>"
+
 id_192_subid_0_string6:
 	.string "<F:04>ねぇ ヒヨリ やっぱリ また…"
 
@@ -29,4 +32,7 @@ id_192_subid_4_string10:
 
 id_192_subid_5_string11:
 	.string "<F:14>はよう 行ってきてぇ<NL>さむくて たまらんわ"
+
+id_192_subid_12_string12:
+	.string "<F:00>ここも とリもどさなくちゃ"
 

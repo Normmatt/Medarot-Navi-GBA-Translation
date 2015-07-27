@@ -1,5 +1,8 @@
 ; Medarot Navi Script 129 Strings
 
+id_129_subid_2_string1:
+	.string "<F:00>あれ? こんなところで<NL>なに してるの?"
+
 id_129_subid_2_string2:
 	.string "<F:4D>アァ! <PLAYER>!<NL>なかなか じょうとうやのぉ!"
 
@@ -21,9 +24,15 @@ id_129_subid_2_string7:
 id_129_subid_5_string22:
 	.string "<F:03>うわぁ… でっかいなぁ…"
 
+id_129_subid_20_string26:
+	.string "<F:00>かみ切れが 落ちてる!"
+
 id_129_subid_20_string27:
 	.string "<F:57>ひとつめのパスワード 『あ』"
 
 id_129_subid_20_string28:
 	.string "<F:04>・・・?<NL>なんだこれ?"
+
+id_129_subid_22_string29:
+	.string "<F:00>あれ?<NL><WAIT>くらやみの中で なにか ひかったぞ!"
 

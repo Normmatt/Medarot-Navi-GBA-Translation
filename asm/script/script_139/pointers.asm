@@ -45,3 +45,6 @@
 .org 0x08621FA1
 	.word 0xE3|((id_139_subid_7_string39-0x08000000)<<8)
 
+.org 0x08621FAF
+	.word 0xE3|((id_139_subid_9_string40-0x08000000)<<8)
+

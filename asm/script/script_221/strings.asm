@@ -15,6 +15,9 @@ id_221_subid_0_string4:
 id_221_subid_0_string5:
 	.string "<F:7D>だからこそ 勝てば しゅっせできるロボ!<NL>がんばるロボ!"
 
+id_221_subid_0_string6:
+	.string "<F:00>あれ ここも 小さい ブロックか…<NL>ここは さっさと…"
+
 id_221_subid_0_string7:
 	.string "<F:7E>そうは いかないロボ!<NL>きさまに 勝って しゅっせするロボ!"
 

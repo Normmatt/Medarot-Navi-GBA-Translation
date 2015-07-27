@@ -66,6 +66,9 @@ id_340_subid_14_string21:
 id_340_subid_14_string22:
 	.string "<F:79>ライウンが なかまに なった!"
 
+id_340_subid_32_string231:
+	.string "<F:00>先を 急がないと!"
+
 id_340_subid_41_string238:
 	.string "<F:14>あと どれくらい おるんやろ?"
 

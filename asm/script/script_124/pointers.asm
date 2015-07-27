@@ -6,6 +6,9 @@
 .org 0x08621AFF
 	.word 0xE3|((id_124_subid_7_string2-0x08000000)<<8)
 
+.org 0x08621B16
+	.word 0xE3|((id_124_subid_7_string3-0x08000000)<<8)
+
 .org 0x08621B28
 	.word 0xE3|((id_124_subid_7_string4-0x08000000)<<8)
 
@@ -26,4 +29,7 @@
 
 .org 0x08621C05
 	.word 0xE3|((id_124_subid_7_string10-0x08000000)<<8)
+
+.org 0x08621C27
+	.word 0xE3|((id_124_subid_13_string61-0x08000000)<<8)
 

@@ -15,3 +15,6 @@ id_236_subid_0_string4:
 id_236_subid_0_string5:
 	.string "<F:81>うう… やっぱリ<NL>あっさリ 負けて しまったロボ…<WAIT><F:81>また 小さな ブロックに はいぞくロボ!<NL>"
 
+id_236_subid_0_string6:
+	.string "<F:00>なんか… 大変そうだな…"
+

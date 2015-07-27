@@ -18,6 +18,9 @@ id_246_subid_0_string5:
 id_246_subid_0_string6:
 	.string "<F:09>なんか さわがしいわね"
 
+id_246_subid_0_string7:
+	.string "<F:00>でも なにも なさそうだよ"
+
 id_246_subid_0_string8:
 	.string "<F:08>きゃ!"
 

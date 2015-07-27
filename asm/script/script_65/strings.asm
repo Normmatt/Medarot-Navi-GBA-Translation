@@ -42,6 +42,12 @@ id_65_subid_12_string16:
 id_65_subid_13_string17:
 	.string "<F:5F>すベての ブロックには 制御装置が あって<NL><WAIT>どくリつした かんきょうを<NL>もっています"
 
+id_65_subid_14_string18:
+	.string "<F:00>クラスターは こっちじゃないな…"
+
+id_65_subid_22_string25:
+	.string "<F:00>はやく 入リたいなぁ…"
+
 id_65_subid_22_string26:
 	.string "<F:04>入っていいのかなぁ…?"
 

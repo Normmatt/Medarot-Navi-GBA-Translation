@@ -21,6 +21,12 @@ id_121_subid_5_string6:
 id_121_subid_13_string7:
 	.string "<F:09>なにあれ…"
 
+id_121_subid_13_string8:
+	.string "<F:00>あれは 前に 戦った<NL>スペロボ団幹部の・・・"
+
+id_121_subid_13_string9:
+	.string "<F:00>確か… ニュウドウとか いったな!"
+
 id_121_subid_13_string10:
 	.string "<F:0B>また なにか たくらんでるみたいだな"
 
@@ -53,6 +59,9 @@ id_121_subid_13_string19:
 
 id_121_subid_13_string20:
 	.string "<F:06>こっちこそ のぞむところよ!<NL><WAIT>さぁ 行きなさい!<NL><PLAYER>!!"
+
+id_121_subid_13_string21:
+	.string "<F:00>のぞむところって…"
 
 id_121_subid_13_string22:
 	.string "<F:6D>くぅ…"

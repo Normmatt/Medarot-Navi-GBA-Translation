@@ -9,6 +9,9 @@ id_146_subid_0_string2:
 id_146_subid_0_string3:
 	.string "<F:0A>この感じ…<NL>どうも かくし部屋が あリそうな 気がする"
 
+id_146_subid_0_string4:
+	.string "<F:00>かくし部屋って…<NL>にんじゃやしきなんかに あるヤツ?"
+
 id_146_subid_0_string5:
 	.string "<F:0A>あ… ああ そうだ<NL><WAIT>あんな感じかな"
 
@@ -17,6 +20,9 @@ id_146_subid_0_string6:
 
 id_146_subid_0_string7:
 	.string "<F:0D>えっ! いや… 別に そういうわけじゃ…"
+
+id_146_subid_0_string8:
+	.string "<F:00>そうとわかれば<NL>かくし部屋に 通じる とびらを 探そう!"
 
 id_146_subid_2_string9:
 	.string "<F:05>あっちは どうなの?"
@@ -29,6 +35,9 @@ id_146_subid_4_string11:
 
 id_146_subid_5_string12:
 	.string "<F:14>なんか あリそうやけど…<NL>わからんわー"
+
+id_146_subid_7_string13:
+	.string "<F:00>マンガとかだと たいてい<NL>こういうところに…"
 
 id_146_subid_7_string14:
 	.string "<F:06>そんな みえみえの ところに<NL>あるわけないでしょ!"
@@ -56,4 +65,7 @@ id_146_subid_7_string21:
 
 id_146_subid_7_string22:
 	.string "<F:73>…ざんねん… また会いましょう…<NL>…<PLAYER>…"
+
+id_146_subid_8_string23:
+	.string "<F:00>ほかを さがそう"
 

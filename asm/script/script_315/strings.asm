@@ -27,6 +27,9 @@ id_315_subid_3_string8:
 id_315_subid_3_string9:
 	.string "<F:07>カワイィーーーーーっ!<NL>この子 ほしい!"
 
+id_315_subid_9_string26:
+	.string "<F:00>まだ なにか あリそうだな…"
+
 id_315_subid_31_string43:
 	.string "<F:03>これは…<NL><WAIT>スペロボ団の アジトじゃないか?"
 
@@ -38,6 +41,9 @@ id_315_subid_31_string45:
 
 id_315_subid_31_string46:
 	.string "<F:03>ああーーーっ!<NL><WAIT>これは クラスターの 接眩チューブだ!"
+
+id_315_subid_31_string47:
+	.string "<F:00>そうか!<NL><WAIT>さっき ぬくのを わすれてたんだよ!<NL><WAIT>これで クラスターに<NL>引っぱられて きたんだ!"
 
 id_315_subid_31_string48:
 	.string "<F:08>うそぉーーーー!"
@@ -59,4 +65,7 @@ id_315_subid_31_string53:
 
 id_315_subid_31_string54:
 	.string "<F:0F>とにかく 先を 急ごう!<NL><WAIT>スペロボ団が 先に 行ってると なると<NL><WAIT>下手を すると こう星間戦争にまで<NL>発展しかねないぞ!"
+
+id_315_subid_32_string55:
+	.string "<F:00>はやく 見に 行こうよ!"
 

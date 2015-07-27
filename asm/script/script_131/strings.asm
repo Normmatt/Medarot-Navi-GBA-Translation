@@ -1,5 +1,8 @@
 ; Medarot Navi Script 131 Strings
 
+id_131_subid_0_string1:
+	.string "<F:00>ヘぇー こんなところも あるんだぁー<NL><WAIT>…スキーとか できるのかなぁ?<WAIT><F:05>なに のんきなこと 言ってんのよ!<NL>さむいったら ないわ!<WAIT>さっさと この ブロック<NL>ゲットしちゃいましょ!"
+
 id_131_subid_0_string2:
 	.string "<F:80>ヤーーーーッ…<NL>"
 
@@ -8,6 +11,9 @@ id_131_subid_0_string3:
 
 id_131_subid_0_string4:
 	.string "<F:08>なに!?<NL>今の バカでっかい声!?<WAIT><F:03>スピーカーから 出てるみたいだ…<NL>"
+
+id_131_subid_0_string5:
+	.string "<F:00>あ あそこじゃないか?"
 
 id_131_subid_0_string6:
 	.string "<F:7D>けっこー ふるえたロボ?<NL>でも おしかったロボ!<WAIT>もう ひといきでしたロボ!<NL>"

@@ -39,6 +39,9 @@ id_206_subid_11_string12:
 id_206_subid_11_string13:
 	.string "<F:75>うむ… そうか…<NL>そうだろうな… ぐふっ…"
 
+id_206_subid_11_string14:
+	.string "<F:00>なんだ ここで 終わリか?<NL>なんか 意外と たんじゅんだったな"
+
 id_206_subid_11_string15:
 	.string "<F:77>ぐぉーほっ ぐぇほっごほっ…<NL>"
 
@@ -62,4 +65,7 @@ id_206_subid_11_string21:
 
 id_206_subid_11_string22:
 	.string "<F:04>相変わらず イタイタしいなぁ…<NL>"
+
+id_206_subid_12_string23:
+	.string "<F:00>このまま ほうっておくわけにも いかないよ"
 

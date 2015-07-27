@@ -129,6 +129,9 @@ id_186_subid_23_string46:
 id_186_subid_26_string47:
 	.string "<F:08>あっ 見て <PLAYER>!<NL>また スペロボ団が いるわ"
 
+id_186_subid_26_string48:
+	.string "<F:00>たしか ライウンとか いったな…<NL>少し 様子を 見てみよう"
+
 id_186_subid_26_string49:
 	.string "<F:7D>ライウン様 第3トンネルの<NL>作業が やや おくれがちロボ"
 
@@ -225,6 +228,9 @@ id_186_subid_27_string79:
 id_186_subid_27_string80:
 	.string "<F:67>別の 作業を するモグ…"
 
+id_186_subid_28_string81:
+	.string "<F:00>もう ブロックの制御は できてるよ"
+
 id_186_subid_31_string82:
 	.string "<F:04>ん!?"
 
@@ -233,6 +239,9 @@ id_186_subid_31_string83:
 
 id_186_subid_31_string84:
 	.string "<F:05>どうしたの?"
+
+id_186_subid_31_string85:
+	.string "<F:00>あぁ ヒヨリ<NL><WAIT>こんなところに ティンペットが 落ちてるから<NL>なんでだろうと 思って…"
 
 id_186_subid_31_string86:
 	.string "<F:0F>ちょっと 見せてくれ"

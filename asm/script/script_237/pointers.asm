@@ -6,6 +6,9 @@
 .org 0x085DBE5D
 	.word 0xE3|((id_237_subid_0_string2-0x08000000)<<8)
 
+.org 0x085DBE70
+	.word 0xE3|((id_237_subid_0_string3-0x08000000)<<8)
+
 .org 0x085DBE78
 	.word 0xE3|((id_237_subid_0_string4-0x08000000)<<8)
 

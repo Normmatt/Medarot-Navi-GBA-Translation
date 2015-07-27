@@ -15,6 +15,9 @@ id_142_subid_0_string4:
 id_142_subid_0_string5:
 	.string "<F:79>知ってる やつでも<NL>なんにんかは うっかリする事も…"
 
+id_142_subid_0_string6:
+	.string "<F:00>はいはい… とにかく<NL>もう 一度 ロボトル勝負だ!"
+
 id_142_subid_0_string7:
 	.string "<F:7A>やむをえん!"
 

@@ -45,8 +45,14 @@
 .org 0x085FF79E
 	.word 0xE3|((id_305_subid_0_string15-0x08000000)<<8)
 
+.org 0x085FF7E6
+	.word 0xE3|((id_305_subid_0_string16-0x08000000)<<8)
+
 .org 0x085FF830
 	.word 0xE3|((id_305_subid_0_string17-0x08000000)<<8)
+
+.org 0x085FF89F
+	.word 0xE3|((id_305_subid_0_string18-0x08000000)<<8)
 
 .org 0x085FF8CF
 	.word 0xE3|((id_305_subid_0_string19-0x08000000)<<8)

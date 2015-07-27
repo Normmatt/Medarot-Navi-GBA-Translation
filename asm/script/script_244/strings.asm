@@ -27,6 +27,9 @@ id_244_subid_0_string8:
 id_244_subid_0_string9:
 	.string "<F:99>え! ひょっとして リんたろうが!?"
 
+id_244_subid_0_string10:
+	.string "<F:00>なに?<NL>リんたろうくんも さんかするの?"
+
 id_244_subid_0_string11:
 	.string "<F:9C>こうみえても メダ部こもん ですからね!<NL>せいとの メダロッチとは<WAIT>つねに リンクしてるのよ!<WAIT><F:00>ちょっと かれに れんらく…"
 
@@ -42,6 +45,9 @@ id_244_subid_0_string14:
 id_244_subid_0_string15:
 	.string "<F:9C>だってぇ!<NL><WAIT>こもんとして せいとに なめられないように<NL>ハクつけたかったんだもーん!"
 
+id_244_subid_0_string16:
+	.string "<F:00>それで… リんたろうくんに<NL>聞きたいことが あるんですけど…"
+
 id_244_subid_0_string17:
 	.string "<F:9C>…クスン …えっ? リんたろうくん…<NL>…ちょっと 待ってね…"
 
@@ -50,6 +56,9 @@ id_244_subid_0_string18:
 
 id_244_subid_0_string19:
 	.string "<F:99>なぁーに あいつのことだ<NL>きっと そのヘんで<WAIT>ロボトリまくってらーな!<WAIT><F:04>…そうか…"
+
+id_244_subid_0_string20:
+	.string "<F:00>みかけたら オレが<NL>探してたって つたえてよ"
 
 id_244_subid_0_string21:
 	.string "<F:99>ちっ しょうがねーな…<NL>そのかわリ また 勝負しよーぜ!<WAIT><F:00>ああ<NL>それと…<WAIT>たまを先生でしたっけ…<NL><WAIT>先生は ヒカルって 言う人を<NL>ごぞんじですか?"

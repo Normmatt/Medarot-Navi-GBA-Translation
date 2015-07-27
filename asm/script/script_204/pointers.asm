@@ -1,5 +1,8 @@
 ; Medarot Navi Script 204 Pointers
 
+.org 0x08623A2E
+	.word 0xE3|((id_204_subid_2_string1-0x08000000)<<8)
+
 .org 0x08623A62
 	.word 0xE3|((id_204_subid_2_string2-0x08000000)<<8)
 

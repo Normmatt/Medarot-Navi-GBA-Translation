@@ -30,6 +30,12 @@ id_335_subid_0_string9:
 id_335_subid_0_string10:
 	.string "<F:75>スモッグが なかまに なった!"
 
+id_335_subid_0_string11:
+	.string "<F:00>そっか…<NL>メダロットの他には だれも いないんだ"
+
 id_335_subid_0_string12:
 	.string "<F:04>でも どうして…"
+
+id_335_subid_13_string13:
+	.string "<F:00>むこうに 用は ないよ"
 

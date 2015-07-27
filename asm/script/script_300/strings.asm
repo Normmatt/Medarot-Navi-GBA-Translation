@@ -81,6 +81,18 @@ id_300_subid_0_string26:
 id_300_subid_0_string27:
 	.string "<F:02>まあまあ… なんか ニワカくんって<NL>変わった みたいだし…"
 
+id_300_subid_0_string28:
+	.string "<F:00>それに どのみち 間に合いそうも ない<NL>ここは ニワカくんを 信じて 先に進もう!"
+
+id_300_subid_13_string29:
+	.string "<F:00>いそがないと 間に合わないよ"
+
+id_300_subid_21_string37:
+	.string "<F:00>いいな いいな<NL>この ヨロイ"
+
+id_300_subid_23_string39:
+	.string "<F:00>むずかしい本が ならんでいるな…"
+
 id_300_subid_24_string40:
 	.string "<F:04>後かたづけ しないと<NL>こんなことに なるのかぁ…"
 

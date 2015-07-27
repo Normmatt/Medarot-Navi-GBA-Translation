@@ -6,6 +6,9 @@
 .org 0x085FABAB
 	.word 0xE3|((id_266_subid_0_string2-0x08000000)<<8)
 
+.org 0x085FABD2
+	.word 0xE3|((id_266_subid_0_string3-0x08000000)<<8)
+
 .org 0x085FABEC
 	.word 0xE3|((id_266_subid_0_string4-0x08000000)<<8)
 
@@ -26,6 +29,9 @@
 
 .org 0x085FAC77
 	.word 0xE3|((id_266_subid_0_string10-0x08000000)<<8)
+
+.org 0x085FAC82
+	.word 0xE3|((id_266_subid_0_string11-0x08000000)<<8)
 
 .org 0x085FACA7
 	.word 0xE3|((id_266_subid_0_string12-0x08000000)<<8)
@@ -50,6 +56,9 @@
 
 .org 0x085FB5AA
 	.word 0xE3|((id_266_subid_0_string19-0x08000000)<<8)
+
+.org 0x085FB5C2
+	.word 0xE3|((id_266_subid_0_string20-0x08000000)<<8)
 
 .org 0x085FB5E4
 	.word 0xE3|((id_266_subid_0_string21-0x08000000)<<8)

@@ -6,6 +6,9 @@
 .org 0x085DD7F8
 	.word 0xE3|((id_251_subid_0_string2-0x08000000)<<8)
 
+.org 0x085DD80F
+	.word 0xE3|((id_251_subid_0_string3-0x08000000)<<8)
+
 .org 0x085DD822
 	.word 0xE3|((id_251_subid_0_string4-0x08000000)<<8)
 
@@ -41,4 +44,7 @@
 
 .org 0x085DD963
 	.word 0xE3|((id_251_subid_0_string15-0x08000000)<<8)
+
+.org 0x085DD983
+	.word 0xE3|((id_251_subid_0_string16-0x08000000)<<8)
 

@@ -1,7 +1,16 @@
 ; Medarot Navi Script 81 Pointers
 
+.org 0x0860FB28
+	.word 0xE3|((id_81_subid_0_string1-0x08000000)<<8)
+
 .org 0x0860FB37
 	.word 0xE3|((id_81_subid_0_string2-0x08000000)<<8)
+
+.org 0x0860FB7F
+	.word 0xE3|((id_81_subid_0_string3-0x08000000)<<8)
+
+.org 0x0860FBC8
+	.word 0xE3|((id_81_subid_0_string4-0x08000000)<<8)
 
 .org 0x0860FBD7
 	.word 0xE3|((id_81_subid_0_string5-0x08000000)<<8)
@@ -39,8 +48,17 @@
 .org 0x0860FD1B
 	.word 0xE3|((id_81_subid_5_string16-0x08000000)<<8)
 
+.org 0x0860FD22
+	.word 0xE3|((id_81_subid_5_string17-0x08000000)<<8)
+
 .org 0x0860FD37
 	.word 0xE3|((id_81_subid_5_string18-0x08000000)<<8)
+
+.org 0x0860FD63
+	.word 0xE3|((id_81_subid_5_string19-0x08000000)<<8)
+
+.org 0x0860FD6C
+	.word 0xE3|((id_81_subid_5_string20-0x08000000)<<8)
 
 .org 0x0860FC54
 	.word 0xE3|((id_81_subid_5_string21-0x08000000)<<8)

@@ -1,5 +1,8 @@
 ; Medarot Navi Script 204 Strings
 
+id_204_subid_2_string1:
+	.string "<F:00>こんなところで なにしてるの?<NL>スモッグ…<WAIT><F:75>ん… いや なに…<NL>なえを ちょっと な…"
+
 id_204_subid_2_string2:
 	.string "<F:04>なえ?"
 

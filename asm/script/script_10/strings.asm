@@ -1,5 +1,8 @@
 ; Medarot Navi Script 10 Strings
 
+id_10_subid_0_string1:
+	.string "<F:00>はやく 行かなきゃ!"
+
 id_10_subid_0_string2:
 	.string "<F:59>(こっちだよ)"
 
@@ -90,6 +93,9 @@ id_10_subid_0_string30:
 id_10_subid_0_string31:
 	.string "<F:1A>ウゥ・・・"
 
+id_10_subid_0_string32:
+	.string "<F:00>(まさか はじめての ロボトルに<NL> 勝って・・・)<WAIT>(それも れんしょうするなんて!)"
+
 id_10_subid_0_string33:
 	.string "<F:1A>スキあリでやんす!"
 
@@ -165,8 +171,14 @@ id_10_subid_0_string56:
 id_10_subid_0_string57:
 	.string "<F:5C>なによぉー"
 
+id_10_subid_0_string58:
+	.string "<F:00>きゅうこうしゃか・・・<NL><WAIT>ああいう 悪さ ばっかリしてる やつらは<NL>こういう ところが 好きなんだよな・・・"
+
 id_10_subid_0_string59:
 	.string "<F:04>あれ?<NL><WAIT>いつもは ここ<NL>ふさがっているのに・・・"
+
+id_10_subid_0_string60:
+	.string "<F:00>そうか あいつら やっぱリ<NL>ここに かくれてるんだな!"
 
 id_10_subid_0_string61:
 	.string "<F:03>あっ!<NL>"
@@ -183,11 +195,26 @@ id_10_subid_0_string64:
 id_10_subid_0_string65:
 	.string "<F:04>うーーーーーーーーーん・・・<NL><WAIT>でも 前から 7不思議の 正体を<NL>たしかめたかったんだよな・・・"
 
+id_10_subid_0_string66:
+	.string "<F:00>よし 行っちゃえ!<NL>"
+
 id_10_subid_0_string67:
 	.string "<F:0F>さっきの 少年・・・<NL>メダルが どうとか 言っていたが"
 
 id_10_subid_0_string68:
 	.string "<F:0F>この中に なにか かくされているのか?"
+
+id_10_subid_0_string69:
+	.string "<F:00>7不思議って・・・<NL><WAIT>よなかに だれも いないのに なる<NL>おんがく室の ピアノとか・・・"
+
+id_10_subid_0_string70:
+	.string "<F:00>不気味な 話が たくさん あるんだよな…<NL><WAIT>このこうしゃを いまだに とリこわさないのも<NL>"
+
+id_10_subid_0_string71:
+	.string "<F:00>業者の 人が 気味悪がって<NL>ひきうけないからだって 言うし・・・"
+
+id_10_subid_0_string72:
+	.string "<F:00>まさか… 本当に…"
 
 id_10_subid_13_string73:
 	.string "<F:59>こっちだよ…"
@@ -200,4 +227,25 @@ id_10_subid_13_string75:
 
 id_10_subid_13_string76:
 	.string "<F:01>えーい! 不思議で すませてるから<NL>不思議のままなんだ!<WAIT>当たって くだけろ!"
+
+id_10_subid_21_string77:
+	.string "<F:00>こわいけど メダルの ためだ<NL><WAIT>とリかえしに 行くぞ"
+
+id_10_subid_22_string78:
+	.string "<F:00>いろいろ はリがみが してある…<NL><WAIT>こうそくが きびしいのは<NL>むかしも 同じだな…"
+
+id_10_subid_23_string79:
+	.string "<F:00>このげたばこ…<NL>最後につかった人の名前が 残ってる…"
+
+id_10_subid_24_string80:
+	.string "<F:00>なんにんの せいとが 使ったんだろう…<NL><WAIT>ボロボロだな…"
+
+id_10_subid_28_string84:
+	.string "<F:00>『新こうしゃヘの 移転について』 …<NL><WAIT>…移転のときから<NL>時間が 止まってる みたいだ…"
+
+id_10_subid_30_string86:
+	.string "<F:00>『ろうかは はしるな!』か…<WAIT><F:02>かわらないな…"
+
+id_10_subid_31_string87:
+	.string "<F:00>ドアは ふさがれてて 入れないな…"
 

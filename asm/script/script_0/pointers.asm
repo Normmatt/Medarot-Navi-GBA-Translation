@@ -45,3 +45,6 @@
 .org 0x085D8C94
 	.word 0xE3|((id_0_subid_16_string16-0x08000000)<<8)
 
+.org 0x085D8C89
+	.word 0xE3|((id_0_subid_18_string18-0x08000000)<<8)
+

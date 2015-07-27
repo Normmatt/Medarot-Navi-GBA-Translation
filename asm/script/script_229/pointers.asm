@@ -1,5 +1,8 @@
 ; Medarot Navi Script 229 Pointers
 
+.org 0x08626670
+	.word 0xE3|((id_229_subid_0_string1-0x08000000)<<8)
+
 .org 0x08626698
 	.word 0xE3|((id_229_subid_0_string2-0x08000000)<<8)
 
@@ -8,6 +11,9 @@
 
 .org 0x0862675F
 	.word 0xE3|((id_229_subid_0_string4-0x08000000)<<8)
+
+.org 0x08626793
+	.word 0xE3|((id_229_subid_0_string5-0x08000000)<<8)
 
 .org 0x086267BA
 	.word 0xE3|((id_229_subid_0_string6-0x08000000)<<8)
@@ -42,6 +48,9 @@
 .org 0x0862690F
 	.word 0xE3|((id_229_subid_0_string16-0x08000000)<<8)
 
+.org 0x08626951
+	.word 0xE3|((id_229_subid_0_string17-0x08000000)<<8)
+
 .org 0x0862698D
 	.word 0xE3|((id_229_subid_0_string18-0x08000000)<<8)
 
@@ -63,8 +72,14 @@
 .org 0x08626A24
 	.word 0xE3|((id_229_subid_0_string24-0x08000000)<<8)
 
+.org 0x08626A3B
+	.word 0xE3|((id_229_subid_0_string25-0x08000000)<<8)
+
 .org 0x08626A5C
 	.word 0xE3|((id_229_subid_0_string26-0x08000000)<<8)
+
+.org 0x08626A7F
+	.word 0xE3|((id_229_subid_0_string27-0x08000000)<<8)
 
 .org 0x08626AAA
 	.word 0xE3|((id_229_subid_0_string28-0x08000000)<<8)

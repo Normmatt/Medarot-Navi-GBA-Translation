@@ -51,6 +51,9 @@ id_116_subid_21_string16:
 id_116_subid_21_string17:
 	.string "<F:03>おい あれ…<WAIT><F:08>ヤバイ! かくれて!"
 
+id_116_subid_21_string18:
+	.string "<F:00>あれは 間違いなく…<WAIT><F:05>またしても スペースロボロボ団!?<WAIT><F:05>それに いっしょにいるのは うちの男子だわ<WAIT><F:01>なにを たくらんでるんだろう?<NL>このまま 様子を 見てみよう…"
+
 id_116_subid_21_string19:
 	.string "<F:05>それにしても なにあれ?<NL>幹部かしら・・・<WAIT>あの ハデな ダサイカッコした人…"
 
@@ -149,4 +152,7 @@ id_116_subid_21_string50:
 
 id_116_subid_21_string51:
 	.string "<F:49>ライウが なかまに なった!<NL><WAIT><F:4A>ハロウが なかまに なった!<NL><WAIT><F:4B>キコウが なかまに なった!"
+
+id_116_subid_22_string52:
+	.string "<F:00>先に 進まなきゃ"
 

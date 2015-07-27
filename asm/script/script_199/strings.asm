@@ -9,6 +9,9 @@ id_199_subid_3_string2:
 id_199_subid_3_string3:
 	.string "<F:6C><PLAYER>でごわすか!"
 
+id_199_subid_3_string4:
+	.string "<F:00>こんなところで なにしてるの?<NL>アジトで 木星に 行ったんじゃないの?"
+
 id_199_subid_3_string5:
 	.string "<F:6C>行くでごわす!<NL><WAIT>が おいどんは まだまだでごわす!<NL>特訓が 足らんでごわす!"
 

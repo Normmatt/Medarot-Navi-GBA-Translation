@@ -3,6 +3,9 @@
 id_256_subid_0_string1:
 	.string "<F:7D>ふぅ みんな おそいロボ<NL><WAIT>こんなときに <PLAYER>が<NL>きたら どうするロボ…"
 
+id_256_subid_0_string2:
+	.string "<F:00>ん? ひとリしか いないの?<NL>"
+
 id_256_subid_0_string3:
 	.string "<F:80>き きたロボ!"
 
@@ -17,6 +20,9 @@ id_256_subid_0_string6:
 
 id_256_subid_0_string7:
 	.string "<F:81>(どうするロボ…<NL> 考えるロボ)"
+
+id_256_subid_0_string8:
+	.string "<F:00>いいじゃないか<NL><WAIT>ブロックを かえしてもらえば<NL>もんだいないんだし…"
 
 id_256_subid_0_string9:
 	.string "<F:06>なに いってるのよ!<NL><WAIT>こいつら なんか<NL>コテンパンに しちゃえばいいのよ!"

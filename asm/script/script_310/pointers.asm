@@ -63,6 +63,9 @@
 .org 0x08608950
 	.word 0xE3|((id_310_subid_0_string21-0x08000000)<<8)
 
+.org 0x08608970
+	.word 0xE3|((id_310_subid_0_string22-0x08000000)<<8)
+
 .org 0x08608999
 	.word 0xE3|((id_310_subid_0_string23-0x08000000)<<8)
 
@@ -101,6 +104,9 @@
 
 .org 0x08608AD1
 	.word 0xE3|((id_310_subid_0_string35-0x08000000)<<8)
+
+.org 0x08608AE0
+	.word 0xE3|((id_310_subid_0_string36-0x08000000)<<8)
 
 .org 0x08608AF0
 	.word 0xE3|((id_310_subid_0_string37-0x08000000)<<8)

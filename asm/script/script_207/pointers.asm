@@ -12,6 +12,9 @@
 .org 0x08600680
 	.word 0xE3|((id_207_subid_12_string6-0x08000000)<<8)
 
+.org 0x08600694
+	.word 0xE3|((id_207_subid_12_string7-0x08000000)<<8)
+
 .org 0x086006BA
 	.word 0xE3|((id_207_subid_12_string8-0x08000000)<<8)
 
@@ -26,4 +29,7 @@
 
 .org 0x08600740
 	.word 0xE3|((id_207_subid_12_string12-0x08000000)<<8)
+
+.org 0x0860075E
+	.word 0xE3|((id_207_subid_15_string31-0x08000000)<<8)
 

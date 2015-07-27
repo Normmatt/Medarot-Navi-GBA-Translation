@@ -33,3 +33,6 @@ id_152_subid_11_string11:
 id_152_subid_11_string12:
 	.string "<F:7A>また とリもどすからな!<NL>"
 
+id_152_subid_21_string13:
+	.string "<F:00>はやく とリもどそうよ"
+

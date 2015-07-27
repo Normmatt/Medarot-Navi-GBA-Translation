@@ -33,6 +33,9 @@ id_216_subid_0_string10:
 id_216_subid_0_string11:
 	.string "<F:80><PLAYER>!?"
 
+id_216_subid_0_string12:
+	.string "<F:00>いっちばんのリー!"
+
 id_216_subid_0_string13:
 	.string "<F:05>ったく 子供なんだからー… あら?"
 
@@ -48,8 +51,14 @@ id_216_subid_0_string16:
 id_216_subid_0_string17:
 	.string "<F:81>ま… 負けたロボ… おかしいロボ…<NL><WAIT>こんな チビで はくリょくのない 中学生に<NL>負けるなんてロボ!"
 
+id_216_subid_0_string18:
+	.string "<F:00>見た目 なんて ロボトルに<NL>関係ないんじゃない?"
+
 id_216_subid_0_string19:
 	.string "<F:7D>そんな事 ないロボ!<NL><WAIT>ニュウドウ様なんて 負けそうに なると<NL>すごい ぎょうそうで<WAIT>こっちを にらむロボ!<NL><WAIT>アレで つい 手もとが<NL>くるってしまうロボ!"
+
+id_216_subid_0_string20:
+	.string "<F:00>…それ やっぱリ 関係ないよ…"
 
 id_216_subid_0_string21:
 	.string "<F:7D>(今の うちに にげるロボ…)<NL><WAIT>(見かけに よらず 強かったから<NL> 見かけに よらず 人じゃないかもロボ)"

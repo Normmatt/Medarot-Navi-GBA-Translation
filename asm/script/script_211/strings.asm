@@ -48,8 +48,14 @@ id_211_subid_0_string15:
 id_211_subid_0_string16:
 	.string "<F:06>な! なんですってぇ!"
 
+id_211_subid_0_string17:
+	.string "<F:00>まぁまぁ ヒヨリ<NL><WAIT>でもさ フブキ そのしおリが ほしいって<NL>ひょっとして… 知リ合いか なにかの…"
+
 id_211_subid_0_string18:
 	.string "<F:0E>ごめん <PLAYER>…<NL>今は・・・<WAIT><F:0A>でも これだけは 言える<NL><WAIT>このちかくに<NL>かなリ 強い メダロッターが いる<WAIT>気をつけないと…<WAIT><F:00>わかった<NL>"
+
+id_211_subid_0_string19:
+	.string "<F:00>みんな フブキの言う通リ<NL>気を 引きしめて いこうぜ!<WAIT><F:05>ヘーんなの"
 
 id_211_subid_0_string20:
 	.string "<F:1D>リーダー…<NL>なにか かくしてるでやんすか…"
@@ -107,6 +113,9 @@ id_211_subid_0_string37:
 
 id_211_subid_0_string38:
 	.string "<F:21>そ…そんなもの… もう いリませんの!"
+
+id_211_subid_0_string39:
+	.string "<F:00>フブキ… あの子の 知リ合いなの?"
 
 id_211_subid_0_string40:
 	.string "<F:06>なに のんきな事 言ってるの!<NL><WAIT>あの レイニーって子 かわいい顔してるけど<NL>いきなリ わたしを おそってきたのよ!<WAIT>フブキは あの子の 仲間なのかも…<NL>"

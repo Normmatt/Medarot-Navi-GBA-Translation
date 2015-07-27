@@ -1,5 +1,8 @@
 ; Medarot Navi Script 154 Strings
 
+id_154_subid_7_string1:
+	.string "<F:00>たるの上に かみ切れが 落ちてる!"
+
 id_154_subid_7_string2:
 	.string "<F:57>ふたつめのパスワード 『つ』"
 

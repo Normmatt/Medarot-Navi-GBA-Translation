@@ -33,3 +33,6 @@
 .org 0x08604616
 	.word 0xE3|((id_152_subid_11_string12-0x08000000)<<8)
 
+.org 0x08604626
+	.word 0xE3|((id_152_subid_21_string13-0x08000000)<<8)
+

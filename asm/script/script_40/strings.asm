@@ -18,6 +18,9 @@ id_40_subid_0_string5:
 id_40_subid_0_string6:
 	.string "<F:02>やっと 手に 入れたんだもんな!<NL><WAIT>いえに 帰るまで 待ちきれないよ<NL><WAIT>ここで 組み立てちゃお!"
 
+id_40_subid_0_string7:
+	.string "<F:00>まずはメダロッチ…<NL><WAIT>こいつで メダロットを 管理したリ<NL>命令したリ するんだよな…<WAIT>オレの 名前を とうろくしとかなくちゃ!"
+
 id_40_subid_0_string8:
 	.string "<F:02>よし!"
 
@@ -32,6 +35,12 @@ id_40_subid_0_string11:
 
 id_40_subid_0_string12:
 	.string "<F:05>これ いいでしょ?"
+
+id_40_subid_0_string13:
+	.string "<F:00>なんだ? それ<WAIT><F:05>超高性能電子オペラグラス<NL>『ミエミエくん』よ<WAIT>してんモードの 切リかえで<NL>くらやみの 中でも<WAIT>300M先の せんたく物まで<NL>見えちゃうのよ!"
+
+id_40_subid_0_string14:
+	.string "<F:00>また 通販で みょうな もの かったんだな<WAIT><F:06>みょうな ものとは なによ!<NL>しつれいなヤツ!"
 
 id_40_subid_0_string15:
 	.string "<F:03>いで いで いでで!"
@@ -86,4 +95,7 @@ id_40_subid_0_string31:
 
 id_40_subid_0_string32:
 	.string "<F:03>ちょっ・・・ ちょっと<NL>待てよ ヒヨリ!"
+
+id_40_subid_16_string33:
+	.string "<F:00>ひとごみが できてるなぁ…"
 

@@ -3,8 +3,14 @@
 id_5_subid_0_string1:
 	.string "<F:3A>今度行く 宇宙ステーション クラスターには<NL>どうくつで <PLAYER>が 見つけた<WAIT>メダロットも 展示されてるんでしょ"
 
+id_5_subid_0_string2:
+	.string "<F:00>うん いっしょに見つけた シデンさんは<NL><WAIT>クラスターを作った ロボトルリサーチ社が<NL>運えいしている ランキング戦で<WAIT>ずっと トップの 人気メダロッターだからね<NL><WAIT>くわしく 調ベてもらうように<NL>すすめられたんだ"
+
 id_5_subid_0_string3:
 	.string "<F:2E>おかげで あたいたち全員<NL>あの 宇宙テーマパーク<WAIT>『クラスター』の プレミアオープンに<NL>しょうたい されたんだね"
+
+id_5_subid_0_string4:
+	.string "<F:00>ロボトルリサーチ社は<NL>メダロッターの ランキングだけじゃなくて<WAIT>パーツの性能や<NL>メダロッターのこじんデータ・・・・<WAIT>メダロットに関する 全てのデータを<NL>調ベているからね<WAIT>もしかしたら メダロットの 秘密が<NL>わかるかもしれない 大発見だって<WAIT><F:02>すごく かんしゃされちゃったよ"
 
 id_5_subid_0_string5:
 	.string "<F:36><PLAYER>くん すごいわね!<NL><WAIT>新聞に とリ上げられて<NL>すっかリ ゆうめい人だものー!"
@@ -32,6 +38,9 @@ id_5_subid_0_string12:
 
 id_5_subid_0_string13:
 	.string "<F:04>このてがみ だれからのだろう?<WAIT><F:02>・・・やっぱリ 女の子だったリして!?"
+
+id_5_subid_0_string14:
+	.string "<F:00>ん?"
 
 id_5_subid_0_string15:
 	.string "<F:03>わーーーー! ケムシだーーーー!"
@@ -66,6 +75,9 @@ id_5_subid_0_string24:
 id_5_subid_0_string25:
 	.string "<F:03>(なんで オレが あやまるんだよー)"
 
+id_5_subid_0_string26:
+	.string "<F:00>えーっと・・・<NL>わすれ物は・・・"
+
 id_5_subid_0_string27:
 	.string "<F:06>なに やってんのよ もう!<NL><WAIT>先に 行ってるわよ!"
 
@@ -77,6 +89,9 @@ id_5_subid_7_string29:
 
 id_5_subid_49_string30:
 	.string "<F:22><PLAYER>くん ちょっと いいかね?"
+
+id_5_subid_49_string31:
+	.string "<F:00>な なにか用?"
 
 id_5_subid_49_string32:
 	.string "<F:07><PLAYER>は どこに 行ったの?"

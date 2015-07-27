@@ -45,3 +45,6 @@ id_0_subid_9_string15:
 id_0_subid_16_string16:
 	.string "<F:77>おわリっ!"
 
+id_0_subid_18_string18:
+	.string "<F:00><F5>ぅわあ!<NL>"
+

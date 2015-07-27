@@ -24,6 +24,9 @@ id_232_subid_0_string7:
 id_232_subid_0_string8:
 	.string "<F:7D>ま 前よリ ひどいロボ!"
 
+id_232_subid_0_string9:
+	.string "<F:00>あれ?<NL>なんか しんきくさいな<WAIT><F:00>この あいだ スッキリしたんじゃ・・・"
+
 id_232_subid_0_string10:
 	.string "<F:7E>この かなしみも<NL>おまえたちに ぶつけるロボ"
 
@@ -32,4 +35,7 @@ id_232_subid_0_string11:
 
 id_232_subid_0_string12:
 	.string "<F:0A>やられに 来るのか?"
+
+id_232_subid_0_string13:
+	.string "<F:00>さぁ・・・"
 

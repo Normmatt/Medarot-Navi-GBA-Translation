@@ -105,6 +105,9 @@ id_96_subid_0_string34:
 id_96_subid_0_string35:
 	.string "<F:01>転送! <MEDAROT1><NL>ロープを 切れ!"
 
+id_96_subid_0_string36:
+	.string "<F:00>だいじょうぶかい?"
+
 id_96_subid_0_string37:
 	.string "<F:3D>ふん よけいなこと しやがって…<NL><WAIT>あれぐらい 自分たちで なんとか できたさ"
 
@@ -116,6 +119,9 @@ id_96_subid_0_string39:
 
 id_96_subid_0_string40:
 	.string "<F:0B>なにぃ!"
+
+id_96_subid_0_string41:
+	.string "<F:00>別に いいよ<NL><WAIT>これから 力を 合わせて<NL>がんばっていけば いいんだから…"
 
 id_96_subid_0_string42:
 	.string "<F:3D>おまえの 力なんか かリなくても<NL>オレたちは オレたちで 勝手に やるさ<WAIT><PLAYER>に さしずされる<NL>おぼえはねぇ"
@@ -131,6 +137,9 @@ id_96_subid_0_string45:
 
 id_96_subid_0_string46:
 	.string "<F:0B>なんだとぉ!"
+
+id_96_subid_0_string47:
+	.string "<F:00>どうしたら 言うことを 聞くんだ"
 
 id_96_subid_0_string48:
 	.string "<F:3D>はっ しかたねえな<NL>オレたちと ロボトルで 勝負しろ<WAIT>それで 勝ったら 認めてやるよ<NL>オレたちが 実力を ためしてやる"
@@ -194,6 +203,9 @@ id_96_subid_0_string67:
 
 id_96_subid_0_string68:
 	.string "<F:3D>ははは きついなぁ コハルビさんは"
+
+id_96_subid_0_string69:
+	.string "<F:00>でも 本当は こんなもんじゃ…<NL>"
 
 id_96_subid_0_string70:
 	.string "<F:03>ぐふっ…"

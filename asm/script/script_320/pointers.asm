@@ -72,3 +72,9 @@
 .org 0x085F71BE
 	.word 0xE3|((id_320_subid_0_string24-0x08000000)<<8)
 
+.org 0x085F7219
+	.word 0xE3|((id_320_subid_0_string25-0x08000000)<<8)
+
+.org 0x085F71DA
+	.word 0xE3|((id_320_subid_11_string26-0x08000000)<<8)
+

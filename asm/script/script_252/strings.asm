@@ -24,3 +24,6 @@ id_252_subid_0_string7:
 id_252_subid_0_string8:
 	.string "<F:81>お おかしいロボ…<NL>とっくんの せいかが あらわれないロボ…"
 
+id_252_subid_0_string9:
+	.string "<F:00>かくれんぼ じゃね"
+

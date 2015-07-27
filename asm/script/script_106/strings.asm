@@ -6,8 +6,14 @@ id_106_subid_0_string1:
 id_106_subid_0_string2:
 	.string "<F:08>これは・・・!"
 
+id_106_subid_0_string3:
+	.string "<F:00>どうしたの? ヒヨリ<NL>"
+
 id_106_subid_0_string4:
 	.string "<F:04>メダロッターランキングの データか…<NL>"
+
+id_106_subid_0_string5:
+	.string "<F:00>これが どうかしたの?"
 
 id_106_subid_0_string6:
 	.string "<F:06>もっと ちゃんと 見て! <PLAYER>"
@@ -159,6 +165,9 @@ id_106_subid_0_string54:
 id_106_subid_0_string55:
 	.string "<F:06>待ちなさいよっ!"
 
+id_106_subid_0_string56:
+	.string "<F:00>ヒヨリ…"
+
 id_106_subid_0_string57:
 	.string "<F:06>なによっ?"
 
@@ -192,6 +201,9 @@ id_106_subid_0_string66:
 id_106_subid_0_string67:
 	.string "<F:19>さっきまで あっしらと<NL>いっしょだったでやんすけど ねぇ<WAIT><F:14>おまえらなら 知っとるかと 思って"
 
+id_106_subid_0_string68:
+	.string "<F:00>オレは 見なかったけど<WAIT><F:05>わたしも 見てないわ"
+
 id_106_subid_0_string69:
 	.string "<F:11>これは これは…<NL><WAIT>ずいぶんと お仲間が ふえたようだね"
 
@@ -206,6 +218,9 @@ id_106_subid_0_string72:
 
 id_106_subid_0_string73:
 	.string "<F:11>ちょっとした ゲームだ<NL><WAIT>ここの せっかくの システムを<NL>使ってみるのも 悪くないかと 思ってね"
+
+id_106_subid_0_string74:
+	.string "<F:00>それは?"
 
 id_106_subid_0_string75:
 	.string "<F:0F>『ロッチボール』さ<NL><WAIT>AIと メダロッチが ないぞう されていて<NL><WAIT>ロボトルの時に メダロットに<NL>命令を あたえることが できる<WAIT>制御できるのは 1コの ロッチボールにつき<NL>1体の メダロットだ<WAIT>・・・AIメダロッターとでも よぼうか<NL><WAIT>それじゃあ RR社の<NL>大会でさいようしている<WAIT>こうしきルールに もとづき<NL>5対5で ロボトルを 行うとしよう<WAIT><F:11>ボクは ひとリだから<NL>4コの ロッチボールを 使わせて もらう<WAIT>かまわないな?"
@@ -312,6 +327,9 @@ id_106_subid_0_string108:
 id_106_subid_0_string109:
 	.string "<F:53>いえ・・・<NL><WAIT>ゲストの きゅうしゅつは<NL>さいゆうせんじこうです<WAIT>しかし きゅうしゅつ作業は<NL>クラスターの じゅうぎょう員が…"
 
+id_106_subid_0_string110:
+	.string "<F:00>じゃあ オレたちを リんじの<NL>じゅうぎょう員に すれば いいんだよ!<WAIT><F:53>それは…"
+
 id_106_subid_0_string111:
 	.string "<F:08>そうだ! <PLAYER><NL><MEDAROT1>を 転送して!<WAIT><F:03>え? ああ…うん"
 
@@ -345,14 +363,23 @@ id_106_subid_0_string120:
 id_106_subid_0_string121:
 	.string "<F:03>あっ あなたは…<NL>メダロットの けんい メダロット博士!?<WAIT><F:8E>うむ… キミの 名前は?"
 
+id_106_subid_0_string122:
+	.string "<F:00><PLAYER>です<NL><WAIT>クラスターに とじこめられた クラスの<NL>リんじクラス委員長を…<WAIT><F:03>あっ!<WAIT><F:00>それと 今 さっき このクラスターの<NL>リんじの じゅうぎょう員になリました!<WAIT><F:8F>リんじ?<NL>…まあいい…<WAIT><F:8E>こちらは メダロットけんきゅう所じゃ<NL>大変な 状況に なっておるのう・・・<WAIT>けんきゅうのため<NL>うちは RR社に 協力を もとめておっての<WAIT>特別な 通信システムによリ<NL>リンクしておる<WAIT>どうやら この回線だけは<NL>そちらと 通信できるようじゃ…"
+
 id_106_subid_0_string123:
 	.string "<F:04>博士… そのRR社なんですが…<WAIT><F:8E>うむ・・・ どうやら<NL>少々 あやしい事を しておるらしいのう…<WAIT>この通信は しばらく<NL><WAIT>RR社には ふせておく 必要が<NL>あるようじゃ<WAIT><F:00>はい そうしてください<WAIT><F:8E>そちらの 状況は<NL>ナビの ほうこくで はあくしたぞ<WAIT>気になるのは<NL>アクセスの できない ブロックじゃ!<WAIT>クラスターが ひょうリゅうしてしまったのは<NL>なに者かが きどうしゅうせい用エンジンを<WAIT>ふんしゃさせたのが げんいんのようなんじゃが<NL><WAIT><F:8F>ふんしゃさせた なに者かが<NL>まだ ひそんでいるはずじゃ<WAIT><F:00>やっぱリ ひょうリゅうは じこじゃなくて<NL>だれかの しわざだったんですね!<WAIT><F:8E>しかし まぁ…<NL><WAIT>全体の コントロールは<NL>もどらなかったにせよ<WAIT>これで クラスターの 機能の ほとんどは<NL>使えるように なったはずじゃ<WAIT>こちらからも サポートするので<NL><WAIT>キミらには ひとつ<NL>がんばって もらいたいの じゃが…"
+
+id_106_subid_0_string124:
+	.string "<F:00>分かリました!<NL>あリがとうございます 博士<WAIT><F:8E>とリあえず その部屋には<NL>メダルと ティンペットが ある<WAIT>それを 使って 戦力に すると いい<WAIT><F:00>はい!"
 
 id_106_subid_0_string125:
 	.string "<F:8E>それと・・・<NL><WAIT>ここから 先には メダロットを 開発できる<NL>『ルーム』が いくつかあるんじゃ<WAIT>仲間を 配置して せつびを 動かせば<NL>開発中の パーツが 手に入るはずじゃ<WAIT>それも使うと いいじゃろう<WAIT><F:00>最新の パーツって わけですね!<NL>たすかリます!"
 
 id_106_subid_0_string126:
 	.string "<F:19>リーダー!<WAIT><F:14>探しましたで!"
+
+id_106_subid_0_string127:
+	.string "<F:00>フブキ どこ 行ってたんだよ?"
 
 id_106_subid_0_string128:
 	.string "<F:0A>別に・・・<NL><WAIT>調ベものを してただけさ<NL><WAIT>クラスターの コントロールを<NL>とリもどす ほうほうを<WAIT>けんさくしてみたけど<NL><WAIT><F:0E>やっぱリ うつ手無し みたいだ"
@@ -371,6 +398,9 @@ id_106_subid_0_string132:
 
 id_106_subid_0_string133:
 	.string "<F:05>あら はなびらじゃない?<NL>どうして こんな ところに?"
+
+id_106_subid_0_string134:
+	.string "<F:00>ねぇ どうしたのフブキ…<NL>はやく 行こうよ"
 
 id_106_subid_0_string135:
 	.string "<F:0D>あ… ああ…"

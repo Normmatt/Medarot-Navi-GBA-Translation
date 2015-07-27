@@ -3,6 +3,9 @@
 .org 0x086037F4
 	.word 0xE3|((id_137_subid_0_string1-0x08000000)<<8)
 
+.org 0x086037FF
+	.word 0xE3|((id_137_subid_0_string2-0x08000000)<<8)
+
 .org 0x0860398F
 	.word 0xE3|((id_137_subid_2_string3-0x08000000)<<8)
 
@@ -44,4 +47,7 @@
 
 .org 0x0860394E
 	.word 0xE3|((id_137_subid_11_string16-0x08000000)<<8)
+
+.org 0x0860396F
+	.word 0xE3|((id_137_subid_16_string57-0x08000000)<<8)
 

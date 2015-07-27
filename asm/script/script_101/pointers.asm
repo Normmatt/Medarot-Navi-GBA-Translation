@@ -45,6 +45,9 @@
 .org 0x086060CD
 	.word 0xE3|((id_101_subid_9_string15-0x08000000)<<8)
 
+.org 0x086060ED
+	.word 0xE3|((id_101_subid_9_string16-0x08000000)<<8)
+
 .org 0x086060FC
 	.word 0xE3|((id_101_subid_9_string17-0x08000000)<<8)
 
@@ -101,4 +104,7 @@
 
 .org 0x08605D15
 	.word 0xE3|((id_101_subid_9_string35-0x08000000)<<8)
+
+.org 0x0860649A
+	.word 0xE3|((id_101_subid_10_string36-0x08000000)<<8)
 

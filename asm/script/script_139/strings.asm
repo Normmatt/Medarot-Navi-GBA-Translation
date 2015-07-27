@@ -45,3 +45,6 @@ id_139_subid_7_string38:
 id_139_subid_7_string39:
 	.string "<F:04>・・・?<NL>なに これ?"
 
+id_139_subid_9_string40:
+	.string "<F:00>ブキミな どうぞう・・・<NL><WAIT>なんか にらまれてるようで 怖いな"
+
