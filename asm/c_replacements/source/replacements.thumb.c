@@ -194,9 +194,9 @@ s32 DrawString(struct_string *current_string)
 				current_string->string_pointer = 0;
 				return 0;
 			}
-			case 0xF4: //??
+			case 0xF4: //Clear String Pointer and Clear tiles
 			{
-				current_string->string_pointer = 0;
+				current_string->info.bytes.tile = 0;
 				ClearTiles((void *)0x6000B40, 64, v30018F0);
 				return 0;
 			}
